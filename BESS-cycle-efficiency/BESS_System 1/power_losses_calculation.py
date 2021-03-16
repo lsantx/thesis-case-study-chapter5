@@ -1,3 +1,4 @@
+# %%
 import matlab.engine
 import parameters as param
 import scipy.io
@@ -25,13 +26,11 @@ print("Dc-link loss calculation...")
 plosses_dc_link = []
 plosses_calc = []
 count = 0
-np.reshape(i_cap, (19, 1))
-print(i_cap.shape)
 for i in range(0, len(i_cap)):
     ic = matlab.double(list(i_cap[i]))
 
     amplitude, frequency = eng.THD(
-        ic, float(2), float(200), float(0), float(param.ts), float(param.fn)
+        ic, float(1), float(3000), float(0), float(param.ts), float(param.fn)
     )
 
     # plt.bar(frequency[0], amplitude[0])
@@ -62,9 +61,9 @@ for i in range(0, len(i_cap)):
 
     plosses_calc.append(sum(plosses_freq))
 
-plosses_calc = np.array(plosses_calc)
-plosses_dc_link = np.reshape(plosses_calc, (10, 10))
+plosses_dc_link = np.array(plosses_calc)
 
+# %%
 # # Cálculo das perdas magnéticas nos indutores do filtro LCL
 # print("Core loss calculation: inverter side inductor of the LCL filter...")
 

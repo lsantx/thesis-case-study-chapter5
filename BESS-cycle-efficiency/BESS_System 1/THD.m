@@ -24,6 +24,6 @@ end
 THD_c = sqrt(THD_c)/tensao(1)*100;
 d_IEEE = THD_c;
 
-Result = {freq,tensao,d_IEEE} ;
+Result = {tensao, freq};
 
 end
