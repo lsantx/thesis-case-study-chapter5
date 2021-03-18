@@ -35,7 +35,6 @@ for i in range(0, len(i_cap)):
 
     # plt.bar(frequency[0], amplitude[0])
     # plt.show()
-
     def func_fit(x, a, b, c):
         return a * np.float_power(x, b) + c
 
@@ -85,7 +84,9 @@ bg_ac = np.array(
     ]
 )
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binv))])
-plosses_core_linv_lcl = 3 * np.reshape(core_loss * param.vn * 1e-9, (10, 10))  # Perdas em W
+plosses_core_linv_lcl = 3 * np.reshape(
+    core_loss * param.vn * 1e-9, (10, 10)
+)  # Perdas em W
 
 print("\nCore loss calculation: grid side inductor of the LCL filter...")
 bg_ac = np.array(
@@ -95,7 +96,9 @@ bg_ac = np.array(
     ]
 )
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
-plosses_core_lg_lcl = 3 * np.reshape(core_loss * param.vn * 1e-9, (10, 10))  # Perdas em W
+plosses_core_lg_lcl = 3 * np.reshape(
+    core_loss * param.vn * 1e-9, (10, 10)
+)  # Perdas em W
 
 print("\nCopper loss calculation: resistors of the LCL filter...")
 plosses_copper_lcl = pcp_ind_lcl
@@ -103,10 +106,10 @@ plosses_copper_lcl = pcp_ind_lcl
 print("ESR loss calculation: capacitors of the LCL filter...")
 plosses_esr_lcl = pcp_ind_lcl
 
-print("Conduction loss calculation: Inverter switches...")
+print("Conduction loss calculation: inverter switches...")
 plosses_cond_inv = pswitches_inv_cond
 
-print("Switching loss calculation: Inverter switches...")
+print("Switching loss calculation: inverter switches...")
 plosses_switch_inv = pswitches_inv_sw
 
 print("Total power losses calculation...")

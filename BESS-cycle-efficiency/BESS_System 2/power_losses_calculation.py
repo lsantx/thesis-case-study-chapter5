@@ -23,8 +23,12 @@ pswitches_inv_sw = np.array(
 )
 i_cap = np.array(scipy.io.loadmat("I_cap.mat").get("I_cap"))
 pbat = np.array(scipy.io.loadmat("Pot_bat.mat").get("Pot_bat"))
-pswitches_conv_cc_cond = np.array(scipy.io.loadmat("Pchaves_conv_cc_cond.mat").get("Pchaves_conv_cc_cond"))
-pswitches_conv_cc_sw = np.array(scipy.io.loadmat("Pchaves_conv_cc_sw.mat").get("Pchaves_conv_cc_sw"))
+pswitches_conv_cc_cond = np.array(
+    scipy.io.loadmat("Pchaves_conv_cc_cond.mat").get("Pchaves_conv_cc_cond")
+)
+pswitches_conv_cc_sw = np.array(
+    scipy.io.loadmat("Pchaves_conv_cc_sw.mat").get("Pchaves_conv_cc_sw")
+)
 Pcp_inter1 = np.array(scipy.io.loadmat("Pcp_ind_bt.mat").get("Pcp_ind_bt"))
 binter1 = np.array(scipy.io.loadmat("Bind1.mat").get("Bind1"))
 
@@ -42,7 +46,6 @@ for i in range(0, len(i_cap)):
 
     # plt.bar(frequency[0], amplitude[0])
     # plt.show()
-
     def func_fit(x, a, b, c):
         return a * np.float_power(x, b) + c
 
@@ -120,11 +123,20 @@ plosses_copper_lcl = pcp_ind_lcl
 print("ESR loss calculation: capacitors of the LCL filter...")
 plosses_esr_lcl = pcp_ind_lcl
 
-print("Conduction loss calculation: Inverter switches...")
+print("\nCopper loss calculation: interleaved inductor of the dc/dc converter...")
+plosses_copper_inter1 = Pcp_inter1
+
+print("Conduction loss calculation: inverter switches...")
 plosses_cond_inv = pswitches_inv_cond
 
-print("Switching loss calculation: Inverter switches...")
+print("Switching loss calculation: inverter switches...")
 plosses_switch_inv = pswitches_inv_sw
+
+print("Conduction loss calculation: interleaved switches...")
+plosses_cond_inter1 = pswitches_conv_cc_cond
+
+print("Switching loss calculation: interleaved switches...")
+plosses_switch_inter1 = pswitches_conv_cc_sw
 
 print("Total power losses calculation...")
 total_power_losses = (
@@ -135,6 +147,10 @@ total_power_losses = (
     + plosses_esr_lcl
     + plosses_cond_inv
     + plosses_switch_inv
+    + plosses_core_inter1
+    + plosses_copper_inter1
+    + plosses_cond_inter1
+    + plosses_switch_inter1
 )
 
 print("Efficiency calculation...")

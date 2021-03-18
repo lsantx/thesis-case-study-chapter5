@@ -106,10 +106,10 @@ plosses_copper_lcl = pcp_ind_lcl
 print("ESR loss calculation: capacitors of the LCL filter...")
 plosses_esr_lcl = pcp_ind_lcl
 
-print("Conduction loss calculation: Inverter switches...")
+print("Conduction loss calculation: inverter switches...")
 plosses_cond_inv = pswitches_inv_cond
 
-print("Switching loss calculation: Inverter switches...")
+print("Switching loss calculation: inverter switches...")
 plosses_switch_inv = pswitches_inv_sw
 
 print("Total power losses calculation...")
