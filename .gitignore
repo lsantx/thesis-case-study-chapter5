@@ -7,6 +7,8 @@ BESS-*/BESS_System*/.vscode
 BESS-*/BESS_System*/__pycache__/
 BESS-*/BESS_System*/Proj_ind_interleaved/
 BESS-*/BESS_System*/*.plecs.autosave
+BESS-*/BESS_System*/c_scripts/*.insyncdl
+*.insyncdl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
