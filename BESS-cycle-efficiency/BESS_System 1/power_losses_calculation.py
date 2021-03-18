@@ -5,8 +5,7 @@ import scipy.io
 from scipy.optimize import curve_fit
 import numpy as np
 import json
-import matplotlib.pyplot as plt
-from matplotlib.widgets import Cursor
+# import matplotlib.pyplot as plt
 
 # Carrega os arquivos .m
 eng = matlab.engine.start_matlab()
@@ -137,7 +136,7 @@ efficiency = ((1 - total_power_losses / pbat) * 100)[0]
 # fig.suptitle('This is a somewhat long figure title', fontsize=16)
 
 print("Save json file...")
-with open("efficiency_bess2.json", "w") as arquivo:
+with open("efficiency_bess1.json", "w") as arquivo:
     efficiency_list = efficiency.tolist()
     json.dump(efficiency_list, arquivo)
 
