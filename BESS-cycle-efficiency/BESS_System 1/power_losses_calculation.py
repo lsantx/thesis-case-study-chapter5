@@ -5,6 +5,8 @@ import scipy.io
 from scipy.optimize import curve_fit
 import numpy as np
 import json
+import matplotlib.pyplot as plt
+from matplotlib.widgets import Cursor
 
 # Carrega os arquivos .m
 eng = matlab.engine.start_matlab()
@@ -122,11 +124,22 @@ total_power_losses = (
 )
 
 print("Efficiency calculation...")
-efficiency = (1 - total_power_losses / pbat) * 100
-print(efficiency)
+efficiency = ((1 - total_power_losses / pbat) * 100)[0]
 
-# with open("total_losses.json", "w") as arquivo:
-#     total_power_losses_list = total_power_losses.tolist()
-#     json.dump(total_power_losses_list, arquivo)
+# soc = np.array([100, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10])
 
+# fig, axs = plt.subplots()
+# axs.plot(soc, efficiency, 'r-')
+# axs.plot(soc, efficiency, 'ko-')
+# axs.set_title('subplot 1')
+# axs.set_xlabel('distance (m)')
+# axs.set_ylabel('Damped oscillation')
+# fig.suptitle('This is a somewhat long figure title', fontsize=16)
+
+print("Load json file...")
+with open("efficiency_bess1.json", "w") as arquivo:
+    total_power_losses_list = total_power_losses.tolist()
+    json.dump(total_power_losses_list, arquivo)
+
+print("Complete")
 # %%
