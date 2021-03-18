@@ -156,10 +156,10 @@ total_power_losses = (
 print("Efficiency calculation...")
 efficiency = ((1 - total_power_losses / pbat) * 100)[0]
 
-print("Load json file...")
+print("Save json file...")
 with open("efficiency_bess2.json", "w") as arquivo:
-    total_power_losses_list = total_power_losses.tolist()
-    json.dump(total_power_losses_list, arquivo)
+    efficiency_list = efficiency.tolist()
+    json.dump(efficiency_list, arquivo)
 
 print("Complete")
 # %%

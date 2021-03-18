@@ -1,11 +1,11 @@
 function Result = THD(vetor,ciclos,ord_harm,inicio,passo,fn)
 
-% numero de ciclos que serão avaliados
+% numero de ciclos que serï¿½o avaliados
 % limite da ordem harmonica que deseja-se usar
-% inicio do ciclo (começa do 0)
+% inicio do ciclo (comeï¿½a do 0)
 
-ni=size(0:passo:inicio/fn); % posiçao no vetor para inicio da analise
-nf=size(0:passo:(inicio/fn+ciclos/fn)); % posiçao no vetor para fim da analise
+ni=size(0:passo:inicio/fn); % posiï¿½ao no vetor para inicio da analise
+nf=size(0:passo:(inicio/fn+ciclos/fn)); % posiï¿½ao no vetor para fim da analise
 Iab=vetor(ni(2):nf(2)); % corta o vetor de tensao na regiao desejada
 Y = fft(Iab); % realiza a transformada discreta de Fourier
 m = abs(Y)/max(abs(Y)); % normaliza a transformada
@@ -24,6 +24,6 @@ end
 THD_c = sqrt(THD_c)/tensao(1)*100;
 d_IEEE = THD_c;
 
-Result = {freq,tensao,d_IEEE} ;
+Result = {tensao, freq};
 
 end

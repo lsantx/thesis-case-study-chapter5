@@ -123,8 +123,10 @@ total_power_losses = (
     + plosses_switch_inv
 )
 
+print("Save json file...")
 with open("total_losses.json", "w") as arquivo:
     total_power_losses_list = total_power_losses.tolist()
     json.dump(total_power_losses_list, arquivo)
 
+print("Complete")
 # %%
