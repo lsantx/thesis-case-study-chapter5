@@ -97,7 +97,7 @@ bg_ac = np.array(
         for i in range(0, len(bg))
     ]
 )
-core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binv))])
+core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
 plosses_core_lg_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
 
 print("\nCopper loss calculation: resistors of the LCL filter...")
