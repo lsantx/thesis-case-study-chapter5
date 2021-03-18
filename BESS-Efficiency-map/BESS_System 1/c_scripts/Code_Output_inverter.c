@@ -83,6 +83,7 @@ if(count == PRD || count == 0)
   Qc = 1.224744871391589*PLL.Vbeta_in*1.224744871391589*Isalfabeta.alfa - 1.224744871391589*PLL.Valfa_in*1.224744871391589*Isalfabeta.beta;
   QRamp.final = Qref;
   QRamp.in = Qc;
+  Ramp(&QRamp);
   
   //////////////////////////////////////////////////////////Controle de tensão do link cc///////////////////////////////////////////////////////////////////////qq
   if(control_enable == 1)
@@ -93,9 +94,7 @@ if(count == PRD || count == 0)
     
     Pifunc(&PIvdc, Ts/2, Kpouter, Kiouter, psat, -psat);                   // Controle PI
 
-    //////////////////////////////////////////////////////////Controle do Reativo///////////////////////////////////////////////////////////////////////
-    Ramp(&QRamp);
-        
+    //////////////////////////////////////////////////////////Controle do Reativo///////////////////////////////////////////////////////////////////////      
     PIq.Xref = QRamp.atual;
     PIq.Xm   = Qc; 
 
@@ -274,6 +273,6 @@ Output(13) = PIq.Xm;
 Output(14) = Vpwm_norm_a;
 Output(15) = Vpwm_norm_b;
 Output(16) = Vpwm_norm_c;
-Output(17) = PRamp.atual;
-Output(18) = Vdq.q;
-Output(19) = Vdq.d;
+Output(17) = QRamp.atual;
+Output(18) = QRamp.final;
+Output(19) = Qref;

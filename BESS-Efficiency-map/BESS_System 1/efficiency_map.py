@@ -1,3 +1,4 @@
+# %%
 import numpy as np
 import json
 import matplotlib.pyplot as plt
@@ -27,3 +28,5 @@ ax1.set_ylabel('Power [kW]')
 cbar3 = fig.colorbar(count1, ax=ax1)
 fig.tight_layout()
 plt.show()
+
+# %%

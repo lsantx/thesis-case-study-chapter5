@@ -1,3 +1,4 @@
+# %%
 import matlab.engine
 import parameters as param
 import scipy.io
@@ -122,3 +123,5 @@ total_power_losses = (
 with open("total_losses.json", "w") as arquivo:
     total_power_losses_list = total_power_losses.tolist()
     json.dump(total_power_losses_list, arquivo)
+
+# %%

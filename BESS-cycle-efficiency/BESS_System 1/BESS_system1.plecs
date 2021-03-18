@@ -146,9 +146,9 @@ Plecs {
     Index         "11"
   }
   Schematic {
-    Location      [1280, 64; 2646, 719]
+    Location      [0, 37; 1280, 671]
     ZoomFactor    1
-    SliderPosition [0, 17]
+    SliderPosition [0, 203]
     ShowBrowser   off
     BrowserWidth  100
     Component {
@@ -1799,7 +1799,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [1280, 64; 2646, 719]
+        Location      [0, 37; 1280, 671]
         ZoomFactor    1
         SliderPosition [0, 28]
         ShowBrowser   off
@@ -2511,7 +2511,7 @@ Plecs {
           }
           Parameter {
             Variable      "Inputs"
-            Value         "|++"
+            Value         "+"
             Show          off
           }
           Parameter {
@@ -2534,13 +2534,74 @@ Plecs {
           }
           Parameter {
             Variable      "Inputs"
-            Value         "|++"
+            Value         "+"
             Show          off
           }
           Parameter {
             Variable      "DataType"
             Value         "10"
             Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope16"
+          Show          off
+          Position      [30, 20]
+          Direction     up
+          Flipped       off
+          Location      [1280, 64; 2646, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVYAAAKN"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAAAQAAAGQAAAADAAAAZAAAAAIAAABkAAAACQAAAGQAAAAIAAAAZAAAAAUAAABkAAAABAAAAGQAAA"
+"AHAAAAZAAAAAYAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+          Axes          "1"
+          TimeRange     "0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          "Perdas Totais nas Chaves"
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            AxisLabel     "W"
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
           }
         }
         Connection {
@@ -2756,13 +2817,6 @@ Plecs {
         }
         Connection {
           Type          Signal
-          SrcComponent  "Periodic Average5"
-          SrcTerminal   1
-          DstComponent  "Goto14"
-          DstTerminal   1
-        }
-        Connection {
-          Type          Signal
           SrcComponent  "Periodic Average6"
           SrcTerminal   1
           DstComponent  "Goto15"
@@ -2837,6 +2891,13 @@ Plecs {
           SrcTerminal   1
           DstComponent  "Periodic Average6"
           DstTerminal   2
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Periodic Average5"
+          SrcTerminal   1
+          DstComponent  "Goto14"
+          DstTerminal   1
         }
       }
     }
