@@ -3,7 +3,7 @@ Plecs {
   Version       "4.5"
   CircuitModel  "DiscStateSpace"
   StartTime     "0.0"
-  TimeSpan      "10"
+  TimeSpan      "0.55"
   Timeout       ""
   Solver        "FixedStepDiscrete"
   MaxStep       "passo"
@@ -120,7 +120,7 @@ Plecs {
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
   ScriptsDialogGeometry "[363 184 534 273]"
-  ScriptsDialogSplitterPos "100"
+  ScriptsDialogSplitterPos "48"
   Terminal {
     Type          Output
     Index         "1"
@@ -184,7 +184,7 @@ Plecs {
   Schematic {
     Location      [0, 37; 1280, 671]
     ZoomFactor    1
-    SliderPosition [0, 0]
+    SliderPosition [0, 174]
     ShowBrowser   off
     BrowserWidth  100
     Component {
@@ -5723,8 +5723,8 @@ Plecs {
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
-"QAAAGQAAAADAAAAZAAAAAIAAABkAAAABQAAAGQAAAAEAAAAZAAAAAcAAABkAAAABgAAAGQAAAAJAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
+"wAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAAAJAA"
 "AAZAAAAAgAAABkAAAAuwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACiAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
@@ -5800,7 +5800,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [1280, 64; 2646, 719]
+        Location      [0, 37; 1280, 671]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -6451,18 +6451,28 @@ Plecs {
           Position      [965, 715]
           Direction     up
           Flipped       off
-          Location      [0, 0; 0, 0]
-          State         ""
-          SavedViews    ""
-          HeaderState   ""
-          PlotPalettes  ""
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
+"AJAAAAZAAAAAgAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
           Axes          "1"
           TimeRange     "0"
           ScrollingMode "1"
           SingleTimeAxis "1"
           Open          "0"
           Ts            "-1"
-          SampleLimit   "200"
+          SampleLimit   "0"
           XAxisLabel    ""
           ShowLegend    "1"
           Axis {
@@ -9961,7 +9971,7 @@ Plecs {
             Variable      "Tsc"
             Prompt        "Time scale [s]"
             Type          FreeText
-            Value         "2"
+            Value         "3600"
             Show          off
             Tunable       off
             TabName       ""
@@ -9970,7 +9980,7 @@ Plecs {
             Variable      "Batt_Tr"
             Prompt        "Battery response time (s) / (3600/Time scale) "
             Type          FreeText
-            Value         "30/(3600/2)"
+            Value         "30/(3600/3600)"
             Show          off
             Tunable       off
             TabName       ""
@@ -14748,7 +14758,7 @@ Plecs {
           TimeRange     "0.0"
           ScrollingMode "1"
           SingleTimeAxis "1"
-          Open          "1"
+          Open          "0"
           Ts            "-1"
           SampleLimit   "0"
           XAxisLabel    ""
@@ -14832,7 +14842,7 @@ Plecs {
           TimeRange     "0.0"
           ScrollingMode "1"
           SingleTimeAxis "1"
-          Open          "0"
+          Open          "1"
           Ts            "-1"
           SampleLimit   "0"
           XAxisLabel    ""
@@ -15520,19 +15530,19 @@ Plecs {
         }
         Connection {
           Type          Signal
-          SrcComponent  "Demux2"
-          SrcTerminal   2
-          Points        [315, 65; 315, 50]
-          DstComponent  "Scope2"
-          DstTerminal   1
-        }
-        Connection {
-          Type          Signal
           SrcComponent  "Constant16"
           SrcTerminal   1
           Points        [175, 300]
           DstComponent  "Mux15"
           DstTerminal   9
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Demux2"
+          SrcTerminal   2
+          Points        [315, 65; 315, 50]
+          DstComponent  "Scope2"
+          DstTerminal   1
         }
         Connection {
           Type          Signal

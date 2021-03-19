@@ -31,7 +31,7 @@ for ki = 1:length(SocVals)
     Pchaves_conv_cc_cond(ki,:) = Out.Values(12,end);
     Pchaves_conv_cc_sw(ki,:) = Out.Values(13,end);
     Pcp_ind_bt(ki,:) = Out.Values(14,end);
-    Bind1(ki,:) = Out.Values(6,(end-(2/(60)/(1/(12000*120))):end));
+    Bind1(ki,:) = Out.Values(15,(end-(2/(60)/(1/(12000*120))):end));
 end    
                        
 %salva a variavel

@@ -5,7 +5,6 @@ import scipy.io
 from scipy.optimize import curve_fit
 import numpy as np
 import json
-# import matplotlib.pyplot as plt
 
 # Carrega os arquivos .m
 eng = matlab.engine.start_matlab()
@@ -21,7 +20,6 @@ pswitches_inv_sw = np.array(
     scipy.io.loadmat("Pchaves_inv_sw.mat").get("Pchaves_inv_sw")
 )
 i_cap = np.array(scipy.io.loadmat("I_cap.mat").get("I_cap"))
-pbat = np.array(scipy.io.loadmat("Pot_bat.mat").get("Pot_bat"))
 pswitches_conv_cc_cond = np.array(
     scipy.io.loadmat("Pchaves_conv_cc_cond.mat").get("Pchaves_conv_cc_cond")
 )
@@ -40,7 +38,7 @@ for i in range(0, len(i_cap)):
     ic = matlab.double(list(i_cap[i]))
 
     amplitude, frequency = eng.THD(
-        ic, float(1), float(3000), float(0), float(param.ts), float(param.fn)
+        ic, float(2), float(200), float(0), float(param.ts), float(param.fn)
     )
 
     # plt.bar(frequency[0], amplitude[0])
@@ -70,7 +68,8 @@ for i in range(0, len(i_cap)):
 
     plosses_calc.append(sum(plosses_freq))
 
-plosses_dc_link = np.array(plosses_calc)
+plosses_calc = np.array(plosses_calc)
+plosses_dc_link = np.reshape(plosses_calc, (10, 10))
 
 # Cálculo das perdas magnéticas nos indutores do filtro LCL
 print("Core loss calculation: inverter side inductor of the LCL filter...")
@@ -92,9 +91,10 @@ bg_ac = np.array(
         for i in range(0, len(binv))
     ]
 )
-
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binv))])
-plosses_core_linv_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
+plosses_core_linv_lcl = 3 * np.reshape(
+    core_loss * param.vn * 1e-9, (10, 10)
+)  # Perdas em W
 
 print("\nCore loss calculation: grid side inductor of the LCL filter...")
 bg_ac = np.array(
@@ -103,8 +103,11 @@ bg_ac = np.array(
         for i in range(0, len(bg))
     ]
 )
+
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
-plosses_core_lg_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
+plosses_core_lg_lcl = 3 * np.reshape(
+    core_loss * param.vn * 1e-9, (10, 10)
+)  # Perdas em W
 
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter...")
 bg_ac = np.array(
@@ -152,13 +155,10 @@ total_power_losses = (
     + plosses_switch_inter1
 )
 
-print("Efficiency calculation...")
-efficiency = ((1 - total_power_losses / pbat) * 100)[0]
-
 print("Save json file...")
-with open("efficiency_bess2.json", "w") as arquivo:
-    efficiency_list = efficiency.tolist()
-    json.dump(efficiency_list, arquivo)
+with open("total_losses.json", "w") as arquivo:
+    total_power_losses_list = total_power_losses.tolist()
+    json.dump(total_power_losses_list, arquivo)
 
 print("Complete")
 # %%

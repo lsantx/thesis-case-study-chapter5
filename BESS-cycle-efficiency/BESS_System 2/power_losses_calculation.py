@@ -5,6 +5,7 @@ import scipy.io
 from scipy.optimize import curve_fit
 import numpy as np
 import json
+
 # import matplotlib.pyplot as plt
 
 # Carrega os arquivos .m

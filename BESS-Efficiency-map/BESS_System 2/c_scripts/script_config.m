@@ -12,27 +12,35 @@ varStructure = struct('ModelVars', loadStructure);
 %Apaga o scope
 %plecs('scope', scopepath, 'ClearTraces');
 
-SocVals = [100 95 90 85 80 75 70 65 60 55 50 45 40 35 30 25 20 15 10];
+Pnom = 103e3;
+PVals = [Pnom Pnom*0.9 Pnom*0.8 Pnom*0.7 Pnom*0.6 Pnom*0.5 Pnom*0.4 Pnom*0.3 Pnom*0.2 Pnom*0.1];
 
-for ki = 1:length(SocVals)
-    varStructure.ModelVars.SocInit = SocVals(ki);
-    Out = plecs('simulate', varStructure);
-    Pot_grid(ki) = Out.Values(1,end);
-    Pot_bat(ki) = Out.Values(2,end);
-    Pchaves_inv_cond(ki) = Out.Values(3,end);
-    Pchaves_inv_sw(ki) = Out.Values(4,end);
-    Binv1(ki,:) = Out.Values(5,(end-(2/(60)/(1/(12000*120))):end));
-    Bg1(ki,:) = Out.Values(6,(end-(2/(60)/(1/(12000*120))):end));
-    Pcp_ind_LCL(ki) = Out.Values(7,end);
-    P_cap_LCL(ki) = Out.Values(8,end);
-    I_cap(ki, :) = Out.Values(9,(end-(2/(60)/(1/(12000*120))):end));
-    Ibat(ki) = Out.Values(10,end);
-    Vbat(ki) = Out.Values(11,end);
-    Pchaves_conv_cc_cond(ki,:) = Out.Values(12,end);
-    Pchaves_conv_cc_sw(ki,:) = Out.Values(13,end);
-    Pcp_ind_bt(ki,:) = Out.Values(14,end);
-    Bind1(ki,:) = Out.Values(6,(end-(2/(60)/(1/(12000*120))):end));
-end    
+SocVals = [100 90 80 70 60 50 40 30 20];
+
+i = 1
+for ki = 1:length(PVals)
+    for kj = 1:length(SocVals)
+        varStructure.ModelVars.Pref = PVals(ki);
+        varStructure.ModelVars.SocInit = SocVals(kj);
+        Out = plecs('simulate', varStructure);
+        Pot_grid(ki,kj) = Out.Values(1,end);
+        Pot_bat(ki,kj) = Out.Values(2,end);
+        Pchaves_inv_cond(ki,kj) = Out.Values(3,end);
+        Pchaves_inv_sw(ki,kj) = Out.Values(4,end);
+        Binv1(i,:) = Out.Values(5,(end-(2/(60)/(1/(12000*120))):end));
+        Bg1(i,:) = Out.Values(6,(end-(2/(60)/(1/(12000*120))):end));
+        Pcp_ind_LCL(ki,kj) = Out.Values(7,end);
+        P_cap_LCL(ki,kj) = Out.Values(8,end);
+        I_cap(i,:) = Out.Values(9,(end-(2/(60)/(1/(12000*120))):end));
+        Ibat(ki,kj) = Out.Values(10,end);
+        Vbat(ki,kj) = Out.Values(11,end);
+        Pchaves_conv_cc_cond(ki,kj) = Out.Values(12,end);
+        Pchaves_conv_cc_sw(ki,kj) = Out.Values(13,end);
+        Pcp_ind_bt(ki,kj) = Out.Values(14,end);
+        Bind1(i,:) = Out.Values(15,(end-(2/(60)/(1/(12000*120))):end));
+        i = i + 1;
+    end    
+end
                        
 %salva a variavel
 save("Pot_grid.mat", "-mat", "Pot_grid")
