@@ -29,7 +29,7 @@ pref = np.array(
 )
 # pref = np.reshape(pref, (-1, 1))
 print(efficiency)
-soc = np.array([100, 90, 80, 70, 60, 50, 40, 30, 20, 10])
+soc = np.array([100, 90, 80, 75, 70, 60, 50, 40, 30, 20])
 
 fig, ax1 = plt.subplots(1, 1)
 fig.set_size_inches(8, 6)
