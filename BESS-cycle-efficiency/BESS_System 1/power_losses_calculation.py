@@ -126,7 +126,7 @@ total_power_losses = (
 print("Efficiency calculation...")
 efficiency = ((1 - total_power_losses / pbat) * 100)[0]
 
-# soc = np.array([100, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10])
+# soc = np.array([100, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20])
 
 # fig, axs = plt.subplots()
 # axs.plot(soc, efficiency, 'r-')

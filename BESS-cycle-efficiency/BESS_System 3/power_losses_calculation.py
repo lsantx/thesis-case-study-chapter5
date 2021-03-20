@@ -31,6 +31,15 @@ pswitches_conv_cc_sw = np.array(
 )
 Pcp_inter1 = np.array(scipy.io.loadmat("Pcp_ind_bt.mat").get("Pcp_ind_bt"))
 binter1 = np.array(scipy.io.loadmat("Bind1.mat").get("Bind1"))
+pbat2 = np.array(scipy.io.loadmat("Pot_bat2.mat").get("Pot_bat2"))
+pswitches_conv_cc_cond2 = np.array(
+    scipy.io.loadmat("Pchaves_conv_cc_cond2.mat").get("Pchaves_conv_cc_cond2")
+)
+pswitches_conv_cc_sw2 = np.array(
+    scipy.io.loadmat("Pchaves_conv_cc_sw2.mat").get("Pchaves_conv_cc_sw2")
+)
+Pcp_inter2 = np.array(scipy.io.loadmat("Pcp_ind_bt2.mat").get("Pcp_ind_bt2"))
+binter2 = np.array(scipy.io.loadmat("Bind2.mat").get("Bind2"))
 
 # Perdas totais nos capacitores do dc-link em relação ao SOC
 print("Dc-link loss calculation...")
@@ -107,7 +116,7 @@ bg_ac = np.array(
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
 plosses_core_lg_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
 
-print("\nCore loss calculation: interleaved inductor of the dc/dc converter...")
+print("\nCore loss calculation: interleaved inductor of the dc/dc converter 1...")
 bg_ac = np.array(
     [
         binter1[i][int(len(binter1[i]) - ((1 / 60) / (1 / (12000 * 120))) + 1) :]
@@ -117,14 +126,27 @@ bg_ac = np.array(
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binter1))])
 plosses_core_inter1 = 3 * core_loss * param.vn * 1e-9  # Perdas em W
 
+print("\nCore loss calculation: interleaved inductor of the dc/dc converter 2...")
+bg_ac = np.array(
+    [
+        binter2[i][int(len(binter2[i]) - ((1 / 60) / (1 / (12000 * 120))) + 1) :]
+        for i in range(0, len(binter2))
+    ]
+)
+core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binter2))])
+plosses_core_inter2 = 3 * core_loss * param.vn * 1e-9  # Perdas em W
+
 print("\nCopper loss calculation: resistors of the LCL filter...")
 plosses_copper_lcl = pcp_ind_lcl
 
 print("ESR loss calculation: capacitors of the LCL filter...")
 plosses_esr_lcl = pcp_ind_lcl
 
-print("\nCopper loss calculation: interleaved inductor of the dc/dc converter...")
+print("\nCopper loss calculation: interleaved inductor of the dc/dc converter 1...")
 plosses_copper_inter1 = Pcp_inter1
+
+print("\nCopper loss calculation: interleaved inductor of the dc/dc converter 1...")
+plosses_copper_inter2 = Pcp_inter2
 
 print("Conduction loss calculation: inverter switches...")
 plosses_cond_inv = pswitches_inv_cond
@@ -132,11 +154,17 @@ plosses_cond_inv = pswitches_inv_cond
 print("Switching loss calculation: inverter switches...")
 plosses_switch_inv = pswitches_inv_sw
 
-print("Conduction loss calculation: interleaved switches...")
+print("Conduction loss calculation: interleaved 1 switches...")
 plosses_cond_inter1 = pswitches_conv_cc_cond
 
-print("Switching loss calculation: interleaved switches...")
+print("Conduction loss calculation: interleaved 2 switches...")
+plosses_cond_inter2 = pswitches_conv_cc_cond2
+
+print("Switching loss calculation: interleaved 1 switches...")
 plosses_switch_inter1 = pswitches_conv_cc_sw
+
+print("Switching loss calculation: interleaved 2 switches...")
+plosses_switch_inter2 = pswitches_conv_cc_sw2
 
 print("Total power losses calculation...")
 total_power_losses = (
@@ -148,13 +176,17 @@ total_power_losses = (
     + plosses_cond_inv
     + plosses_switch_inv
     + plosses_core_inter1
+    + plosses_core_inter2
     + plosses_copper_inter1
+    + plosses_copper_inter2
     + plosses_cond_inter1
+    + plosses_cond_inter2
     + plosses_switch_inter1
+    + plosses_switch_inter2
 )
 
 print("Efficiency calculation...")
-efficiency = ((1 - total_power_losses / pbat) * 100)[0]
+efficiency = ((1 - total_power_losses / (pbat + pbat2)) * 100)[0]
 
 print("Save json file...")
 with open("efficiency_bess2.json", "w") as arquivo:
