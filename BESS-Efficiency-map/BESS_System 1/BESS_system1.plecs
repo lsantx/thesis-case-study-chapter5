@@ -3,7 +3,7 @@ Plecs {
   Version       "4.5"
   CircuitModel  "DiscStateSpace"
   StartTime     "0.0"
-  TimeSpan      "0.60"
+  TimeSpan      "0.55"
   Timeout       ""
   Solver        "FixedStepDiscrete"
   MaxStep       "passo"
@@ -147,7 +147,7 @@ Plecs {
     Index         "11"
   }
   Schematic {
-    Location      [1280, 64; 2646, 719]
+    Location      [0, 37; 1280, 671]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off

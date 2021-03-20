@@ -15,7 +15,7 @@ varStructure = struct('ModelVars', loadStructure);
 Pnom = 103e3;
 PVals = [Pnom Pnom*0.9 Pnom*0.8 Pnom*0.7 Pnom*0.6 Pnom*0.5 Pnom*0.4 Pnom*0.3 Pnom*0.2 Pnom*0.1];
 
-SocVals = [100 90 80 70 60 50 40 30 20];
+SocVals = [100 90 80 75 70 60 50 40 30 20];
 
 i = 1
 for ki = 1:length(PVals)

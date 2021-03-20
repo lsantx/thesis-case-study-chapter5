@@ -61,7 +61,8 @@ for i in range(0, len(i_cap)):
     plosses_calc.append(sum(plosses_freq))
 
 plosses_calc = np.array(plosses_calc)
-plosses_dc_link = np.reshape(plosses_calc, (10, 10))
+index = int(np.sqrt(plosses_calc.shape[0]))
+plosses_dc_link = np.reshape(plosses_calc, (index, index))
 
 # Cálculo das perdas magnéticas nos indutores do filtro LCL
 print("Core loss calculation: inverter side inductor of the LCL filter...")
@@ -84,8 +85,9 @@ bg_ac = np.array(
     ]
 )
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binv))])
+index = int(np.sqrt(core_loss.shape[0]))
 plosses_core_linv_lcl = 3 * np.reshape(
-    core_loss * param.vn * 1e-9, (10, 10)
+    core_loss * param.vn * 1e-9, (index, index)
 )  # Perdas em W
 
 print("\nCore loss calculation: grid side inductor of the LCL filter...")
@@ -96,8 +98,9 @@ bg_ac = np.array(
     ]
 )
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
+index = int(np.sqrt(core_loss.shape[0]))
 plosses_core_lg_lcl = 3 * np.reshape(
-    core_loss * param.vn * 1e-9, (10, 10)
+    core_loss * param.vn * 1e-9, (index, index)
 )  # Perdas em W
 
 print("\nCopper loss calculation: resistors of the LCL filter...")
