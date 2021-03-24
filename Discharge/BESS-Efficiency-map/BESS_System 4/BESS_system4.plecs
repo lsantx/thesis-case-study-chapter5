@@ -211,7 +211,7 @@ Plecs {
     Index         "19"
   }
   Schematic {
-    Location      [1360, 64; 2726, 719]
+    Location      [0, 37; 1360, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -10980,7 +10980,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 27; 1366, 691]
+            Location      [0, 37; 1360, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -11016,7 +11016,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 27; 1366, 688]
+                Location      [0, 37; 1360, 719]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -11626,7 +11626,7 @@ Plecs {
                       LabelAlign    up
                       Parameter {
                         Variable      "f(u)"
-                        Value         "6*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
+                        Value         "7*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
                         Show          off
                       }
                     }
@@ -20883,7 +20883,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 27; 1364, 688]
+            Location      [0, 37; 1360, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -20919,7 +20919,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 27; 1366, 688]
+                Location      [0, 37; 1360, 719]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -21529,7 +21529,7 @@ Plecs {
                       LabelAlign    up
                       Parameter {
                         Variable      "f(u)"
-                        Value         "6*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
+                        Value         "7*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
                         Show          off
                       }
                     }
@@ -29197,57 +29197,6 @@ Plecs {
     }
   }
   ProbeBlock {
-    Tag           "BESS_system4/LCL/Probe1"
-    Probe {
-      Component     "R5"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R4"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R7"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R6"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R8"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R9"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-  }
-  ProbeBlock {
-    Tag           "BESS_system4/LCL/Probe2"
-    Probe {
-      Component     "R1"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R2"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-    Probe {
-      Component     "R3"
-      Path          "LCL"
-      Signals       {"Resistor power"}
-    }
-  }
-  ProbeBlock {
     Tag           "BESS_system4/Sys 1/Temp das\\nchaves1"
     Probe {
       Component     "IGBT14"
@@ -29579,6 +29528,57 @@ Plecs {
       Component     "L11"
       Path          "Sys 2"
       Signals       {"Inductor current"}
+    }
+  }
+  ProbeBlock {
+    Tag           "BESS_system4/LCL/Probe1"
+    Probe {
+      Component     "R5"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R4"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R7"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R6"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R8"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R9"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+  }
+  ProbeBlock {
+    Tag           "BESS_system4/LCL/Probe2"
+    Probe {
+      Component     "R1"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R2"
+      Path          "LCL"
+      Signals       {"Resistor power"}
+    }
+    Probe {
+      Component     "R3"
+      Path          "LCL"
+      Signals       {"Resistor power"}
     }
   }
   Script {

@@ -177,7 +177,7 @@ Plecs {
     Index         "15"
   }
   Schematic {
-    Location      [0, 37; 1280, 671]
+    Location      [0, 37; 1360, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -5984,7 +5984,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1280, 671]
+        Location      [0, 37; 1360, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -7219,17 +7219,17 @@ Plecs {
           Position      [65, 415]
           Direction     down
           Flipped       on
-          Location      [0, 37; 1280, 700]
+          Location      [0, 37; 1360, 748]
           State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
 "wBvAG0AQQByAGUAYQAAAAAA/////wAAAIEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
 "AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
 "AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
 "AAAAAAAAA=="
           SavedViews    "AAAAAgAAAAA="
           HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
-"AJAAAAZAAAAAgAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
+"AAAAQAAAGQAAAAIAAAAZAAAAAkAAABkAAAABgAAAGQAAAAHAAAAZAAAAAQAAABkAAAABQAAAGQAAA"
+"ACAAAAZAAAAAMAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
 "+AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
 "AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
 "AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
@@ -7240,7 +7240,7 @@ Plecs {
           TimeRange     "0"
           ScrollingMode "1"
           SingleTimeAxis "1"
-          Open          "1"
+          Open          "0"
           Ts            "-1"
           SampleLimit   "0"
           XAxisLabel    "Time (sec)"
@@ -11080,7 +11080,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 27; 1366, 691]
+            Location      [0, 37; 1360, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -11116,7 +11116,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 27; 1366, 688]
+                Location      [0, 37; 1360, 719]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -11726,7 +11726,7 @@ Plecs {
                       LabelAlign    up
                       Parameter {
                         Variable      "f(u)"
-                        Value         "6*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
+                        Value         "7*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
                         Show          off
                       }
                     }
