@@ -9,6 +9,7 @@
 */BESS-*/BESS_System*/*.plecs.autosave
 */BESS-*/BESS_System*/c_scripts/*.insyncdl
 sim_qualificacao/
+battery_bank_power_profille/
 *.insyncdl
 */*.insyncdl
 
