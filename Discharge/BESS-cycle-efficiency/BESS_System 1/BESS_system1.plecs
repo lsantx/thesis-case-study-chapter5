@@ -101,7 +101,7 @@ Plecs {
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
   ScriptsDialogGeometry "[413 387 534 273]"
-  ScriptsDialogSplitterPos "70"
+  ScriptsDialogSplitterPos "48"
   Terminal {
     Type          Output
     Index         "1"
@@ -147,7 +147,7 @@ Plecs {
     Index         "11"
   }
   Schematic {
-    Location      [1360, 64; 2726, 719]
+    Location      [0, 37; 1360, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -159,19 +159,19 @@ Plecs {
       Position      [60, 380]
       Direction     down
       Flipped       on
-      Location      [0, 37; 1280, 700]
+      Location      [0, 37; 1360, 748]
       State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAACkvwCAAAAA/sAAAAQAFoAbwBvA"
 "G0AQQByAGUAYQAAAAAA/////wAAAIEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwIAAAQ4AA"
 "ABfQAAAMgAAAB4+wAAAAwAVAByAGEAYwBlAHMAAAAALwAAApIAAABjAP///wAAAAMAAAVWAAAAcvw"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABQAAAAJ4AAAA"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABVAAAAKoAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAEAAAAYAFMAYQB2AGUAZAAgAHYAaQBlAHcAIAAxAAAAAAAAA"
 "AA/+5pYEGJN0wAAAAMAf/gAAAAAAAB/+AAAAAAAAAB/+AAAAAAAAH/4AAAAAAAAAH/4AAAAAAAAf/"
 "gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
       HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
-"QAAAGQAAAADAAAAZAAAAAIAAABkAAAACQAAAGQAAAAIAAAAZAAAAAUAAABkAAAABAAAAGQAAAAHAA"
-"AAZAAAAAYAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB+AAA"
+"QAAAGQAAAAIAAAAZAAAAAkAAABkAAAABgAAAGQAAAAHAAAAZAAAAAQAAABkAAAABQAAAGQAAAACAA"
+"AAZAAAAAMAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB+AAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
 "AAZAAAAAQAAAAAAAAPoAAAAABk="
@@ -302,7 +302,7 @@ Plecs {
       Type          Goto
       Name          "Goto7"
       Show          off
-      Position      [425, 395]
+      Position      [450, 395]
       Direction     left
       Flipped       on
       Parameter {
@@ -12708,9 +12708,9 @@ Plecs {
       Type          Goto
       Name          "Goto17"
       Show          off
-      Position      [70, 425]
+      Position      [450, 420]
       Direction     left
-      Flipped       off
+      Flipped       on
       Parameter {
         Variable      "Tag"
         Value         "Vbat"
@@ -12980,13 +12980,6 @@ Plecs {
       SrcTerminal   5
       DstComponent  "Scope21"
       DstTerminal   3
-    }
-    Connection {
-      Type          Signal
-      SrcComponent  "Cap"
-      SrcTerminal   2
-      DstComponent  "Goto7"
-      DstTerminal   1
     }
     Connection {
       Type          HeatPipe
@@ -13555,13 +13548,20 @@ Plecs {
       Type          Signal
       SrcComponent  "Demux4"
       SrcTerminal   4
-      Points        [95, 390]
+      DstComponent  "Scope2"
+      DstTerminal   3
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "Cap"
+      SrcTerminal   2
+      Points        [420, 395]
       Branch {
-        DstComponent  "Scope2"
-        DstTerminal   3
+        DstComponent  "Goto7"
+        DstTerminal   1
       }
       Branch {
-        Points        [95, 425]
+        Points        [420, 420]
         DstComponent  "Goto17"
         DstTerminal   1
       }

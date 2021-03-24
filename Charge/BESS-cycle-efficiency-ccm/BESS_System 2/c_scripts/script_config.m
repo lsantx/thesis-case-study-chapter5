@@ -4,7 +4,7 @@ mdl = plecs('get', '', 'CurrentCircuit');
 %um subsystem usar '/Sub/Scope'
 %scopepath = [mdl '/Psemi'];
 
-%carrega um valor inicial
+%carrega um valor inicial em Ih e H  A=Ih 
 loadStructure = struct('Vref', 0);
 loadStructure = struct('SocInit', 0);
 %Cria uma estrutura com as variaveis
@@ -12,20 +12,20 @@ varStructure = struct('ModelVars', loadStructure);
 %Apaga o scope
 %plecs('scope', scopepath, 'ClearTraces');
 
-VbatVals = [1106.09701401, 1207.36979859, 1211.0869696 , 1214.48724801, ...
-       1217.64524616, 1220.6200541 , 1223.45983184, 1226.20502078, ...
-       1228.89066966, 1231.54818682, 1234.20672333, 1236.89432771, ...
-       1239.63897576, 1242.46955866, 1245.41690426, 1248.51490815, ...
-       1251.80186304, 1255.32209857, 1259.12808426, 1263.28321417]
+VbatVals = [553.04869681, 603.68562337, 605.54427277, 607.24446967, ...
+    608.82352303, 610.31097999, 611.73092226, 613.10357199, ...
+    614.44645489, 615.77527642, 617.10461346, 618.44849173, ...
+    619.82090078, 621.23628816, 622.71007009, 624.25919721, ...
+    625.90281943, 627.66310604, 629.56629758, 631.64409861]
 
 % A tensão acima corresponde ao seguinte soc. (Somente para conferências)
 
-  SocVals = [20, 22.55989738, 25.11979419, 27.6796907 , 30.23958692, ...
-       32.79948289, 35.35937861, 37.91927409, 40.47916934, 43.03906436, ...
-       45.59895915, 48.15885372, 50.71874805, 53.27864215, 55.838536, ...
-       58.3984296 , 60.95832292, 63.51821595, 66.07810867, 68.63800105]
+SocVals = [20, 22.55997434, 25.11994855, 27.67992267, 30.23989673, ...
+32.79987072, 35.35984465, 37.91981852, 40.47979233, 43.03976609, ...
+45.59973979, 48.15971343, 50.71968701, 53.27966054, 55.839634, ...
+58.3996074 , 60.95958073, 63.51955399, 66.07952717, 68.63950026]
 
-for ki = 1:length(VbatVals)
+for ki = 1:length(SocVals)
     varStructure.ModelVars.Vref = VbatVals(ki);
     varStructure.ModelVars.SocInit = SocVals(ki);
     Out = plecs('simulate', varStructure);
@@ -40,6 +40,10 @@ for ki = 1:length(VbatVals)
     I_cap(ki, :) = Out.Values(9,(end-(2/(60)/(1/(12000*120))):end));
     Ibat(ki) = Out.Values(10,end);
     Vbat(ki) = Out.Values(11,end);
+    Pchaves_conv_cc_cond(ki,:) = Out.Values(12,end);
+    Pchaves_conv_cc_sw(ki,:) = Out.Values(13,end);
+    Pcp_ind_bt(ki,:) = Out.Values(14,end);
+    Bind1(ki,:) = Out.Values(15,(end-(2/(60)/(1/(12000*120))):end));
 end    
                        
 %salva a variavel
@@ -54,6 +58,10 @@ save("P_cap_LCL.mat", "-mat", "P_cap_LCL")
 save("I_cap.mat", "-mat", "I_cap")
 save("Ibat.mat", "-mat", "Ibat")
 save("Vbat.mat", "-mat", "Vbat")
+save("Pchaves_conv_cc_cond.mat", "-mat", "Pchaves_conv_cc_cond")
+save("Pchaves_conv_cc_sw.mat", "-mat", "Pchaves_conv_cc_sw")
+save("Pcp_ind_bt.mat", "-mat", "Pcp_ind_bt")
+save("Bind1.mat", "-mat", "Bind1")
 
 % Bg_f(kx,:) = Out.Values(8,(end-1/(60*1/(12000*256))):end);
 % Bi_f(kx,:) = Out.Values(9,(end-1/(60*1/(12000*256))):end);

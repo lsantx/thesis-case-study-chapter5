@@ -100,7 +100,7 @@ Plecs {
   ExternalModeSettings ""
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
-  ScriptsDialogGeometry "[1601 274 534 273]"
+  ScriptsDialogGeometry "[1901 167 534 273]"
   ScriptsDialogSplitterPos "70"
   Terminal {
     Type          Output
@@ -171,10 +171,10 @@ Plecs {
 "gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
       HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
 "QAAAGQAAAAIAAAAZAAAAAkAAABkAAAABgAAAGQAAAAHAAAAZAAAAAQAAABkAAAABQAAAGQAAAACAA"
-"AAZAAAAAMAAABkAAAFUAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAADBAAA"
+"AAZAAAAAMAAABkAAAA2gAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAADBAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
-"ASPAAAAAQAAAAAAAAPoAAAAABk="
+"AAZAAAAAQAAAAAAAAPoAAAAABk="
       PlotPalettes  "AAAAAQAAAAEAAAABAAAAAQAAAAEC//8u4P//zMwAAAAAAAEAAAABAAAAA"
 "AEAAAABAAAAAQAAAAEAAAABAQAAAAEAAAABQAAAAAAAAAAAAAABAAAAAQEAAAABAAAAAQAAAAEAAA"
 "ACAf////8AAAAAAAAB/////1VVAAAAAAAAAAEAAAACAQEAAAABAAAAAgAAAAEAAAABAAAAAQAAAAI"
@@ -1787,7 +1787,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1280, 671]
+        Location      [0, 37; 1360, 719]
         ZoomFactor    1
         SliderPosition [0, 28]
         ShowBrowser   off
@@ -4545,7 +4545,7 @@ Plecs {
       Type          Ammeter
       Name          "Am3"
       Show          off
-      Position      [310, 325]
+      Position      [285, 325]
       Direction     right
       Flipped       on
     }
@@ -8170,7 +8170,7 @@ Plecs {
       Type          Goto
       Name          "Goto11"
       Show          off
-      Position      [310, 360]
+      Position      [285, 360]
       Direction     up
       Flipped       on
       Parameter {
@@ -8681,24 +8681,6 @@ Plecs {
       }
     }
     Component {
-      Type          Goto
-      Name          "Goto17"
-      Show          off
-      Position      [260, 405]
-      Direction     right
-      Flipped       off
-      Parameter {
-        Variable      "Tag"
-        Value         "Vbat"
-        Show          off
-      }
-      Parameter {
-        Variable      "Visibility"
-        Value         "2"
-        Show          off
-      }
-    }
-    Component {
       Type          Constant
       Name          "Constant7"
       Show          off
@@ -8741,7 +8723,7 @@ Plecs {
       Type          DCVoltageSource
       Name          "V_dc"
       Show          off
-      Position      [195, 400]
+      Position      [205, 400]
       Direction     down
       Flipped       on
       Parameter {
@@ -8808,23 +8790,33 @@ Plecs {
       }
     }
     Component {
-      Type          Voltmeter
-      Name          "Vm1"
-      Show          off
-      Position      [225, 405]
-      Direction     up
-      Flipped       off
-    }
-    Component {
       Type          Resistor
       Name          "R6"
       Show          off
-      Position      [265, 325]
+      Position      [235, 325]
       Direction     left
       Flipped       off
       Parameter {
         Variable      "R"
         Value         "5.2e-3*Nb_series/Nb_strings"
+        Show          off
+      }
+    }
+    Component {
+      Type          Goto
+      Name          "Goto16"
+      Show          off
+      Position      [440, 420]
+      Direction     right
+      Flipped       off
+      Parameter {
+        Variable      "Tag"
+        Value         "Vbat"
+        Show          off
+      }
+      Parameter {
+        Variable      "Visibility"
+        Value         "2"
         Show          off
       }
     }
@@ -9203,16 +9195,9 @@ Plecs {
             DstTerminal   3
           }
           Branch {
-            Points        [225, 475]
-            Branch {
-              Points        [195, 475]
-              DstComponent  "V_dc"
-              DstTerminal   2
-            }
-            Branch {
-              DstComponent  "Vm1"
-              DstTerminal   2
-            }
+            Points        [205, 475]
+            DstComponent  "V_dc"
+            DstTerminal   2
           }
         }
       }
@@ -9640,40 +9625,34 @@ Plecs {
       DstTerminal   3
     }
     Connection {
-      Type          Signal
-      SrcComponent  "Cap"
-      SrcTerminal   2
-      DstComponent  "Goto7"
-      DstTerminal   1
-    }
-    Connection {
-      Type          Signal
-      SrcComponent  "Vm1"
-      SrcTerminal   3
-      DstComponent  "Goto17"
-      DstTerminal   1
-    }
-    Connection {
-      Type          Wire
-      SrcComponent  "Vm1"
-      SrcTerminal   1
-      Points        [225, 325]
-      Branch {
-        Points        [195, 325]
-        DstComponent  "V_dc"
-        DstTerminal   1
-      }
-      Branch {
-        DstComponent  "R6"
-        DstTerminal   1
-      }
-    }
-    Connection {
       Type          Wire
       SrcComponent  "R6"
       SrcTerminal   2
       DstComponent  "Am3"
       DstTerminal   1
+    }
+    Connection {
+      Type          Wire
+      SrcComponent  "V_dc"
+      SrcTerminal   1
+      Points        [205, 325]
+      DstComponent  "R6"
+      DstTerminal   1
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "Cap"
+      SrcTerminal   2
+      Points        [415, 395]
+      Branch {
+        DstComponent  "Goto7"
+        DstTerminal   1
+      }
+      Branch {
+        Points        [415, 420]
+        DstComponent  "Goto16"
+        DstTerminal   1
+      }
     }
     Annotation {
       Name          "0 - Stand-by\n1 - Discharge\n2 - Charge"
