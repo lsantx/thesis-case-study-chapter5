@@ -110,12 +110,14 @@ plosses_core_lg_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter...")
 bg_ac = np.array(
     [
-        binter1[i][int(len(binter1[i]) - ((1 / 60) / (1 / (12000 * 120))) + 1) :]
+        binter1[i][
+            int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :
+        ]
         for i in range(0, len(binter1))
     ]
 )
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(binter1))])
-plosses_core_inter1 = 3 * core_loss * param.vn * 1e-9  # Perdas em W
+plosses_core_inter1 = 3 * core_loss * param.vn_inter * 1e-9  # Perdas em W
 
 print("\nCopper loss calculation: resistors of the LCL filter...")
 plosses_copper_lcl = pcp_ind_lcl

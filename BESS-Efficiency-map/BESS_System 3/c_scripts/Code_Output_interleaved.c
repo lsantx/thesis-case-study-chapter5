@@ -91,7 +91,7 @@ if(control_enable == 1)
       PIbuv.Xref = VRamp.atual;
       PIbuv.Xm   = Vbat;                                     //Tensão medida para o modo buck (carga)           
       
-      Pifunc(&PIbuv, Ts/2, Kpvbu, Kivbu, Iref_ch/3, -10);   // Controle PI
+      Pifunc(&PIbuv, Ts/2, Kpvbu, Kivbu, Iref_ch/N_br, -10);   // Controle PI
   
       PIbu.Xref = PIbuv.piout_sat;
 
