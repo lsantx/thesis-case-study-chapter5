@@ -22,7 +22,7 @@ pswitches_inv_sw = np.array(
     scipy.io.loadmat("Pchaves_inv_sw.mat").get("Pchaves_inv_sw")
 )
 i_cap = np.array(scipy.io.loadmat("I_cap.mat").get("I_cap"))
-pbat = np.array(scipy.io.loadmat("Pot_bat.mat").get("Pot_bat"))
+Pgrid = np.array(scipy.io.loadmat("Pot_grid.mat").get("Pot_grid"))
 
 # Perdas totais nos capacitores do dc-link em relação ao SOC
 print("Dc-link loss calculation...")
@@ -124,7 +124,7 @@ total_power_losses = (
 )
 
 print("Efficiency calculation...")
-efficiency = ((1 - total_power_losses / pbat) * 100)[0]
+efficiency = ((1 - total_power_losses / (-Pgrid)) * 100)[0]
 
 # soc = np.array([100, 95, 90, 85, 80, 75, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20])
 

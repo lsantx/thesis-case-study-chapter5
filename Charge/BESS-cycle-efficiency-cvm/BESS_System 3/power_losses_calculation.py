@@ -22,7 +22,6 @@ pswitches_inv_sw = np.array(
     scipy.io.loadmat("Pchaves_inv_sw.mat").get("Pchaves_inv_sw")
 )
 i_cap = np.array(scipy.io.loadmat("I_cap.mat").get("I_cap"))
-pbat = np.array(scipy.io.loadmat("Pot_bat.mat").get("Pot_bat"))
 pswitches_conv_cc_cond = np.array(
     scipy.io.loadmat("Pchaves_conv_cc_cond.mat").get("Pchaves_conv_cc_cond")
 )
@@ -31,7 +30,6 @@ pswitches_conv_cc_sw = np.array(
 )
 Pcp_inter1 = np.array(scipy.io.loadmat("Pcp_ind_bt.mat").get("Pcp_ind_bt"))
 binter1 = np.array(scipy.io.loadmat("Bind1.mat").get("Bind1"))
-pbat2 = np.array(scipy.io.loadmat("Pot_bat2.mat").get("Pot_bat2"))
 pswitches_conv_cc_cond2 = np.array(
     scipy.io.loadmat("Pchaves_conv_cc_cond2.mat").get("Pchaves_conv_cc_cond2")
 )
@@ -40,6 +38,7 @@ pswitches_conv_cc_sw2 = np.array(
 )
 Pcp_inter2 = np.array(scipy.io.loadmat("Pcp_ind_bt2.mat").get("Pcp_ind_bt2"))
 binter2 = np.array(scipy.io.loadmat("Bind2.mat").get("Bind2"))
+Pgrid = np.array(scipy.io.loadmat("Pot_grid.mat").get("Pot_grid"))
 
 # Perdas totais nos capacitores do dc-link em relação ao SOC
 print("Dc-link loss calculation...")
@@ -190,7 +189,7 @@ total_power_losses = (
 )
 
 print("Efficiency calculation...")
-efficiency = ((1 - total_power_losses / (pbat + pbat2)) * 100)[0]
+efficiency = ((1 - total_power_losses / (-Pgrid)) * 100)[0]
 
 print("Save json file...")
 with open("efficiency_bess2.json", "w") as arquivo:
