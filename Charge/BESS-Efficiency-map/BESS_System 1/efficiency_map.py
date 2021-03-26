@@ -4,14 +4,14 @@ import json
 import matplotlib.pyplot as plt
 import scipy.io
 
-pbat = np.array(scipy.io.loadmat("Pot_bat.mat").get("Pot_bat"))
+pgrid = np.array(scipy.io.loadmat("Pot_grid.mat").get("Pot_grid"))
 vbat = np.array(scipy.io.loadmat("Vbat.mat").get("Vbat"))
 ibat = np.array(scipy.io.loadmat("Ibat.mat").get("Ibat"))
 
 with open("total_losses.json", "r") as arquivo:
     total_power_losses = np.array(json.load(arquivo))
 
-efficiency = (1 - total_power_losses / pbat) * 100
+efficiency = (1 - total_power_losses / (-pgrid)) * 100
 
 pnom = 100e3
 pref = np.array(
