@@ -149,7 +149,7 @@ Plecs {
   Schematic {
     Location      [1280, 55; 2646, 719]
     ZoomFactor    1
-    SliderPosition [0, 98]
+    SliderPosition [0, 0]
     ShowBrowser   off
     BrowserWidth  100
     Component {
@@ -159,11 +159,11 @@ Plecs {
       Position      [20, 305]
       Direction     down
       Flipped       on
-      Location      [0, 30; 1280, 700]
+      Location      [1280, 55; 2646, 748]
       State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAACf/wCAAAAA/sAAAAQAFoAbwBvA"
 "G0AQQByAGUAYQAAAAAA/////wAAAIEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwIAAAQ4AA"
 "ABfQAAAMgAAAB4+wAAAAwAVAByAGEAYwBlAHMAAAAAMwAAAn8AAABjAP///wAAAAMAAAVWAAAAcvw"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABQAAAAJ/AAAA"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABVYAAAKWAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAEAAAAYAFMAYQB2AGUAZAAgAHYAaQBlAHcAIAAxAAAAAAAAA"
@@ -185,7 +185,7 @@ Plecs {
       TimeRange     "0"
       ScrollingMode "1"
       SingleTimeAxis "1"
-      Open          "1"
+      Open          "0"
       Ts            "-1"
       SampleLimit   "0"
       XAxisLabel    "Time (sec)"

@@ -192,7 +192,7 @@ print("Efficiency calculation...")
 efficiency = ((1 - total_power_losses / (-Pgrid)) * 100)[0]
 
 print("Save json file...")
-with open("efficiency_bess2.json", "w") as arquivo:
+with open("efficiency_bess3.json", "w") as arquivo:
     efficiency_list = efficiency.tolist()
     json.dump(efficiency_list, arquivo)
 

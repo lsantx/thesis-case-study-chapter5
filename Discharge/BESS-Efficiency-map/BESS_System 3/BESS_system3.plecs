@@ -211,7 +211,7 @@ Plecs {
     Index         "22"
   }
   Schematic {
-    Location      [0, 37; 1360, 719]
+    Location      [0, 30; 1280, 671]
     ZoomFactor    1.14437
     SliderPosition [21, -1]
     ShowBrowser   off
@@ -5722,7 +5722,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1360, 719]
+        Location      [0, 30; 1280, 671]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -10462,7 +10462,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 37; 1360, 719]
+            Location      [0, 30; 1280, 671]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -10498,7 +10498,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 37; 1360, 719]
+                Location      [0, 30; 1280, 671]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -11108,7 +11108,7 @@ Plecs {
                       LabelAlign    up
                       Parameter {
                         Variable      "f(u)"
-                        Value         "7*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
+                        Value         "(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
                         Show          off
                       }
                     }
@@ -16156,7 +16156,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1360, 719]
+        Location      [0, 30; 1280, 671]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -20922,7 +20922,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 37; 1360, 719]
+            Location      [0, 30; 1280, 671]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -20958,7 +20958,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 37; 1360, 719]
+                Location      [0, 30; 1280, 671]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -21568,7 +21568,7 @@ Plecs {
                       LabelAlign    up
                       Parameter {
                         Variable      "f(u)"
-                        Value         "7*(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
+                        Value         "(-u(3)*K*u(2)*(Q*r/(u(1)+Q*r*0.1)))"
                         Show          off
                       }
                     }
