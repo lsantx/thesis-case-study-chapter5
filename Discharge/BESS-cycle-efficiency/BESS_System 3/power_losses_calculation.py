@@ -119,9 +119,7 @@ plosses_core_lg_lcl = 3 * core_loss * param.vn * 1e-9  # Perdas em W
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter 1...")
 bg_ac = np.array(
     [
-        binter1[i][
-            int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :
-        ]
+        binter1[i][int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :]
         for i in range(0, len(binter1))
     ]
 )
@@ -131,9 +129,7 @@ plosses_core_inter1 = 3 * core_loss * param.vn_inter * 1e-9  # Perdas em W
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter 2...")
 bg_ac = np.array(
     [
-        binter1[i][
-            int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :
-        ]
+        binter1[i][int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :]
         for i in range(0, len(binter1))
     ]
 )
@@ -193,7 +189,7 @@ print("Efficiency calculation...")
 efficiency = ((1 - total_power_losses / (pbat + pbat2)) * 100)[0]
 
 print("Save json file...")
-with open("efficiency_bess2.json", "w") as arquivo:
+with open("efficiency_bess3.json", "w") as arquivo:
     efficiency_list = efficiency.tolist()
     json.dump(efficiency_list, arquivo)
 

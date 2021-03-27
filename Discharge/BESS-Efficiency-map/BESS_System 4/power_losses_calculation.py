@@ -108,10 +108,7 @@ plosses_core_linv_lcl = 3 * np.reshape(
 
 print("\nCore loss calculation: grid side inductor of the LCL filter...")
 bg_ac = np.array(
-    [
-        bg[i][int(len(bg[i]) - ((1 / 60) / param.ts) + 1) :]
-        for i in range(0, len(bg))
-    ]
+    [bg[i][int(len(bg[i]) - ((1 / 60) / param.ts) + 1) :] for i in range(0, len(bg))]
 )
 
 core_loss = np.array([core_loss_func(bg_ac[i][:], i) for i in range(0, len(bg))])
@@ -123,9 +120,7 @@ plosses_core_lg_lcl = 3 * np.reshape(
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter 1...")
 bg_ac = np.array(
     [
-        binter1[i][
-            int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :
-        ]
+        binter1[i][int(len(binter1[i]) - ((1 / param.fswb) / param.ts) + 1) :]
         for i in range(0, len(binter1))
     ]
 )
@@ -138,9 +133,7 @@ plosses_core_inter1 = 3 * np.reshape(
 print("\nCore loss calculation: interleaved inductor of the dc/dc converter 2...")
 bg_ac = np.array(
     [
-        binter2[i][
-            int(len(binter2[i]) - ((1 / param.fswb) / param.ts) + 1) :
-        ]
+        binter2[i][int(len(binter2[i]) - ((1 / param.fswb) / param.ts) + 1) :]
         for i in range(0, len(binter2))
     ]
 )

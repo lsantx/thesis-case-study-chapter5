@@ -3,7 +3,7 @@ Plecs {
   Version       "4.5"
   CircuitModel  "DiscStateSpace"
   StartTime     "0.0"
-  TimeSpan      "10"
+  TimeSpan      "0.4"
   Timeout       ""
   Solver        "FixedStepDiscrete"
   MaxStep       "passo"
@@ -115,7 +115,7 @@ Plecs {
   ExternalModeSettings ""
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
-  ScriptsDialogGeometry "[1766 221 534 273]"
+  ScriptsDialogGeometry "[654 155 534 273]"
   ScriptsDialogSplitterPos "100"
   Terminal {
     Type          Output
@@ -206,7 +206,7 @@ Plecs {
     Index         "22"
   }
   Schematic {
-    Location      [0, 30; 1280, 671]
+    Location      [0, 30; 1360, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -6422,7 +6422,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1280, 671]
+        Location      [0, 30; 1360, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -7132,17 +7132,17 @@ Plecs {
           Position      [65, 415]
           Direction     down
           Flipped       on
-          Location      [0, 37; 1360, 748]
+          Location      [0, 30; 1360, 748]
           State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
 "wBvAG0AQQByAGUAYQAAAAAA/////wAAAIEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
 "AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKv"
 "AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
 "AAAAAAAAA=="
           SavedViews    "AAAAAgAAAAA="
           HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
-"ABAAAAZAAAAAIAAABkAAAAjgAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
+"AAAAQAAAGQAAAADAAAAZAAAAAIAAABkAAAABQAAAGQAAAAEAAAAZAAAAAcAAABkAAAABgAAAGQAAA"
+"AJAAAAZAAAAAgAAABkAAAAjgAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
 "1AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
 "AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
 "AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
