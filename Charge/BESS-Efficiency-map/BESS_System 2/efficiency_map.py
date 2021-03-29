@@ -32,28 +32,18 @@ soc = np.array([20, 30, 40, 50, 60, 70, 80, 90, 100])
 fig, ax1 = plt.subplots(1, 1)
 fig.set_size_inches(8, 6)
 
-N = 19  # Number of levels
+N = 1000  # Number of levels
 step = (np.amax(efficiency) - np.amin(efficiency)) / N
 levels = np.linspace(np.amin(efficiency), np.amax(efficiency), num=N, endpoint=True)
-count1 = ax1.contourf(soc, pref / pnom, efficiency, levels, extend="min")
-ax1.set_xlabel("Soc [%]")
-ax1.set_ylabel("Power [kW]")
-cbar3 = fig.colorbar(count1, ax=ax1)
+count1 = ax1.contourf(soc, pref / np.amax(pref), efficiency, levels, extend="min", cmap='jet')
+ax1.set_xlabel("Soc [%]", fontsize=14)
+ax1.set_ylabel("Power [pu]", fontsize=14)
+plt.yticks(fontsize=11)
+plt.xticks(fontsize=11)
+cbar = fig.colorbar(count1, ax=ax1)
+cbar.set_label('Efficiency [%]', fontsize=14)
+cbar.ax.tick_params(labelsize=11)  # set your label size here
 fig.tight_layout()
-plt.show()
-
-# %%
-fig, ax1 = plt.subplots(1, 1)
-fig.set_size_inches(8, 6)
-
-N = 19  # Number of levels
-
-step = (np.amax(efficiency) - np.amin(efficiency)) / N
-levels = np.linspace(np.amin(efficiency), np.amax(efficiency), num=N, endpoint=True)
-count1 = ax1.contourf(ibat, vbat, efficiency, levels, extend="min")
-ax1.set_xlabel("Soc [%]")
-ax1.set_ylabel("Power [pu]")
-cbar3 = fig.colorbar(count1, ax=ax1)
-fig.tight_layout()
-plt.show()
-# %%
+plt.show(block=False)
+input("hit[enter] to end.")
+plt.close('all')
