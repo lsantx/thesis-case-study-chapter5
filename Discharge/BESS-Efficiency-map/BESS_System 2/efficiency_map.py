@@ -33,7 +33,7 @@ fig.set_size_inches(8, 6)
 N = 1000  # Number of levels
 step = (np.amax(efficiency) - np.amin(efficiency)) / N
 levels = np.linspace(np.amin(efficiency), np.amax(efficiency), num=N, endpoint=True)
-count1 = ax1.contourf(soc, pref / np.amax(pref), efficiency, levels, extend="min", cmap='jet')
+count1 = ax1.contourf(soc, pref / pnom, efficiency, levels, extend="min", cmap='jet')
 ax1.set_xlabel("Soc [%]", fontsize=14)
 ax1.set_ylabel("Power [pu]", fontsize=14)
 plt.yticks(fontsize=11)
