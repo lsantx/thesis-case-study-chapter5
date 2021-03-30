@@ -40,10 +40,30 @@ soc = np.array(
 
 fig, ax = plt.subplots()
 
-ax.plot(soc[:len(soc) - 1], efficiency_bess1[:len(efficiency_bess1) - 1], "ko-", label="T1")
-ax.plot(soc[:len(soc) - 1], efficiency_bess2[:len(efficiency_bess2) - 1], "ro-", label="T2")
-ax.plot(soc[:len(soc) - 1], efficiency_bess3[:len(efficiency_bess3) - 1], "go-", label="T3")
-ax.plot(soc[:len(soc) - 1], efficiency_bess4[:len(efficiency_bess4) - 1], "bo-", label="T4")
+ax.plot(
+    soc[: len(soc) - 1],
+    efficiency_bess1[: len(efficiency_bess1) - 1],
+    "ko-",
+    label="T1",
+)
+ax.plot(
+    soc[: len(soc) - 1],
+    efficiency_bess2[: len(efficiency_bess2) - 1],
+    "ro-",
+    label="T2",
+)
+ax.plot(
+    soc[: len(soc) - 1],
+    efficiency_bess3[: len(efficiency_bess3) - 1],
+    "go-",
+    label="T3",
+)
+ax.plot(
+    soc[: len(soc) - 1],
+    efficiency_bess4[: len(efficiency_bess4) - 1],
+    "bo-",
+    label="T4",
+)
 ax.set_xlabel("SOC [%]", fontsize=14)
 ax.set_ylabel("Efficiency [%]", fontsize=14)
 ax.set_ylim([91.5, 93.5])
