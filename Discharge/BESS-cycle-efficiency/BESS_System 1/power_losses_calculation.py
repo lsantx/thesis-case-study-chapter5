@@ -136,10 +136,14 @@ efficiency = ((1 - total_power_losses / pbat) * 100)[0]
 # axs.set_ylabel('Damped oscillation')
 # fig.suptitle('This is a somewhat long figure title', fontsize=16)
 
-print("Save json file...")
+print("Save json files...")
 with open("efficiency_bess1.json", "w") as arquivo:
     efficiency_list = efficiency.tolist()
     json.dump(efficiency_list, arquivo)
+
+with open("total_power_losses_bess1.json", "w") as arquivo:
+    total_power_losses_list = total_power_losses.tolist()
+    json.dump(total_power_losses_list, arquivo)
 
 print("Complete")
 # %%

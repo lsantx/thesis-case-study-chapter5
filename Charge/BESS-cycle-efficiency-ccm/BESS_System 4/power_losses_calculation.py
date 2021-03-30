@@ -192,5 +192,9 @@ with open("efficiency_bess4.json", "w") as arquivo:
     efficiency_list = efficiency.tolist()
     json.dump(efficiency_list, arquivo)
 
+with open("total_power_losses_bess4.json", "w") as arquivo:
+    total_power_losses_list = total_power_losses.tolist()
+    json.dump(total_power_losses_list, arquivo)
+
 print("Complete")
 # %%
