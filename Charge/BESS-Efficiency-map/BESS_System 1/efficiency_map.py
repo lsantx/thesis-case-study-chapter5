@@ -36,13 +36,16 @@ N = 1000  # Number of levels
 step = (np.amax(efficiency) - np.amin(efficiency)) / N
 levels = np.linspace(np.amin(efficiency), np.amax(efficiency), num=N, endpoint=True)
 count1 = ax1.contourf(soc, pref / pnom, efficiency, levels, extend="min", cmap="jet")
-ax1.set_xlabel("Soc [%]", fontsize=14)
-ax1.set_ylabel("Power [pu]", fontsize=14)
-plt.yticks(fontsize=11)
-plt.xticks(fontsize=11)
+ax1.set_xlabel("Soc [%]", fontsize=18)
+ax1.set_ylabel("Power [pu]", fontsize=18)
+plt.yticks(fontsize=18)
+plt.xticks(fontsize=18)
 cbar = fig.colorbar(count1, ax=ax1)
-cbar.set_label("Efficiency [%]", fontsize=14)
-cbar.ax.tick_params(labelsize=11)  # set your label size here
+cbar.set_label("Efficiency [%]", fontsize=18)
+cbar.ax.tick_params(labelsize=18)  # set your label size here
+# This is the fix for the white lines between contour levels
+for c in count1.collections:
+    c.set_edgecolor("face")  
 fig.tight_layout()
 plt.show(block=False)
 input("hit[enter] to end.")
