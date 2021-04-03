@@ -211,7 +211,7 @@ Plecs {
     Index         "19"
   }
   Schematic {
-    Location      [0, 55; 1360, 671]
+    Location      [1360, 55; 2726, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -6240,7 +6240,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 55; 1360, 671]
+        Location      [0, 30; 1360, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -10299,8 +10299,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10333,8 +10333,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10362,8 +10362,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -10391,8 +10391,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -10425,8 +10425,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10459,8 +10459,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10488,8 +10488,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -10517,8 +10517,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -10551,8 +10551,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10585,8 +10585,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -10614,8 +10614,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -10643,8 +10643,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -16117,7 +16117,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 55; 1360, 671]
+        Location      [0, 30; 1360, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -20166,8 +20166,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20200,8 +20200,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20229,8 +20229,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -20258,8 +20258,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -20292,8 +20292,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20326,8 +20326,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20355,8 +20355,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -20384,8 +20384,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -20418,8 +20418,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20452,8 +20452,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
+"sem_zth"
             Show          off
           }
           Parameter {
@@ -20481,8 +20481,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
@@ -20510,8 +20510,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
+"_sem_zth"
             Show          off
           }
           Parameter {
