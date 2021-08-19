@@ -48,26 +48,26 @@ Plecs {
 "k7CgpLcF9wbGwgPSAyKnduX3NyZiprc2lfc3JmOwpLaV9wbGwgPSAod25fc3JmXjIpOwoKJSUgTWF"
 "saGEgZXh0ZXJuYSBWZGMKQ2RjID0gM2UtMzsgICAgICAgICAKS3BvdXRlciA9IDAuNDg5NzM7ICAg"
 "ICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCktpb3V0ZXIgPSAxMDYuNTkxNzsgICAgJSVNT"
-"2RlbGFnZW0gbm8gYXJxdWl2byAubQoKJSUgQmF0dGVyeQpOYl9zZXJpZXMgPSA0NDsKTmJfc3RyaW"
+"2RlbGFnZW0gbm8gYXJxdWl2byAubQoKJSUgQmF0dGVyeQpOYl9zZXJpZXMgPSA3MDsKTmJfc3RyaW"
 "5ncyA9IDE7ClNvY19taW4gPSAwOyAgICAlIFNPQ1slXQpTb2NfbWF4ID0gMTAwOwpWZGNvID0gMTM"
 "uNipOYl9zZXJpZXM7ICAgICAgICAgICAgICAgICAgICAgICAgJSUgdGVuc8OjbyBpbmljaWFsIGRj"
 "LWxpbmsKUmludCA9IChOYl9zZXJpZXMvTmJfc3RyaW5ncykqNS4yZS0zOyAgICUlUmVzaXN0w6puY"
-"2lhIGludGVybmEgdG90YWwgZGFzIGJhdGVyaWFzCgolIERjL2RjIFBhcmFtZXRlcnMKTGIgPSAyLj"
-"NlLTM7ICAgICAgICAgICAgICAgICVJbmR1dG9yIGRvIEJvb3N0ClJiID0gMTguNTllLTM7ICAgICA"
-"gICAgICAgICAlUmVzaXN0w6puY2lhIHPDqXJpZSBkbyBpbmR1dG9yCk4gPSAzOyAgICAgICAgICAg"
-"ICAgICAgJU7Dum1lcm8gZGUgYnJhw6dvcyBkbyBpbnRlcmxlYXZlZApOX2VzcGlyYXNfY2MgPSAxO"
-"Tk7CkFyZWFfY2MgPSA5ODdlLTY7ICAgICAgIApmc3diID0gMTIwMDA7ClRzYiA9IDEvZnN3YjsKJS"
-"VHYW5ob3MgZG8gY29udHJvbGFkb3IgZG8gZGMvZGMKJSUgZ2FuaG8gY29udHJvbGUgZGUgY29ycmV"
-"udGUgZG8gYm9vc3QgZSBidWNrCktjID0gVmRjLyhSYitOKlJpbnQpOwpUbSA9IExiLyhSYitOKlJp"
-"bnQpOwpmYyA9IGZzd2IvMTA7CktwYiA9IDIqcGkqZmMqVG0vS2M7ICAgICAgICAlJU1PZGVsYWdlb"
-"SBubyBhcnF1aXZvIC5tCktpYiA9IDIqcGkqZmMvS2M7ICAgICAgICAgICAlJU1PZGVsYWdlbSBuby"
-"BhcnF1aXZvIC5tCiUlZ2FuaG8gY29udHJvbGUgZGUgY29ycmVudGUgZG8gYnVjayAoTW9kbyBjb3J"
-"yZW50ZSBjb25zdGFudGUpCktwaWJ1ID0gMipwaSpmYypUbS9LYzsgICAgICAlJU1PZGVsYWdlbSBu"
-"byBhcnF1aXZvIC5tCktpaWJ1ID0gMipwaSpmYy9LYzsgICAgICAgICAlJU1PZGVsYWdlbSBubyBhc"
-"nF1aXZvIC5tCiUlIGdhbmhvIGNvbnRyb2xlIGRlIHRlbnPDo28gZG8gYnVjayAoTW9kbyB0ZW5zw6"
-"NvIGNvbnN0YW50ZSkKS2UgPSBOKlJpbnQ7CmZjMSA9IDIwOwpmYzIgPSBmYzEvMjA7CktwdmJ1ID0"
-"gMipwaSpmYzIvKDIqcGkqS2UqKGZjMS1mYzIpKTsgICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZv"
-"IC5tCktpdmJ1ID0gMipwaSpmYzEqKEtwdmJ1KTsgICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZv"
+"2lhIGludGVybmEgdG90YWwgZGFzIGJhdGVyaWFzCgolIERjL2RjIFBhcmFtZXRlcnMKTGIgPSA0ZS"
+"0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSYiA9IDE1Ny42NmUtMzsgICAgICA"
+"gICAgICAgICVSZXNpc3TDqm5jaWEgc8OpcmllIGRvIGluZHV0b3IKTiA9IDM7ICAgICAgICAgICAg"
+"ICAgICAlTsO6bWVybyBkZSBicmHDp29zIGRvIGludGVybGVhdmVkCk5fZXNwaXJhc19jYyA9IDI1N"
+"TsKQXJlYV9jYyA9IDk4N2UtNjsgICAgICAgCmZzd2IgPSAxMjAwMDsKVHNiID0gMS9mc3diOwolJU"
+"dhbmhvcyBkbyBjb250cm9sYWRvciBkbyBkYy9kYwolJSBnYW5obyBjb250cm9sZSBkZSBjb3JyZW5"
+"0ZSBkbyBib29zdCBlIGJ1Y2sKS2MgPSBWZGMvKFJiK04qUmludCk7ClRtID0gTGIvKFJiK04qUmlu"
+"dCk7CmZjID0gZnN3Yi8xMDsKS3BiID0gMipwaSpmYypUbS9LYzsgICAgICAgICUlTU9kZWxhZ2VtI"
+"G5vIGFycXVpdm8gLm0KS2liID0gMipwaSpmYy9LYzsgICAgICAgICAgICUlTU9kZWxhZ2VtIG5vIG"
+"FycXVpdm8gLm0KJSVnYW5obyBjb250cm9sZSBkZSBjb3JyZW50ZSBkbyBidWNrIChNb2RvIGNvcnJ"
+"lbnRlIGNvbnN0YW50ZSkKS3BpYnUgPSAyKnBpKmZjKlRtL0tjOyAgICAgICUlTU9kZWxhZ2VtIG5v"
+"IGFycXVpdm8gLm0KS2lpYnUgPSAyKnBpKmZjL0tjOyAgICAgICAgICUlTU9kZWxhZ2VtIG5vIGFyc"
+"XVpdm8gLm0KJSUgZ2FuaG8gY29udHJvbGUgZGUgdGVuc8OjbyBkbyBidWNrIChNb2RvIHRlbnPDo2"
+"8gY29uc3RhbnRlKQpLZSA9IE4qUmludDsKZmMxID0gMjA7CmZjMiA9IGZjMS8yMDsKS3B2YnUgPSA"
+"yKnBpKmZjMi8oMipwaSpLZSooZmMxLWZjMikpOyAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8g"
+"Lm0KS2l2YnUgPSAyKnBpKmZjMSooS3B2YnUpOyAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8="
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -205,7 +205,7 @@ Plecs {
     Index         "22"
   }
   Schematic {
-    Location      [1360, 64; 2726, 719]
+    Location      [1366, 30; 2726, 719]
     ZoomFactor    1.14437
     SliderPosition [-1, -1]
     ShowBrowser   off
@@ -6012,7 +6012,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1360, 719]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -6967,7 +6967,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "30"
+            Value         "59.71/3"
             Show          off
           }
           Parameter {
@@ -7312,7 +7312,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "90"
+            Value         "59.71"
             Show          off
           }
           Parameter {
@@ -10279,8 +10279,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10313,8 +10312,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10342,8 +10340,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10371,8 +10368,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10405,8 +10401,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10439,8 +10434,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10468,8 +10462,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10497,8 +10490,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10531,8 +10523,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10565,8 +10556,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10594,8 +10584,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10623,8 +10612,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -11509,21 +11497,21 @@ Plecs {
         }
         Connection {
           Type          Wire
-          SrcComponent  "IGBT7"
+          SrcComponent  "D9"
           SrcTerminal   1
-          Points        [835, 455]
+          Points        [835, 400; 835, 405]
           Branch {
             Points        [835, 425]
             Branch {
-              Points        [835, 405]
+              Points        [835, 455]
               Branch {
-                DstComponent  "IGBT8"
-                DstTerminal   2
+                DstComponent  "IGBT7"
+                DstTerminal   1
               }
               Branch {
-                Points        [835, 400]
-                DstComponent  "D9"
-                DstTerminal   1
+                Points        [845, 455]
+                DstComponent  "D8"
+                DstTerminal   2
               }
             }
             Branch {
@@ -11532,132 +11520,129 @@ Plecs {
             }
           }
           Branch {
-            Points        [845, 455]
-            DstComponent  "D8"
+            DstComponent  "IGBT8"
             DstTerminal   2
           }
         }
         Connection {
           Type          Wire
-          SrcComponent  "IGBT7"
-          SrcTerminal   2
-          Points        [835, 495]
+          SrcComponent  "D14"
+          SrcTerminal   1
+          Points        [900, 490; 900, 495]
           Branch {
-            Points        [835, 505]
+            Points        [900, 505]
             Branch {
-              Points        [900, 505]
+              Points        [835, 505]
               Branch {
-                Points        [900, 495]
+                Points        [835, 495]
                 Branch {
-                  Points        [900, 490]
-                  DstComponent  "D14"
-                  DstTerminal   1
+                  DstComponent  "IGBT7"
+                  DstTerminal   2
                 }
                 Branch {
-                  DstComponent  "IGBT13"
-                  DstTerminal   2
+                  Points        [835, 490]
+                  DstComponent  "D8"
+                  DstTerminal   1
                 }
               }
               Branch {
-                DstComponent  "2"
-                DstTerminal   1
+                Points        [765, 505]
+                Branch {
+                  Points        [310, 505]
+                  Branch {
+                    DstComponent  "Vm4"
+                    DstTerminal   2
+                  }
+                  Branch {
+                    Points        [240, 505; 240, 540; 180, 540]
+                    DstComponent  "V_dc"
+                    DstTerminal   2
+                  }
+                }
+                Branch {
+                  Points        [765, 495]
+                  Branch {
+                    Points        [765, 490]
+                    DstComponent  "D10"
+                    DstTerminal   1
+                  }
+                  Branch {
+                    DstComponent  "IGBT9"
+                    DstTerminal   2
+                  }
+                }
               }
             }
             Branch {
-              Points        [765, 505]
-              Branch {
-                Points        [310, 505]
-                Branch {
-                  DstComponent  "Vm4"
-                  DstTerminal   2
-                }
-                Branch {
-                  Points        [240, 505; 240, 540; 180, 540]
-                  DstComponent  "V_dc"
-                  DstTerminal   2
-                }
-              }
-              Branch {
-                Points        [765, 495]
-                Branch {
-                  Points        [765, 490]
-                  DstComponent  "D10"
-                  DstTerminal   1
-                }
-                Branch {
-                  DstComponent  "IGBT9"
-                  DstTerminal   2
-                }
-              }
+              DstComponent  "2"
+              DstTerminal   1
             }
           }
           Branch {
-            Points        [835, 490]
-            DstComponent  "D8"
+            DstComponent  "IGBT13"
+            DstTerminal   2
+          }
+        }
+        Connection {
+          Type          Wire
+          SrcComponent  "D15"
+          SrcTerminal   2
+          Points        [900, 365; 900, 360]
+          Branch {
+            Points        [900, 355]
+            Branch {
+              Points        [835, 355]
+              Branch {
+                Points        [835, 365]
+                Branch {
+                  DstComponent  "IGBT8"
+                  DstTerminal   1
+                }
+                Branch {
+                  Points        [835, 370]
+                  DstComponent  "D9"
+                  DstTerminal   2
+                }
+              }
+              Branch {
+                Points        [765, 355; 765, 360]
+                Branch {
+                  DstComponent  "IGBT10"
+                  DstTerminal   1
+                }
+                Branch {
+                  Points        [775, 360]
+                  DstComponent  "D12"
+                  DstTerminal   2
+                }
+              }
+            }
+            Branch {
+              DstComponent  "1"
+              DstTerminal   1
+            }
+          }
+          Branch {
+            DstComponent  "IGBT14"
             DstTerminal   1
           }
         }
         Connection {
           Type          Wire
-          SrcComponent  "IGBT8"
+          SrcComponent  "D12"
           SrcTerminal   1
-          Points        [835, 365]
-          Branch {
-            Points        [835, 355]
-            Branch {
-              Points        [900, 355]
-              Branch {
-                Points        [900, 360]
-                Branch {
-                  DstComponent  "IGBT14"
-                  DstTerminal   1
-                }
-                Branch {
-                  Points        [900, 365]
-                  DstComponent  "D15"
-                  DstTerminal   2
-                }
-              }
-              Branch {
-                DstComponent  "1"
-                DstTerminal   1
-              }
-            }
-            Branch {
-              Points        [765, 355; 765, 360]
-              Branch {
-                DstComponent  "IGBT10"
-                DstTerminal   1
-              }
-              Branch {
-                Points        [775, 360]
-                DstComponent  "D12"
-                DstTerminal   2
-              }
-            }
-          }
-          Branch {
-            Points        [835, 370]
-            DstComponent  "D9"
-            DstTerminal   2
-          }
-        }
-        Connection {
-          Type          Wire
-          SrcComponent  "IGBT9"
-          SrcTerminal   1
-          Points        [765, 455]
+          Points        [765, 395; 765, 400]
           Branch {
             Points        [765, 440]
             Branch {
-              Points        [765, 400]
+              Points        [765, 455]
               Branch {
-                Points        [765, 395]
-                DstComponent  "D12"
+                DstComponent  "IGBT9"
                 DstTerminal   1
               }
               Branch {
-                DstComponent  "IGBT10"
+                Points        [775, 455]
+                DstComponent  "D10"
                 DstTerminal   2
               }
             }
@@ -11667,8 +11652,7 @@ Plecs {
             }
           }
           Branch {
-            Points        [775, 455]
-            DstComponent  "D10"
+            DstComponent  "IGBT10"
             DstTerminal   2
           }
         }
@@ -11701,46 +11685,6 @@ Plecs {
             DstComponent  "D14"
             DstTerminal   2
           }
-        }
-        Connection {
-          Type          Signal
-          SrcComponent  "Delay2"
-          SrcTerminal   1
-          Points        [725, 55; 725, 380]
-          DstComponent  "IGBT10"
-          DstTerminal   3
-        }
-        Connection {
-          Type          Signal
-          SrcComponent  "Delay2"
-          SrcTerminal   2
-          Points        [715, 65; 715, 475]
-          DstComponent  "IGBT9"
-          DstTerminal   3
-        }
-        Connection {
-          Type          Signal
-          SrcComponent  "Delay2"
-          SrcTerminal   3
-          Points        [800, 75]
-          DstComponent  "IGBT8"
-          DstTerminal   3
-        }
-        Connection {
-          Type          Signal
-          SrcComponent  "Delay2"
-          SrcTerminal   4
-          Points        [790, 85; 790, 475]
-          DstComponent  "IGBT7"
-          DstTerminal   3
-        }
-        Connection {
-          Type          Signal
-          SrcComponent  "Delay2"
-          SrcTerminal   9
-          Points        [865, 95]
-          DstComponent  "IGBT14"
-          DstTerminal   3
         }
         Connection {
           Type          Signal
@@ -11931,6 +11875,46 @@ Plecs {
           Points        [160, 260; 160, 115]
           DstComponent  "Mux15"
           DstTerminal   8
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Delay2"
+          SrcTerminal   3
+          Points        [800, 75]
+          DstComponent  "IGBT8"
+          DstTerminal   3
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Delay2"
+          SrcTerminal   9
+          Points        [865, 95]
+          DstComponent  "IGBT14"
+          DstTerminal   3
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Delay2"
+          SrcTerminal   4
+          Points        [790, 85; 790, 475]
+          DstComponent  "IGBT7"
+          DstTerminal   3
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Delay2"
+          SrcTerminal   2
+          Points        [715, 65; 715, 475]
+          DstComponent  "IGBT9"
+          DstTerminal   3
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Delay2"
+          SrcTerminal   1
+          Points        [725, 55; 725, 380]
+          DstComponent  "IGBT10"
+          DstTerminal   3
         }
         Annotation {
           Name          "Iref_ch"
@@ -12558,7 +12542,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 37; 1360, 719]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -13513,7 +13497,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "30"
+            Value         "59.71/3"
             Show          off
           }
           Parameter {
@@ -13834,7 +13818,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "90"
+            Value         "59.71"
             Show          off
           }
           Parameter {
@@ -16801,8 +16785,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -16835,8 +16818,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -16864,8 +16846,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -16893,8 +16874,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -16927,8 +16907,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -16961,8 +16940,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -16990,8 +16968,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -17019,8 +16996,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -17053,8 +17029,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -17087,8 +17062,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -17116,8 +17090,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -17145,8 +17118,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {

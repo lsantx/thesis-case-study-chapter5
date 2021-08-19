@@ -33,8 +33,7 @@ soc = np.array(
         82.39750361,
         87.19730882,
         91.99711339,
-        96.79691704,
-        100,
+        96.79691704
     ]
 )
 
@@ -66,10 +65,11 @@ ax.plot(
 )
 ax.set_xlabel("SOC [%]", fontsize=14)
 ax.set_ylabel("Efficiency [%]", fontsize=14)
-ax.set_ylim([91.5, 93.5])
+ax.set_ylim([91, 96])
+ax.set_xlim([15, 100])
 plt.yticks(fontsize=11)
 plt.xticks(fontsize=11)
-plt.legend(bbox_to_anchor=[0.785, 0.5], loc="center", fontsize=13)
+plt.legend(bbox_to_anchor=[0.785, 0.38], loc="center", fontsize=13)
 plt.grid()
 plt.show(block=False)
 input("hit[enter] to end.")
