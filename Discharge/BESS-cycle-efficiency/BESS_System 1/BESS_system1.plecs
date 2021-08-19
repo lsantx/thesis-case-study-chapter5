@@ -3,7 +3,7 @@ Plecs {
   Version       "4.5"
   CircuitModel  "DiscStateSpace"
   StartTime     "0.0"
-  TimeSpan      "0.4"
+  TimeSpan      "1"
   Timeout       ""
   Solver        "FixedStepDiscrete"
   MaxStep       "passo"
@@ -23,37 +23,37 @@ Plecs {
   MaxConsecutiveZCs "1000"
   AlgebraicLoopWithStateMachineMsg "2"
   AssertionAction "1"
-  InitializationCommands base64 "U29jSW5pdCA9IDEwMDsKJSUgUGFyw6JtZXRyb3MgZGEgc"
-"mVkZSBlIGRhIGNhcmdhClZybXMgPSA2OTA7ICAgICAgICAgICAgICAgICAgICAgICAgICAlIFRlbn"
-"PDo28gZGUgbGluaGEgZWZpY2F6IGRhIHJlZGUKVnBpY28gPSBWcm1zKnNxcnQoMC42NjY2NjY2NjY"
-"2NjY2NjcpOwpmbiA9IDYwOwp3biA9IDIqcGkqZm47CgolJSBUZW1wZXJhdHVyYSBpbmljaWFsIGRv"
-"cyBkaXNwb3NpdGl2b3MKVGVtcF9pbmljaWFsX0lHQlQgPSAyNTA7ClRlbXBfaW5pY2lhbF9kaW9kb"
-"yA9IDI1MDsKClRlbXBfaW5pY2lhbF9JR0JUX2ludiA9IDgwMDsKVGVtcF9pbmljaWFsX2Rpb2RvX2"
-"ludiA9IDgwMDsKCiUlIHBhcsOibWV0cm9zIGRhIHNpbXVsYcOnw6NvCmZzdyA9IDYwMDA7ICAgICA"
-"gICAgICAgIAkJCQkgICAgJSUgZnJlcXXDqm5jaWEgZGUgY2hhdmVhbWVudG8gZG8gY29udmVyc29y"
-"CmZzYW1wbGUgPSAyKmZzdzsgICAgICAgICAgICAgICAgICAgICAgJXV0aWxpemFkbyBub3MgcGFyw"
-"6JtZXRyb3MgZG8gY29udHJvbGUodHJhbnNmb3JtYcOnw6NvIGUgY29udHJvbGUpClRzYW1wbGUgPS"
-"AxL2ZzYW1wbGU7CmZkc3AgPSBmc2FtcGxlKjEyMDsKcGFzc28gPSAxLyhmZHNwKTsgCQkJCSAgCSA"
-"lJSBpbmNyZW1lbnRvIGRlIHNpbXVsYcOnw6NvClZkYyA9IDYwMDsKCiUgUkVERQpTY2MgPSAyMDBl"
-"NjsKWF9SID0gMC41OwpWcm1zX2YgPSBWcm1zL3NxcnQoMyk7CnRoZXRhID0gYXRhbihYX1IpOwpab"
-"W9kID0gVnJtc19mXjIvKFNjYy8zKTsKUnNvdXJjZSA9IFptb2QqY29zKHRoZXRhKTsKTHNvdXJjZS"
-"A9IFptb2Qqc2luKHRoZXRhKS8oMipwaSpmbik7CgolJSBQYXJhbWV0cm9zIEZpbHRybwpMZiA9IDg"
-"uNzVlLTA0OwpDZiA9IDEuNDVlLTA1OwolUmQgPSAxLjU7CkxnID0gTGY7CkwgPSBMZytMZgpSZiA9"
-"IDIqcGkqZm4qTGYvMTguODk4MjsKUmcgPSAyKnBpKmZuKkxnLzE4Ljg5ODI7ClIgPSBSZytSZjsKR"
-"VNSX2NhcF9sY2wgPSAwLjAyOwpOX2VzcGlyYXMgPSA4MjsKQXJlYSA9IDk4N2UtNjsKCiUlIENvbn"
-"Ryb2xlIHJlc3NvbmFudGUKS2luID0gMjAwMDslLTIqcGkqZmNfYWIqUioyOwpUPTEvZnN3Owpybz1"
-"leHAoUipUL0wpOwpLcF9lcV8xMyA9IFIqc3FydCgyKzIqcm9eLTItKDErc3FydCg1KSkqcm9eLTEp"
-"LygoMS1yb14tMSkqc3FydCgyKSk7CgolJSBQYXJhbWV0cm9zIFBMTApXaW5pdCA9IDIqcGkqZm47C"
-"mtzaV9zcmYgPSAxL3NxcnQoMik7ICAgICAgIAp3bl9zcmYgPSAzMCoyKnBpOwoKS3BfcGxsID0gMi"
-"p3bl9zcmYqa3NpX3NyZjsKS2lfcGxsID0gKHduX3NyZl4yKTsKCiUlIE1hbGhhIGV4dGVybmEgVmR"
-"jCkNkYyA9IDNlLTM7ICAgICAgICAgCktwb3V0ZXIgPSAwLjQ4OTczOyAgICAgICAgJSVNT2RlbGFn"
-"ZW0gbm8gYXJxdWl2byAubQpLaW91dGVyID0gMTA2LjU5MTc7ICAgICUlTU9kZWxhZ2VtIG5vIGFyc"
-"XVpdm8gLm0KCiUlIE1hbGhhIGV4dGVybmEgcG90w6puY2lhIChOw6NvIHVzYWRhKQpLcHAgPSAwLj"
-"AwMDIzODA4OwpLaXAgPSAwLjg5NzU1OwpLcHEgPSAtMC4wMDAyMzgwODsKS2lxID0gLTAuODk3NTU"
-"7CgolJSBCYXR0ZXJ5CkNiYXQgPSA3MDBlLTY7Ck5iX3NlcmllcyA9IDg4OwpOYl9zdHJpbmdzID0g"
-"MTsKU29jX21pbiA9IDA7ICAgICUgU09DWyVdClNvY19tYXggPSAxMDA7ClZkY28gPSAxMy42Kk5iX"
-"3NlcmllczsgICAgICAgICAgICAgICAgICAgICAgICAlJSB0ZW5zw6NvIGluaWNpYWwgZGMtbGluaw"
-"=="
+  InitializationCommands base64 "U29jSW5pdCA9IDk5Ljg7CiUlIFBhcsOibWV0cm9zIGRhI"
+"HJlZGUgZSBkYSBjYXJnYQpWcm1zID0gNjkwOyAgICAgICAgICAgICAgICAgICAgICAgICAgJSBUZW"
+"5zw6NvIGRlIGxpbmhhIGVmaWNheiBkYSByZWRlClZwaWNvID0gVnJtcypzcXJ0KDAuNjY2NjY2NjY"
+"2NjY2NjY3KTsKZm4gPSA2MDsKd24gPSAyKnBpKmZuOwoKJSUgVGVtcGVyYXR1cmEgaW5pY2lhbCBk"
+"b3MgZGlzcG9zaXRpdm9zClRlbXBfaW5pY2lhbF9JR0JUID0gMjUwOwpUZW1wX2luaWNpYWxfZGlvZ"
+"G8gPSAyNTA7CgpUZW1wX2luaWNpYWxfSUdCVF9pbnYgPSA4MDA7ClRlbXBfaW5pY2lhbF9kaW9kb1"
+"9pbnYgPSA4MDA7CgolJSBwYXLDom1ldHJvcyBkYSBzaW11bGHDp8Ojbwpmc3cgPSA2MDAwOyAgICA"
+"gICAgICAgICAJCQkJICAgICUlIGZyZXF1w6puY2lhIGRlIGNoYXZlYW1lbnRvIGRvIGNvbnZlcnNv"
+"cgpmc2FtcGxlID0gMipmc3c7ICAgICAgICAgICAgICAgICAgICAgICV1dGlsaXphZG8gbm9zIHBhc"
+"sOibWV0cm9zIGRvIGNvbnRyb2xlKHRyYW5zZm9ybWHDp8OjbyBlIGNvbnRyb2xlKQpUc2FtcGxlID"
+"0gMS9mc2FtcGxlOwpmZHNwID0gZnNhbXBsZSoxMjA7CnBhc3NvID0gMS8oZmRzcCk7IAkJCQkgIAk"
+"gJSUgaW5jcmVtZW50byBkZSBzaW11bGHDp8OjbwpWZGMgPSA2MDA7CgolIFJFREUKU2NjID0gMjAw"
+"ZTY7ClhfUiA9IDAuNTsKVnJtc19mID0gVnJtcy9zcXJ0KDMpOwp0aGV0YSA9IGF0YW4oWF9SKTsKW"
+"m1vZCA9IFZybXNfZl4yLyhTY2MvMyk7ClJzb3VyY2UgPSBabW9kKmNvcyh0aGV0YSk7Ckxzb3VyY2"
+"UgPSBabW9kKnNpbih0aGV0YSkvKDIqcGkqZm4pOwoKJSUgUGFyYW1ldHJvcyBGaWx0cm8KTGYgPSA"
+"4Ljc1ZS0wNDsKQ2YgPSAxLjQ1ZS0wNTsKJVJkID0gMS41OwpMZyA9IExmOwpMID0gTGcrTGYKUmYg"
+"PSAyKnBpKmZuKkxmLzE4Ljg5ODI7ClJnID0gMipwaSpmbipMZy8xOC44OTgyOwpSID0gUmcrUmY7C"
+"kVTUl9jYXBfbGNsID0gMC4wMjsKTl9lc3BpcmFzID0gODI7CkFyZWEgPSA5ODdlLTY7CgolJSBDb2"
+"50cm9sZSByZXNzb25hbnRlCktpbiA9IDIwMDA7JS0yKnBpKmZjX2FiKlIqMjsKVD0xL2ZzdzsKcm8"
+"9ZXhwKFIqVC9MKTsKS3BfZXFfMTMgPSBSKnNxcnQoMisyKnJvXi0yLSgxK3NxcnQoNSkpKnJvXi0x"
+"KS8oKDEtcm9eLTEpKnNxcnQoMikpOwoKJSUgUGFyYW1ldHJvcyBQTEwKV2luaXQgPSAyKnBpKmZuO"
+"wprc2lfc3JmID0gMS9zcXJ0KDIpOyAgICAgICAKd25fc3JmID0gMzAqMipwaTsKCktwX3BsbCA9ID"
+"Iqd25fc3JmKmtzaV9zcmY7CktpX3BsbCA9ICh3bl9zcmZeMik7CgolJSBNYWxoYSBleHRlcm5hIFZ"
+"kYwpDZGMgPSAzZS0zOyAgICAgICAgIApLcG91dGVyID0gMC40ODk3MzsgICAgICAgICUlTU9kZWxh"
+"Z2VtIG5vIGFycXVpdm8gLm0KS2lvdXRlciA9IDEwNi41OTE3OyAgICAlJU1PZGVsYWdlbSBubyBhc"
+"nF1aXZvIC5tCgolJSBNYWxoYSBleHRlcm5hIHBvdMOqbmNpYSAoTsOjbyB1c2FkYSkKS3BwID0gMC"
+"4wMDAyMzgwODsKS2lwID0gMC44OTc1NTsKS3BxID0gLTAuMDAwMjM4MDg7CktpcSA9IC0wLjg5NzU"
+"1OwoKJSUgQmF0dGVyeQpDYmF0ID0gNzAwZS02OwpOYl9zZXJpZXMgPSA4ODsKTmJfc3RyaW5ncyA9"
+"IDE7ClNvY19taW4gPSAwOyAgICAlIFNPQ1slXQpTb2NfbWF4ID0gMTAwOwpWZGNvID0gMTMuNipOY"
+"l9zZXJpZXM7ICAgICAgICAgICAgICAgICAgICAgICAgJSUgdGVuc8OjbyBpbmljaWFsIGRjLWxpbm"
+"s="
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -100,8 +100,8 @@ Plecs {
   ExternalModeSettings ""
   AlgebraicLoopMethod "1"
   AlgebraicLoopTolerance "1e-6"
-  ScriptsDialogGeometry "[413 387 534 273]"
-  ScriptsDialogSplitterPos "48"
+  ScriptsDialogGeometry "[411 390 534 273]"
+  ScriptsDialogSplitterPos "70"
   Terminal {
     Type          Output
     Index         "1"
@@ -147,7 +147,7 @@ Plecs {
     Index         "11"
   }
   Schematic {
-    Location      [0, 30; 1280, 671]
+    Location      [0, 55; 1366, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -159,19 +159,19 @@ Plecs {
       Position      [60, 380]
       Direction     down
       Flipped       on
-      Location      [0, 37; 1360, 748]
-      State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAACkvwCAAAAA/sAAAAQAFoAbwBvA"
+      Location      [170, 116; 1194, 623]
+      State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAAClvwCAAAAA/sAAAAQAFoAbwBvA"
 "G0AQQByAGUAYQAAAAAA/////wAAAIEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwIAAAQ4AA"
-"ABfQAAAMgAAAB4+wAAAAwAVAByAGEAYwBlAHMAAAAALwAAApIAAABjAP///wAAAAMAAAVWAAAAcvw"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABVAAAAKoAAAA"
+"ABfQAAAMgAAAB4+wAAAAwAVAByAGEAYwBlAHMAAAAAMwAAApYAAABjAP///wAAAAMAAAVWAAAAcvw"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAABVYAAABEAP///wAABAAAAAHcAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAEAAAAYAFMAYQB2AGUAZAAgAHYAaQBlAHcAIAAxAAAAAAAAA"
 "AA/+5pYEGJN0wAAAAMAf/gAAAAAAAB/+AAAAAAAAAB/+AAAAAAAAH/4AAAAAAAAAH/4AAAAAAAAf/"
 "gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
-"QAAAGQAAAAIAAAAZAAAAAkAAABkAAAABgAAAGQAAAAHAAAAZAAAAAQAAABkAAAABQAAAGQAAAACAA"
-"AAZAAAAAMAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB+AAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
+"AAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAABAAAAZAAAAAIAAABkAAAAAwAAAGQAAAAIAA"
+"AAZAAAAAkAAABkAAAAlwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB+AAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
 "AAZAAAAAQAAAAAAAAPoAAAAABk="
@@ -1678,19 +1678,20 @@ Plecs {
       Position      [975, 505]
       Direction     up
       Flipped       off
-      Location      [0, 31; 1366, 716]
+      Location      [0, 55; 1366, 748]
       State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAbwBvA"
-"G0AQQByAGUAYQAAAAAA/////wAAAFwA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
-"///wAAAGYA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABmAP///wAAAAMAAAVWAAAAs/w"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVYAAABQAP///wAABVYAAAHbAAAA"
+"G0AQQByAGUAYQAAAAAA/////wAAAFkA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
+"///wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAVWAAAAsfw"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVYAAABEAP///wAABVYAAAHfAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL0AMAAAAFAAAAB"
-"wAAAGQAAAAGAAAAZAAAAAQAAABkAAAACQAAAGQAAAAIAAAAZAAABVYAAAALAQAAAQAAAAAAAAAAAA"
-"AAAGT/////AAAAgQAAAAAAAAALAAAApQAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAA"
-"AZAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAA"
-"AAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAADIQAAAAEAAAAAAAAD6AA="
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
+"AAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAABAAAAZAAAAAIAAABkAAAAAwAAAGQAAAAIAA"
+"AAZAAAAAkAAABkAAAFVgAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAClAAA"
+"AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
+"AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
+"ASxAAAAAQAAAAAAAAPoAAAAABk="
       PlotPalettes  "AAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA"
 "AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
       Axes          "2"
@@ -3450,7 +3451,7 @@ Plecs {
       Type          Constant
       Name          "Constant2"
       Show          off
-      Position      [75, 40]
+      Position      [65, 40]
       Direction     right
       Flipped       off
       Frame         [-45, -10; 45, 10]
@@ -3489,15 +3490,15 @@ Plecs {
       Type          Constant
       Name          "Constant3"
       Show          off
-      Position      [470, 40]
+      Position      [480, 40]
       Direction     right
       Flipped       off
-      Frame         [-50, -10; 50, 10]
+      Frame         [-60, -10; 60, 10]
       LabelPosition [0, 13]
       LabelAlign    up
       Parameter {
         Variable      "Value"
-        Value         "30*Nb_strings"
+        Value         "(95/3)*Nb_strings"
         Show          off
       }
       Parameter {
@@ -3510,7 +3511,7 @@ Plecs {
       Type          Goto
       Name          "Goto5"
       Show          off
-      Position      [555, 40]
+      Position      [580, 40]
       Direction     right
       Flipped       off
       Parameter {
@@ -3528,7 +3529,7 @@ Plecs {
       Type          Constant
       Name          "Constant4"
       Show          off
-      Position      [665, 40]
+      Position      [715, 40]
       Direction     right
       Flipped       off
       Frame         [-50, -10; 50, 10]
@@ -3549,7 +3550,7 @@ Plecs {
       Type          Goto
       Name          "Goto6"
       Show          off
-      Position      [740, 40]
+      Position      [790, 40]
       Direction     right
       Flipped       off
       Parameter {
@@ -3575,7 +3576,7 @@ Plecs {
       LabelAlign    up
       Parameter {
         Variable      "Value"
-        Value         "90*Nb_strings"
+        Value         "95*Nb_strings"
         Show          off
       }
       Parameter {
@@ -3963,20 +3964,20 @@ Plecs {
       Position      [510, 160]
       Direction     up
       Flipped       off
-      Location      [0, 27; 1366, 712]
+      Location      [0, 55; 1366, 748]
       State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAbwBvA"
-"G0AQQByAGUAYQAAAAAA/////wAAAKwA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
-"///wAAAGYA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABmAP///wAAAAMAAAAAAAAAAPw"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABQAP///wAABVYAAAKSAAAA"
+"G0AQQByAGUAYQAAAAAA/////wAAAKkA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
+"///wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAAAAPw"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVYAAAKWAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
-"gAAAGQAAAADAAAAZAAAAAEAAABkAAAABgAAAGQAAAAHAAAAZAAAAAQAAABkAAAABQAAAGQAAAAIAA"
-"AAZAAAAAkAAABkAAAAyQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACiAAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
+"AAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAABAAAAZAAAAAIAAABkAAAAAwAAAGQAAAAIAA"
+"AAZAAAAAkAAABkAAAAuwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACiAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
-"AAnAAAAAQAAAAAAAAPoAA=="
+"AAZAAAAAQAAAAAAAAPoAAAAABk="
       PlotPalettes  "AAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA"
 "AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 "AAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
@@ -4116,7 +4117,7 @@ Plecs {
         Direction     down
       }
       Schematic {
-        Location      [0, 27; 1366, 691]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -7802,17 +7803,17 @@ Plecs {
       Position      [785, 720]
       Direction     up
       Flipped       off
-      Location      [0, 37; 1280, 700]
-      State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAACePwCAAAAA/sAAAAQAFoAbwBvA"
+      Location      [0, 55; 1366, 748]
+      State         "AAAA/wAAAAD9AAAAAgAAAAEAAAC0AAAClvwCAAAAA/sAAAAQAFoAbwBvA"
 "G0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
-"///wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAMwAAAngAAABjAP///wAAAAMAAAAAAAAAAPw"
-"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4AAAA"
+"///wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAMwAAApYAAABjAP///wAAAAMAAAAAAAAAAPw"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVYAAAKWAAAA"
 "BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
 "AAAAA=="
       SavedViews    "AAAAAgAAAAA="
-      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
-"QAAAGQAAAADAAAAZAAAAAIAAABkAAAACQAAAGQAAAAIAAAAZAAAAAUAAABkAAAABAAAAGQAAAAHAA"
-"AAZAAAAAYAAABkAAAAuwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACiAAA"
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAB"
+"AAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAABAAAAZAAAAAIAAABkAAAAAwAAAGQAAAAIAA"
+"AAZAAAAAkAAABkAAAAuwAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACiAAA"
 "AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
 "AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
 "AAZAAAAAQAAAAAAAAPoAAAAABk="
@@ -7878,7 +7879,7 @@ Plecs {
       Type          Constant
       Name          "Constant6"
       Show          off
-      Position      [865, 40]
+      Position      [915, 40]
       Direction     right
       Flipped       off
       Frame         [-50, -10; 50, 10]
@@ -7899,7 +7900,7 @@ Plecs {
       Type          Goto
       Name          "Goto10"
       Show          off
-      Position      [940, 40]
+      Position      [990, 40]
       Direction     right
       Flipped       off
       Parameter {
@@ -8380,7 +8381,7 @@ Plecs {
         Variable      "Q"
         Prompt        "Rated capacity Qn [Ah]"
         Type          FreeText
-        Value         "90"
+        Value         "95"
         Show          off
         Tunable       off
         TabName       ""
@@ -8398,7 +8399,7 @@ Plecs {
         Variable      "r"
         Prompt        "r = Qmax/Qn"
         Type          FreeText
-        Value         "1.15625"
+        Value         "1.1538157894737"
         Show          off
         Tunable       off
         TabName       ""
@@ -8407,7 +8408,7 @@ Plecs {
         Variable      "E0"
         Prompt        "Constant voltage E0 [V]"
         Type          FreeText
-        Value         "12.765232686141"
+        Value         "12.787947630023"
         Show          off
         Tunable       off
         TabName       ""
@@ -8425,7 +8426,7 @@ Plecs {
         Variable      "K"
         Prompt        "Polarization constant K"
         Type          FreeText
-        Value         "0.0013105373231569"
+        Value         "0.0012090658512224"
         Show          off
         Tunable       off
         TabName       ""
@@ -8434,7 +8435,7 @@ Plecs {
         Variable      "A"
         Prompt        "Exponential Voltage A [V] "
         Type          FreeText
-        Value         "0.76856731385903"
+        Value         "0.77185236997709"
         Show          off
         Tunable       off
         TabName       ""
@@ -8509,7 +8510,7 @@ Plecs {
         Direction     right
       }
       Schematic {
-        Location      [0, 30; 1280, 671]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 50]
         ShowBrowser   off
@@ -8545,7 +8546,7 @@ Plecs {
             Direction     left
           }
           Schematic {
-            Location      [0, 30; 1280, 671]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [110, 0]
             ShowBrowser   off
@@ -9293,12 +9294,6 @@ Plecs {
                   DstComponent  "1"
                   DstTerminal   1
                 }
-                Annotation {
-                  Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYmF0ZX"
-"JpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3VydmE"
-"gZGUgY2FyZ2Eg"
-                  Position      [240, 215]
-                } 
               }
             }
             Component {
@@ -13572,19 +13567,19 @@ Plecs {
     } 
     Annotation {
       Name          "0 - Stand-by\n1 - Discharge\n2 - Charge"
-      Position      [70, 75]
+      Position      [60, 75]
     } 
     Annotation {
       Name          "Bt_mode"
-      Position      [110, 15]
+      Position      [100, 15]
     } 
     Annotation {
       Name          "Charge Current"
-      Position      [465, 15]
+      Position      [480, 15]
     } 
     Annotation {
       Name          "Boost Voltage"
-      Position      [665, 15]
+      Position      [715, 15]
     } 
     Annotation {
       Name          "Discharge Current"
@@ -13612,7 +13607,7 @@ Plecs {
     } 
     Annotation {
       Name          "Float Voltage"
-      Position      [865, 15]
+      Position      [915, 15]
     } 
   }
   ProbeBlock {
