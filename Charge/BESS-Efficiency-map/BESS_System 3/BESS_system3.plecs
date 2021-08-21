@@ -51,29 +51,29 @@ Plecs {
 "U1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCgolJSBNYWxoYSByZWF0aXZvICAgICAgICAgCktpcSA9ID"
 "EyLjU2NjQ7ICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLcHEgPSAtMC4xNjI5OyA"
 "gICAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KCiUlIEJhdHRlcnkKTmJfc2VyaWVzID0g"
-"NDQ7Ck5iX3N0cmluZ3MgPSAxOwpTb2NfbWluID0gMDsgICAgJSBTT0NbJV0KU29jX21heCA9IDEwM"
+"NzA7Ck5iX3N0cmluZ3MgPSAxOwpTb2NfbWluID0gMDsgICAgJSBTT0NbJV0KU29jX21heCA9IDEwM"
 "DsKVmRjbyA9IDEzLjYqTmJfc2VyaWVzOyAgICAgICAgICAgICAgICAgICAgICAgICUlIHRlbnPDo2"
 "8gaW5pY2lhbCBkYy1saW5rClJpbnQgPSAoTmJfc2VyaWVzL05iX3N0cmluZ3MpKjUuMmUtMzsgICA"
 "lJVJlc2lzdMOqbmNpYSBpbnRlcm5hIHRvdGFsIGRhcyBiYXRlcmlhcwoKJSBEYy9kYyBQYXJhbWV0"
-"ZXJzCkxiID0gMi4zZS0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSYiA9IDE4L"
-"jU5ZS0zOyAgICAgICAgICAgICAgJVJlc2lzdMOqbmNpYSBzw6lyaWUgZG8gaW5kdXRvcgpOID0gMz"
-"sgICAgICAgICAgICAgICAgICVOw7ptZXJvIGRlIGJyYcOnb3MgZG8gaW50ZXJsZWF2ZWQKTl9lc3B"
-"pcmFzX2NjID0gMTk5OwpBcmVhX2NjID0gOTg3ZS02OyAgICAgICAKZnN3YiA9IDEyMDAwOwpUc2Ig"
-"PSAxL2Zzd2I7CiUlR2FuaG9zIGRvIGNvbnRyb2xhZG9yIGRvIGRjL2RjCiUlIGdhbmhvIGNvbnRyb"
-"2xlIGRlIGNvcnJlbnRlIGRvIGJvb3N0IGUgYnVjawpLYyA9IFZkYy8oUmIrTipSaW50KTsKVG0gPS"
-"BMYi8oUmIrTipSaW50KTsKZmMgPSBmc3diLzEwOwpLcGIgPSAyKnBpKmZjKlRtL0tjOyAgICAgICA"
-"gJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWIgPSAyKnBpKmZjL0tjOyAgICAgICAgICAgJSVN"
-"T2RlbGFnZW0gbm8gYXJxdWl2byAubQolJWdhbmhvIGNvbnRyb2xlIGRlIGNvcnJlbnRlIGRvIGJ1Y"
-"2sgKE1vZG8gY29ycmVudGUgY29uc3RhbnRlKQpLcGlidSA9IDIqcGkqZmMqVG0vS2M7ICAgICAgJS"
-"VNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWlidSA9IDIqcGkqZmMvS2M7ICAgICAgICAgJSVNT2R"
-"lbGFnZW0gbm8gYXJxdWl2byAubQolJSBnYW5obyBjb250cm9sZSBkZSB0ZW5zw6NvIGRvIGJ1Y2sg"
-"KE1vZG8gdGVuc8OjbyBjb25zdGFudGUpCktlID0gTipSaW50OwpmYzEgPSAyMDsKZmMyID0gZmMxL"
-"zIwOwpLcHZidSA9IDIqcGkqZmMyLygyKnBpKktlKihmYzEtZmMyKSk7ICAgICAgJSVNT2RlbGFnZW"
-"0gbm8gYXJxdWl2byAubQpLaXZidSA9IDIqcGkqZmMxKihLcHZidSk7ICAgICAgJSVNT2RlbGFnZW0"
-"gbm8gYXJxdWl2bwolJSBnYW5obyBjb250cm9sZSBkZSBwb3RlbmNpYSBubyBtb2RvIGRlIGRlc2Nh"
-"cmdhCmZjcDEgPSBmYy8xMDsKZmNwMiA9IGZjcDEvMTA7ClZiYXRfbm9tID0gMTIqTmJfc2VyaWVzO"
-"wpLcHAgPSBmY3AyLyhOKlZiYXRfbm9tKihmY3AxLWZjcDIpKTsKS2lwID0gMipwaSpmY3AxKktwcD"
-"s="
+"ZXJzCkxiID0gNGUtMzsgICAgICAgICAgICAgICAgJUluZHV0b3IgZG8gQm9vc3QKUmIgPSAxNTcuN"
+"jZlLTM7ICAgICAgICAgICAgICAlUmVzaXN0w6puY2lhIHPDqXJpZSBkbyBpbmR1dG9yCk4gPSAzOy"
+"AgICAgICAgICAgICAgICAgJU7Dum1lcm8gZGUgYnJhw6dvcyBkbyBpbnRlcmxlYXZlZApOX2VzcGl"
+"yYXNfY2MgPSAyNTU7CkFyZWFfY2MgPSA5ODdlLTY7ICAgICAgIApmc3diID0gMTIwMDA7ClRzYiA9"
+"IDEvZnN3YjsKJSVHYW5ob3MgZG8gY29udHJvbGFkb3IgZG8gZGMvZGMKJSUgZ2FuaG8gY29udHJvb"
+"GUgZGUgY29ycmVudGUgZG8gYm9vc3QgZSBidWNrCktjID0gVmRjLyhSYitOKlJpbnQpOwpUbSA9IE"
+"xiLyhSYitOKlJpbnQpOwpmYyA9IGZzd2IvMTA7CktwYiA9IDIqcGkqZmMqVG0vS2M7ICAgICAgICA"
+"lJU1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCktpYiA9IDIqcGkqZmMvS2M7ICAgICAgICAgICAlJU1P"
+"ZGVsYWdlbSBubyBhcnF1aXZvIC5tCiUlZ2FuaG8gY29udHJvbGUgZGUgY29ycmVudGUgZG8gYnVja"
+"yAoTW9kbyBjb3JyZW50ZSBjb25zdGFudGUpCktwaWJ1ID0gMipwaSpmYypUbS9LYzsgICAgICAlJU"
+"1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCktpaWJ1ID0gMipwaSpmYy9LYzsgICAgICAgICAlJU1PZGV"
+"sYWdlbSBubyBhcnF1aXZvIC5tCiUlIGdhbmhvIGNvbnRyb2xlIGRlIHRlbnPDo28gZG8gYnVjayAo"
+"TW9kbyB0ZW5zw6NvIGNvbnN0YW50ZSkKS2UgPSBOKlJpbnQ7CmZjMSA9IDIwOwpmYzIgPSBmYzEvM"
+"jA7CktwdmJ1ID0gMipwaSpmYzIvKDIqcGkqS2UqKGZjMS1mYzIpKTsgICAgICAlJU1PZGVsYWdlbS"
+"BubyBhcnF1aXZvIC5tCktpdmJ1ID0gMipwaSpmYzEqKEtwdmJ1KTsgICAgICAlJU1PZGVsYWdlbSB"
+"ubyBhcnF1aXZvCiUlIGdhbmhvIGNvbnRyb2xlIGRlIHBvdGVuY2lhIG5vIG1vZG8gZGUgZGVzY2Fy"
+"Z2EKZmNwMSA9IGZjLzEwOwpmY3AyID0gZmNwMS8xMDsKVmJhdF9ub20gPSAxMipOYl9zZXJpZXM7C"
+"ktwcCA9IGZjcDIvKE4qVmJhdF9ub20qKGZjcDEtZmNwMikpOwpLaXAgPSAyKnBpKmZjcDEqS3BwOw"
+"=="
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -211,7 +211,7 @@ Plecs {
     Index         "22"
   }
   Schematic {
-    Location      [0, 30; 1280, 671]
+    Location      [0, 55; 1366, 719]
     ZoomFactor    1.14437
     SliderPosition [21, -1]
     ShowBrowser   off
@@ -5722,7 +5722,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1280, 671]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -9781,8 +9781,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -9815,8 +9814,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -9844,8 +9842,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -9873,8 +9870,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -9907,8 +9903,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -9941,8 +9936,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -9970,8 +9964,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -9999,8 +9992,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10033,8 +10025,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10067,8 +10058,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -10096,8 +10086,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10125,8 +10114,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -10383,7 +10371,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "30*Nb_strings"
+            Value         "59.71/3"
             Show          off
           }
           Parameter {
@@ -10422,7 +10410,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "90*Nb_strings"
+            Value         "59.71"
             Show          off
           }
           Parameter {
@@ -10933,7 +10921,7 @@ Plecs {
             Variable      "Q"
             Prompt        "Rated capacity Qn [Ah]"
             Type          FreeText
-            Value         "90"
+            Value         "59.71"
             Show          off
             Tunable       off
             TabName       ""
@@ -10951,7 +10939,7 @@ Plecs {
             Variable      "r"
             Prompt        "r = Qmax/Qn"
             Type          FreeText
-            Value         "1.15625"
+            Value         "1.1562496901691"
             Show          off
             Tunable       off
             TabName       ""
@@ -10960,7 +10948,7 @@ Plecs {
             Variable      "E0"
             Prompt        "Constant voltage E0 [V]"
             Type          FreeText
-            Value         "12.765232686141"
+            Value         "12.608139164141"
             Show          off
             Tunable       off
             TabName       ""
@@ -10978,7 +10966,7 @@ Plecs {
             Variable      "K"
             Prompt        "Polarization constant K"
             Type          FreeText
-            Value         "0.0013105373231569"
+            Value         "0.0019781084896281"
             Show          off
             Tunable       off
             TabName       ""
@@ -10987,7 +10975,7 @@ Plecs {
             Variable      "A"
             Prompt        "Exponential Voltage A [V] "
             Type          FreeText
-            Value         "0.76856731385903"
+            Value         "0.7681528358587"
             Show          off
             Tunable       off
             TabName       ""
@@ -11023,7 +11011,7 @@ Plecs {
             Variable      "Batt_Tr"
             Prompt        "Battery response time (s) / (3600/Time scale) "
             Type          FreeText
-            Value         "30/(3600/2)"
+            Value         "30/(3600/3600)"
             Show          off
             Tunable       off
             TabName       ""
@@ -11062,7 +11050,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [1280, 55; 2646, 719]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -11098,7 +11086,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [1280, 55; 2646, 719]
+                Location      [0, 55; 1366, 719]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -11467,7 +11455,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [1390, 148; 1944, 394]
+                    Location      [104, 121; 658, 367]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -11846,12 +11834,6 @@ Plecs {
                       DstComponent  "1"
                       DstTerminal   1
                     }
-                    Annotation {
-                      Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYm"
-"F0ZXJpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3V"
-"ydmEgZGUgY2FyZ2Eg"
-                      Position      [240, 215]
-                    } 
                   }
                 }
                 Component {
@@ -11903,7 +11885,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [1310, 85; 1979, 407]
+                    Location      [0, 0; 669, 322]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -12010,7 +11992,7 @@ Plecs {
                       Flipped       off
                       Parameter {
                         Variable      "K"
-                        Value         "B"
+                        Value         "B/Tsc"
                         Show          off
                       }
                       Parameter {
@@ -16156,7 +16138,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1280, 671]
+        Location      [0, 55; 1366, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -20205,8 +20187,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20239,8 +20220,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20268,8 +20248,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20297,8 +20276,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20331,8 +20309,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20365,8 +20342,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20394,8 +20370,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20423,8 +20398,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20457,8 +20431,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20491,8 +20464,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
-"h"
+            Value         "file:Infineon-FF150R17ME3G-igbt"
             Show          off
           }
           Parameter {
@@ -20520,8 +20492,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20549,8 +20520,7 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
-"th"
+            Value         "file:Infineon-FF150R17ME3G-diode"
             Show          off
           }
           Parameter {
@@ -20807,7 +20777,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "30*Nb_strings"
+            Value         "59.71/3"
             Show          off
           }
           Parameter {
@@ -20846,7 +20816,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "90*Nb_strings"
+            Value         "59.71"
             Show          off
           }
           Parameter {
@@ -21267,7 +21237,7 @@ Plecs {
         }
         Component {
           Type          Subsystem
-          Name          "Batteries1"
+          Name          "Batteries"
           Show          on
           Position      [215, 395]
           Direction     down
@@ -21294,7 +21264,7 @@ Plecs {
             Variable      "Q"
             Prompt        "Rated capacity Qn [Ah]"
             Type          FreeText
-            Value         "90"
+            Value         "59.71"
             Show          off
             Tunable       off
             TabName       ""
@@ -21312,7 +21282,7 @@ Plecs {
             Variable      "r"
             Prompt        "r = Qmax/Qn"
             Type          FreeText
-            Value         "1.15625"
+            Value         "1.1562496901691"
             Show          off
             Tunable       off
             TabName       ""
@@ -21321,7 +21291,7 @@ Plecs {
             Variable      "E0"
             Prompt        "Constant voltage E0 [V]"
             Type          FreeText
-            Value         "12.765232686141"
+            Value         "12.608139164141"
             Show          off
             Tunable       off
             TabName       ""
@@ -21339,7 +21309,7 @@ Plecs {
             Variable      "K"
             Prompt        "Polarization constant K"
             Type          FreeText
-            Value         "0.0013105373231569"
+            Value         "0.0019781084896281"
             Show          off
             Tunable       off
             TabName       ""
@@ -21348,7 +21318,7 @@ Plecs {
             Variable      "A"
             Prompt        "Exponential Voltage A [V] "
             Type          FreeText
-            Value         "0.76856731385903"
+            Value         "0.7681528358587"
             Show          off
             Tunable       off
             TabName       ""
@@ -21384,7 +21354,7 @@ Plecs {
             Variable      "Batt_Tr"
             Prompt        "Battery response time (s) / (3600/Time scale) "
             Type          FreeText
-            Value         "30/(3600/2)"
+            Value         "30/(3600/3600)"
             Show          off
             Tunable       off
             TabName       ""
@@ -21423,7 +21393,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [1280, 55; 2646, 719]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -21459,7 +21429,7 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [1280, 55; 2646, 719]
+                Location      [0, 55; 1366, 719]
                 ZoomFactor    1
                 SliderPosition [214, 0]
                 ShowBrowser   off
@@ -21828,7 +21798,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [1390, 148; 1944, 394]
+                    Location      [104, 121; 658, 367]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -22207,12 +22177,6 @@ Plecs {
                       DstComponent  "1"
                       DstTerminal   1
                     }
-                    Annotation {
-                      Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYm"
-"F0ZXJpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3V"
-"ydmEgZGUgY2FyZ2Eg"
-                      Position      [240, 215]
-                    } 
                   }
                 }
                 Component {
@@ -22264,7 +22228,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [1310, 85; 1979, 407]
+                    Location      [0, 0; 669, 322]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -22371,7 +22335,7 @@ Plecs {
                       Flipped       off
                       Parameter {
                         Variable      "K"
-                        Value         "B"
+                        Value         "B/Tsc"
                         Show          off
                       }
                       Parameter {
@@ -25422,7 +25386,7 @@ Plecs {
               Branch {
                 Points        [315, 425]
                 Branch {
-                  DstComponent  "Batteries1"
+                  DstComponent  "Batteries"
                   DstTerminal   2
                 }
                 Branch {
@@ -25718,12 +25682,12 @@ Plecs {
           Type          Wire
           SrcComponent  "Am3"
           SrcTerminal   1
-          DstComponent  "Batteries1"
+          DstComponent  "Batteries"
           DstTerminal   1
         }
         Connection {
           Type          Signal
-          SrcComponent  "Batteries1"
+          SrcComponent  "Batteries"
           SrcTerminal   3
           Points        [160, 415]
           Branch {

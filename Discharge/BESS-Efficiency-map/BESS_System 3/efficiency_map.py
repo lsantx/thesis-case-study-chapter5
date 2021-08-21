@@ -34,7 +34,7 @@ fig.set_size_inches(8, 6)
 efficiency = np.round(efficiency, decimals=2)
 
 N = 1000  # Number of levels
-levels = np.unique(np.round(np.linspace(90, 93.6, num=N, endpoint=True), decimals=2))
+levels = np.unique(np.round(np.linspace(90, 95, num=N, endpoint=True), decimals=2))
 count1 = ax1.contourf(soc, pref / pnom, efficiency, levels, extend="min", cmap="jet")
 ax1.set_xlabel("Soc [%]", fontsize=18)
 ax1.set_ylabel("Power [pu]", fontsize=18)
