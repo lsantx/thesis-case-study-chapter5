@@ -69,10 +69,9 @@ time_ch = np.array(
         10018.116,
         10559.41,
         11099.16,
-        11639.16,
-        11999.88,
+        11639.16
     ]
-).reshape(1, 18)
+).reshape(1, 17)
 
 global_eff_sys = eng.global_efficiency_func(
     matlab.double(time_dis.tolist()),
@@ -148,10 +147,9 @@ time_ch = np.array(
         10018.116,
         10559.41,
         11099.16,
-        11639.16,
-        11999.88,
+        11639.16
     ]
-).reshape(1, 18)
+).reshape(1, 17)
 
 global_eff_sys = eng.global_efficiency_func(
     matlab.double(time_dis.tolist()),
@@ -235,10 +233,9 @@ time_ch = np.array(
         10018.116,
         10559.41,
         11099.16,
-        11639.16,
-        11999.88,
+        11639.16
     ]
-).reshape(1, 18)
+).reshape(1, 17)
 
 global_eff_sys = eng.global_efficiency_func(
     matlab.double(time_dis.tolist()),
@@ -322,10 +319,9 @@ time_ch = np.array(
         10018.116,
         10559.41,
         11099.16,
-        11639.16,
-        11999.88,
+        11639.16
     ]
-).reshape(1, 18)
+).reshape(1, 17)
 
 global_eff_sys = eng.global_efficiency_func(
     matlab.double(time_dis.tolist()),
@@ -337,3 +333,5 @@ global_eff_sys = eng.global_efficiency_func(
 )
 
 print(f"Sys4 Global Efficiency = {round(global_eff_sys, 2)} %")
+
+# %%

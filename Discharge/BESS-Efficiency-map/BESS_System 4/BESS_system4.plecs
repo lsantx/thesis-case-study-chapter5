@@ -50,30 +50,30 @@ Plecs {
 "T2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaW91dGVyID0gMTA2LjU5OyAgICAlJU1PZGVsYWdlbSBub"
 "yBhcnF1aXZvIC5tCgolJSBNYWxoYSByZWF0aXZvICAgICAgICAgCktpcSA9IDEyLjU2NjQ7ICAgIC"
 "AgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLcHEgPSAtMC4xNjI5OyAgICAgICAgICUlTU9"
-"kZWxhZ2VtIG5vIGFycXVpdm8gLm0KCiUlIEJhdHRlcnkKTmJfc2VyaWVzID0gMjI7Ck5iX3N0cmlu"
-"Z3MgPSAyOwpTb2NfbWluID0gMDsgICAgJSBTT0NbJV0KU29jX21heCA9IDEwMDsKVmRjbyA9IDEzL"
+"kZWxhZ2VtIG5vIGFycXVpdm8gLm0KCiUlIEJhdHRlcnkKTmJfc2VyaWVzID0gMzU7Ck5iX3N0cmlu"
+"Z3MgPSAxOwpTb2NfbWluID0gMDsgICAgJSBTT0NbJV0KU29jX21heCA9IDEwMDsKVmRjbyA9IDEzL"
 "jYqTmJfc2VyaWVzOyAgICAgICAgICAgICAgICAgICAgICAgICUlIHRlbnPDo28gaW5pY2lhbCBkYy"
 "1saW5rClJpbnQgPSAoTmJfc2VyaWVzL05iX3N0cmluZ3MpKjUuMmUtMzsgICAlJVJlc2lzdMOqbmN"
-"pYSBpbnRlcm5hIHRvdGFsIGRhcyBiYXRlcmlhcwoKJSBEYy9kYyBQYXJhbWV0ZXJzCkxiID0gMS4x"
-"ZS0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSYiA9IDE4LjU5ZS0zOyAgICAgI"
-"CAgICAgICAgJVJlc2lzdMOqbmNpYSBzw6lyaWUgZG8gaW5kdXRvcgpOID0gMzsgICAgICAgICAgIC"
-"AgICAgICVOw7ptZXJvIGRlIGJyYcOnb3MgZG8gaW50ZXJsZWF2ZWQKTl9lc3BpcmFzX2NjID0gMTU"
-"yOwpBcmVhX2NjID0gOTg3ZS02OyAgICAgICAgICUlbsO6Y2xlb3MgZW1waWxoYWRvcwpmc3diID0g"
-"MTIwMDA7ClRzYiA9IDEvZnN3YjsKJSVHYW5ob3MgZG8gY29udHJvbGFkb3IgZG8gZGMvZGMKJSUgZ"
-"2FuaG8gY29udHJvbGUgZGUgY29ycmVudGUgZG8gYm9vc3QgZSBidWNrCktjID0gKFZkYy8yKS8oUm"
-"IrTipSaW50KTsKVG0gPSBMYi8oUmIrTipSaW50KTsKZmMgPSBmc3diLzEwOwpLcGIgPSAyKnBpKmZ"
-"jKlRtL0tjOyAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWIgPSAyKnBpKmZjL0tj"
-"OyAgICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJWdhbmhvIGNvbnRyb2xlIGRlI"
-"GNvcnJlbnRlIGRvIGJ1Y2sgKE1vZG8gY29ycmVudGUgY29uc3RhbnRlKQpLcGlidSA9IDIqcGkqZm"
-"MqVG0vS2M7ICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWlidSA9IDIqcGkqZmMvS2M"
-"7ICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJSBnYW5obyBjb250cm9sZSBkZSB0"
-"ZW5zw6NvIGRvIGJ1Y2sgKE1vZG8gdGVuc8OjbyBjb25zdGFudGUpCktlID0gTipSaW50OwpmYzEgP"
-"SAyMDsKZmMyID0gZmMxLzIwOwpLcHZidSA9IDIqcGkqZmMyLygyKnBpKktlKihmYzEtZmMyKSk7IC"
-"AgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaXZidSA9IDIqcGkqZmMxKihLcHZidSk7ICA"
-"gICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2bwolJSBnYW5obyBjb250cm9sZSBkZSBwb3RlbmNpYSBu"
-"byBtb2RvIGRlIGRlc2NhcmdhCmZjcDEgPSBmYy8xMDsKZmNwMiA9IGZjcDEvMTA7ClZiYXRfbm9tI"
-"D0gMTIqTmJfc2VyaWVzOwpLcHAgPSBmY3AyLyhOKlZiYXRfbm9tKihmY3AxLWZjcDIpKTsKS2lwID"
-"0gMipwaSpmY3AxKktwcDs="
+"pYSBpbnRlcm5hIHRvdGFsIGRhcyBiYXRlcmlhcwoKJSBEYy9kYyBQYXJhbWV0ZXJzCkxiID0gMWUt"
+"MzsgICAgICAgICAgICAgICAgJUluZHV0b3IgZG8gQm9vc3QKUmIgPSA0MC4wOWUtMzsgICAgICAgI"
+"CAgICAgICVSZXNpc3TDqm5jaWEgc8OpcmllIGRvIGluZHV0b3IKTiA9IDM7ICAgICAgICAgICAgIC"
+"AgICAlTsO6bWVybyBkZSBicmHDp29zIGRvIGludGVybGVhdmVkCk5fZXNwaXJhc19jYyA9IDEyODs"
+"KQXJlYV9jYyA9IDk4N2UtNjsgICAgICAgICAlJW7DumNsZW9zIGVtcGlsaGFkb3MKZnN3YiA9IDEy"
+"MDAwOwpUc2IgPSAxL2Zzd2I7CiUlR2FuaG9zIGRvIGNvbnRyb2xhZG9yIGRvIGRjL2RjCiUlIGdhb"
+"mhvIGNvbnRyb2xlIGRlIGNvcnJlbnRlIGRvIGJvb3N0IGUgYnVjawpLYyA9IChWZGMvMikvKFJiK0"
+"4qUmludCk7ClRtID0gTGIvKFJiK04qUmludCk7CmZjID0gZnN3Yi8xMDsKS3BiID0gMipwaSpmYyp"
+"UbS9LYzsgICAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KS2liID0gMipwaSpmYy9LYzsg"
+"ICAgICAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KJSVnYW5obyBjb250cm9sZSBkZSBjb"
+"3JyZW50ZSBkbyBidWNrIChNb2RvIGNvcnJlbnRlIGNvbnN0YW50ZSkKS3BpYnUgPSAyKnBpKmZjKl"
+"RtL0tjOyAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KS2lpYnUgPSAyKnBpKmZjL0tjOyA"
+"gICAgICAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KJSUgZ2FuaG8gY29udHJvbGUgZGUgdGVu"
+"c8OjbyBkbyBidWNrIChNb2RvIHRlbnPDo28gY29uc3RhbnRlKQpLZSA9IE4qUmludDsKZmMxID0gM"
+"jA7CmZjMiA9IGZjMS8yMDsKS3B2YnUgPSAyKnBpKmZjMi8oMipwaSpLZSooZmMxLWZjMikpOyAgIC"
+"AgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KS2l2YnUgPSAyKnBpKmZjMSooS3B2YnUpOyAgICA"
+"gICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8KJSUgZ2FuaG8gY29udHJvbGUgZGUgcG90ZW5jaWEgbm8g"
+"bW9kbyBkZSBkZXNjYXJnYQpmY3AxID0gZmMvMTA7CmZjcDIgPSBmY3AxLzEwOwpWYmF0X25vbSA9I"
+"DEyKk5iX3NlcmllczsKS3BwID0gZmNwMi8oTipWYmF0X25vbSooZmNwMS1mY3AyKSk7CktpcCA9ID"
+"IqcGkqZmNwMSpLcHA7"
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -211,7 +211,7 @@ Plecs {
     Index         "19"
   }
   Schematic {
-    Location      [1360, 55; 2726, 719]
+    Location      [1366, 30; 2726, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -6240,7 +6240,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1360, 719]
+        Location      [1366, 30; 2726, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -10299,8 +10299,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10333,8 +10333,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10362,8 +10362,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10391,8 +10391,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10425,8 +10425,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10459,8 +10459,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10488,8 +10488,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10517,8 +10517,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10551,8 +10551,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10585,8 +10585,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10614,8 +10614,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10643,8 +10643,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10823,8 +10823,608 @@ Plecs {
           }
         }
         Component {
+          Type          Goto
+          Name          "Goto5"
+          Show          off
+          Position      [110, 380]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Soc"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "2"
+            Show          off
+          }
+        }
+        Component {
+          Type          Goto
+          Name          "Goto16"
+          Show          off
+          Position      [110, 345]
+          Direction     left
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Bat"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Sum
+          Name          "Sum"
+          Show          off
+          Position      [535, 240]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "IconShape"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Inputs"
+            Value         "+"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          PlecsProbe
+          Name          "Interleaved Currents3"
+          Show          off
+          Position      [60, 40]
+          Direction     right
+          Flipped       off
+        }
+        Component {
+          Type          Constant
+          Name          "Constant14"
+          Show          off
+          Position      [50, 135]
+          Direction     right
+          Flipped       off
+          Frame         [-45, -10; 45, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43/3"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From26"
+          Show          off
+          Position      [50, 205]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Vbat"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant15"
+          Show          off
+          Position      [55, 180]
+          Direction     right
+          Flipped       off
+          Frame         [-50, -10; 50, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalDemux
+          Name          "Demux2"
+          Show          off
+          Position      [295, 115]
+          Direction     right
+          Flipped       on
+          Parameter {
+            Variable      "Width"
+            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalMux
+          Name          "Mux15"
+          Show          off
+          Position      [190, 115]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Width"
+            Value         "[3 1 1 1 1 1 1 1]"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From29"
+          Show          off
+          Position      [50, 230]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Soc"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "2"
+            Show          off
+          }
+        }
+        Component {
+          Type          Step
+          Name          "Step3"
+          Show          off
+          Position      [50, 85]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Time"
+            Value         "0.1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Before"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "After"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          CScript
+          Name          "Peak Detector45"
+          Show          off
+          Position      [240, 115]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "DialogGeometry"
+            Value         "[370 177 520 322]"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumInputs"
+            Value         "10"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumOutputs"
+            Value         "19"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumContStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumDiscStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumZCSignals"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "DirectFeedthrough"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Ts"
+            Value         "1/fdsp"
+            Show          off
+          }
+          Parameter {
+            Variable      "Parameters"
+            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
+"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
+            Show          off
+          }
+          Parameter {
+            Variable      "LangStandard"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "GnuExtensions"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "RuntimeCheck"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Declarations"
+            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
+"\""
+            Show          off
+          }
+          Parameter {
+            Variable      "StartFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "OutputFcn"
+            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
+            Show          off
+          }
+          Parameter {
+            Variable      "UpdateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "DerivativeFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "TerminateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "StoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "RestoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope1"
+          Show          off
+          Position      [160, 25]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1360, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAVQAAA"
+"AefwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVAAAABEAP///wAABVAAAAIp"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
+"ABAAAAZAAAAAIAAABkAAAFUAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"zAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAASdAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Input
+          Name          "Reset"
+          Show          on
+          Position      [40, 260]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "3"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope2"
+          Show          off
+          Position      [355, 50]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1360, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
+"ABAAAAZAAAAAIAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant16"
+          Show          off
+          Position      [40, 300]
+          Direction     right
+          Flipped       off
+          Frame         [-35, -10; 35, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "Pref/2"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope3"
+          Show          off
+          Position      [375, 165]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1360, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
+"ABAAAAZAAAAAIAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope4"
+          Show          off
+          Position      [605, 300]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1360, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
+"ABAAAAZAAAAAIAAABkAAAAdAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
+"bAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
           Type          Subsystem
-          Name          "Batteries"
+          Name          "Batteries: \nSys4"
           Show          on
           Position      [215, 395]
           Direction     down
@@ -10851,7 +11451,7 @@ Plecs {
             Variable      "Q"
             Prompt        "Rated capacity Qn [Ah]"
             Type          FreeText
-            Value         "90"
+            Value         "119.43"
             Show          off
             Tunable       off
             TabName       ""
@@ -10869,7 +11469,7 @@ Plecs {
             Variable      "r"
             Prompt        "r = Qmax/Qn"
             Type          FreeText
-            Value         "1.15625"
+            Value         "1.144853051997"
             Show          off
             Tunable       off
             TabName       ""
@@ -10878,7 +11478,7 @@ Plecs {
             Variable      "E0"
             Prompt        "Constant voltage E0 [V]"
             Type          FreeText
-            Value         "12.765232686141"
+            Value         "12.907115291008"
             Show          off
             Tunable       off
             TabName       ""
@@ -10896,7 +11496,7 @@ Plecs {
             Variable      "K"
             Prompt        "Polarization constant K"
             Type          FreeText
-            Value         "0.0013105373231569"
+            Value         "0.00090002196609081"
             Show          off
             Tunable       off
             TabName       ""
@@ -10905,7 +11505,7 @@ Plecs {
             Variable      "A"
             Prompt        "Exponential Voltage A [V] "
             Type          FreeText
-            Value         "0.76856731385903"
+            Value         "0.77972070899195"
             Show          off
             Tunable       off
             TabName       ""
@@ -10980,7 +11580,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 30; 1280, 671]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -11016,9 +11616,9 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 30; 1280, 671]
+                Location      [0, 55; 1366, 719]
                 ZoomFactor    1
-                SliderPosition [214, 0]
+                SliderPosition [110, 0]
                 ShowBrowser   off
                 BrowserWidth  100
                 Component {
@@ -11385,7 +11985,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [104, 121; 658, 367]
+                    Location      [104, 121; 658, 366]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -11764,12 +12364,6 @@ Plecs {
                       DstComponent  "1"
                       DstTerminal   1
                     }
-                    Annotation {
-                      Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYm"
-"F0ZXJpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3V"
-"ydmEgZGUgY2FyZ2Eg"
-                      Position      [240, 215]
-                    } 
                   }
                 }
                 Component {
@@ -11821,7 +12415,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [0, 0; 669, 322]
+                    Location      [150, 187; 819, 509]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -14779,606 +15373,6 @@ Plecs {
             } 
           }
         }
-        Component {
-          Type          Goto
-          Name          "Goto5"
-          Show          off
-          Position      [110, 380]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Soc"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "2"
-            Show          off
-          }
-        }
-        Component {
-          Type          Goto
-          Name          "Goto16"
-          Show          off
-          Position      [110, 345]
-          Direction     left
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Bat"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Sum
-          Name          "Sum"
-          Show          off
-          Position      [535, 240]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "IconShape"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Inputs"
-            Value         "+"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          PlecsProbe
-          Name          "Interleaved Currents3"
-          Show          off
-          Position      [60, 40]
-          Direction     right
-          Flipped       off
-        }
-        Component {
-          Type          Constant
-          Name          "Constant14"
-          Show          off
-          Position      [50, 135]
-          Direction     right
-          Flipped       off
-          Frame         [-45, -10; 45, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "30*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From26"
-          Show          off
-          Position      [50, 205]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Vbat"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant15"
-          Show          off
-          Position      [55, 180]
-          Direction     right
-          Flipped       off
-          Frame         [-50, -10; 50, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "90*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalDemux
-          Name          "Demux2"
-          Show          off
-          Position      [295, 115]
-          Direction     right
-          Flipped       on
-          Parameter {
-            Variable      "Width"
-            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalMux
-          Name          "Mux15"
-          Show          off
-          Position      [190, 115]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Width"
-            Value         "[3 1 1 1 1 1 1 1]"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From29"
-          Show          off
-          Position      [50, 230]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Soc"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "2"
-            Show          off
-          }
-        }
-        Component {
-          Type          Step
-          Name          "Step3"
-          Show          off
-          Position      [50, 85]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Time"
-            Value         "0.1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Before"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "After"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          CScript
-          Name          "Peak Detector45"
-          Show          off
-          Position      [240, 115]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "DialogGeometry"
-            Value         "[370 177 520 322]"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumInputs"
-            Value         "10"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumOutputs"
-            Value         "19"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumContStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumDiscStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumZCSignals"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "DirectFeedthrough"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Ts"
-            Value         "1/fdsp"
-            Show          off
-          }
-          Parameter {
-            Variable      "Parameters"
-            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
-"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
-            Show          off
-          }
-          Parameter {
-            Variable      "LangStandard"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "GnuExtensions"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "RuntimeCheck"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Declarations"
-            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
-"\""
-            Show          off
-          }
-          Parameter {
-            Variable      "StartFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "OutputFcn"
-            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
-            Show          off
-          }
-          Parameter {
-            Variable      "UpdateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "DerivativeFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "TerminateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "StoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "RestoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope1"
-          Show          off
-          Position      [160, 25]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1360, 748]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAVQAAA"
-"AefwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVAAAABEAP///wAABVAAAAIp"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
-"ABAAAAZAAAAAIAAABkAAAFUAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"zAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAASdAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Input
-          Name          "Reset"
-          Show          on
-          Position      [40, 260]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Index"
-            Value         "3"
-            Show          on
-          }
-          Parameter {
-            Variable      "Width"
-            Value         "-1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope2"
-          Show          off
-          Position      [355, 50]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1360, 748]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
-"ABAAAAZAAAAAIAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant16"
-          Show          off
-          Position      [40, 300]
-          Direction     right
-          Flipped       off
-          Frame         [-35, -10; 35, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "Pref/2"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope3"
-          Show          off
-          Position      [375, 165]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1360, 748]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
-"ABAAAAZAAAAAIAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope4"
-          Show          off
-          Position      [605, 300]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1360, 748]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABVAAAAKo"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAAAwAAAGQAAAAEAAAAZAAAAAUAAABkAAAABgAAAGQAAAAHAAAAZAAAAAgAAABkAAAACQAAAGQAAA"
-"ABAAAAZAAAAAIAAABkAAAAdAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAB"
-"bAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
         Connection {
           Type          Signal
           SrcComponent  "Sum1"
@@ -15579,7 +15573,7 @@ Plecs {
               Branch {
                 Points        [315, 425]
                 Branch {
-                  DstComponent  "Batteries"
+                  DstComponent  "Batteries: \nSys4"
                   DstTerminal   2
                 }
                 Branch {
@@ -15802,7 +15796,7 @@ Plecs {
         }
         Connection {
           Type          Signal
-          SrcComponent  "Batteries"
+          SrcComponent  "Batteries: \nSys4"
           SrcTerminal   3
           Points        [160, 415]
           Branch {
@@ -15817,7 +15811,7 @@ Plecs {
         }
         Connection {
           Type          Wire
-          SrcComponent  "Batteries"
+          SrcComponent  "Batteries: \nSys4"
           SrcTerminal   1
           DstComponent  "Am3"
           DstTerminal   1
@@ -16117,7 +16111,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1360, 719]
+        Location      [1366, 30; 2726, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -20166,8 +20160,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20200,8 +20194,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20229,8 +20223,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20258,8 +20252,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20292,8 +20286,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20326,8 +20320,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20355,8 +20349,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20384,8 +20378,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20418,8 +20412,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20452,8 +20446,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -20481,8 +20475,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20510,8 +20504,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -20726,8 +20720,509 @@ Plecs {
           }
         }
         Component {
+          Type          Sum
+          Name          "Sum"
+          Show          off
+          Position      [515, 240]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "IconShape"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Inputs"
+            Value         "+"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          PlecsProbe
+          Name          "Interleaved Currents3"
+          Show          off
+          Position      [55, 40]
+          Direction     right
+          Flipped       off
+        }
+        Component {
+          Type          Constant
+          Name          "Constant14"
+          Show          off
+          Position      [50, 135]
+          Direction     right
+          Flipped       off
+          Frame         [-45, -10; 45, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43/3"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From26"
+          Show          off
+          Position      [50, 205]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Vbat2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant15"
+          Show          off
+          Position      [55, 180]
+          Direction     right
+          Flipped       off
+          Frame         [-50, -10; 50, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalDemux
+          Name          "Demux2"
+          Show          off
+          Position      [295, 115]
+          Direction     right
+          Flipped       on
+          Parameter {
+            Variable      "Width"
+            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalMux
+          Name          "Mux15"
+          Show          off
+          Position      [190, 115]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Width"
+            Value         "[3 1 1 1 1 1 1 1]"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From29"
+          Show          off
+          Position      [50, 230]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Soc"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "2"
+            Show          off
+          }
+        }
+        Component {
+          Type          Step
+          Name          "Step3"
+          Show          off
+          Position      [50, 85]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Time"
+            Value         "0.1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Before"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "After"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          CScript
+          Name          "Peak Detector45"
+          Show          off
+          Position      [240, 115]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "DialogGeometry"
+            Value         "[370 177 520 322]"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumInputs"
+            Value         "10"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumOutputs"
+            Value         "19"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumContStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumDiscStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumZCSignals"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "DirectFeedthrough"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Ts"
+            Value         "1/fdsp"
+            Show          off
+          }
+          Parameter {
+            Variable      "Parameters"
+            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
+"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
+            Show          off
+          }
+          Parameter {
+            Variable      "LangStandard"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "GnuExtensions"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "RuntimeCheck"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Declarations"
+            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
+"\""
+            Show          off
+          }
+          Parameter {
+            Variable      "StartFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "OutputFcn"
+            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
+            Show          off
+          }
+          Parameter {
+            Variable      "UpdateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "DerivativeFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "TerminateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "StoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "RestoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope1"
+          Show          off
+          Position      [160, 25]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
+"AJAAAAZAAAAAgAAABkAAAArQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"UAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Input
+          Name          "Reset"
+          Show          on
+          Position      [40, 260]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "3"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope2"
+          Show          off
+          Position      [355, 50]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
+"AJAAAAZAAAAAgAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant16"
+          Show          off
+          Position      [40, 300]
+          Direction     right
+          Flipped       off
+          Frame         [-35, -10; 35, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "Pref/2"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope3"
+          Show          off
+          Position      [375, 165]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAACAAAAGQAAAAJAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAAAgAAAGQAAA"
+"ADAAAAZAAAAAEAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
           Type          Subsystem
-          Name          "Batteries"
+          Name          "Batteries: \nSys4"
           Show          on
           Position      [215, 395]
           Direction     down
@@ -20754,7 +21249,7 @@ Plecs {
             Variable      "Q"
             Prompt        "Rated capacity Qn [Ah]"
             Type          FreeText
-            Value         "90"
+            Value         "119.43"
             Show          off
             Tunable       off
             TabName       ""
@@ -20772,7 +21267,7 @@ Plecs {
             Variable      "r"
             Prompt        "r = Qmax/Qn"
             Type          FreeText
-            Value         "1.15625"
+            Value         "1.144853051997"
             Show          off
             Tunable       off
             TabName       ""
@@ -20781,7 +21276,7 @@ Plecs {
             Variable      "E0"
             Prompt        "Constant voltage E0 [V]"
             Type          FreeText
-            Value         "12.765232686141"
+            Value         "12.907115291008"
             Show          off
             Tunable       off
             TabName       ""
@@ -20799,7 +21294,7 @@ Plecs {
             Variable      "K"
             Prompt        "Polarization constant K"
             Type          FreeText
-            Value         "0.0013105373231569"
+            Value         "0.00090002196609081"
             Show          off
             Tunable       off
             TabName       ""
@@ -20808,7 +21303,7 @@ Plecs {
             Variable      "A"
             Prompt        "Exponential Voltage A [V] "
             Type          FreeText
-            Value         "0.76856731385903"
+            Value         "0.77972070899195"
             Show          off
             Tunable       off
             TabName       ""
@@ -20883,7 +21378,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 30; 1280, 671]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -20919,9 +21414,9 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 30; 1280, 671]
+                Location      [0, 55; 1366, 719]
                 ZoomFactor    1
-                SliderPosition [214, 0]
+                SliderPosition [110, 0]
                 ShowBrowser   off
                 BrowserWidth  100
                 Component {
@@ -21288,7 +21783,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [104, 121; 658, 367]
+                    Location      [104, 121; 658, 366]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -21667,12 +22162,6 @@ Plecs {
                       DstComponent  "1"
                       DstTerminal   1
                     }
-                    Annotation {
-                      Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYm"
-"F0ZXJpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3V"
-"ydmEgZGUgY2FyZ2Eg"
-                      Position      [240, 215]
-                    } 
                   }
                 }
                 Component {
@@ -21724,7 +22213,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [0, 0; 669, 322]
+                    Location      [150, 187; 819, 509]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -24682,507 +25171,6 @@ Plecs {
             } 
           }
         }
-        Component {
-          Type          Sum
-          Name          "Sum"
-          Show          off
-          Position      [515, 240]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "IconShape"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Inputs"
-            Value         "+"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          PlecsProbe
-          Name          "Interleaved Currents3"
-          Show          off
-          Position      [55, 40]
-          Direction     right
-          Flipped       off
-        }
-        Component {
-          Type          Constant
-          Name          "Constant14"
-          Show          off
-          Position      [50, 135]
-          Direction     right
-          Flipped       off
-          Frame         [-45, -10; 45, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "30*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From26"
-          Show          off
-          Position      [50, 205]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Vbat2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant15"
-          Show          off
-          Position      [55, 180]
-          Direction     right
-          Flipped       off
-          Frame         [-50, -10; 50, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "90*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalDemux
-          Name          "Demux2"
-          Show          off
-          Position      [295, 115]
-          Direction     right
-          Flipped       on
-          Parameter {
-            Variable      "Width"
-            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalMux
-          Name          "Mux15"
-          Show          off
-          Position      [190, 115]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Width"
-            Value         "[3 1 1 1 1 1 1 1]"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From29"
-          Show          off
-          Position      [50, 230]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Soc"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "2"
-            Show          off
-          }
-        }
-        Component {
-          Type          Step
-          Name          "Step3"
-          Show          off
-          Position      [50, 85]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Time"
-            Value         "0.1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Before"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "After"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          CScript
-          Name          "Peak Detector45"
-          Show          off
-          Position      [240, 115]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "DialogGeometry"
-            Value         "[370 177 520 322]"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumInputs"
-            Value         "10"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumOutputs"
-            Value         "19"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumContStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumDiscStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumZCSignals"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "DirectFeedthrough"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Ts"
-            Value         "1/fdsp"
-            Show          off
-          }
-          Parameter {
-            Variable      "Parameters"
-            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
-"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
-            Show          off
-          }
-          Parameter {
-            Variable      "LangStandard"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "GnuExtensions"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "RuntimeCheck"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Declarations"
-            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
-"\""
-            Show          off
-          }
-          Parameter {
-            Variable      "StartFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "OutputFcn"
-            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
-            Show          off
-          }
-          Parameter {
-            Variable      "UpdateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "DerivativeFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "TerminateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "StoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "RestoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope1"
-          Show          off
-          Position      [160, 25]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1280, 700]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
-"AJAAAAZAAAAAgAAABkAAAArQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"UAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Input
-          Name          "Reset"
-          Show          on
-          Position      [40, 260]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Index"
-            Value         "3"
-            Show          on
-          }
-          Parameter {
-            Variable      "Width"
-            Value         "-1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope2"
-          Show          off
-          Position      [355, 50]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1280, 700]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
-"AJAAAAZAAAAAgAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant16"
-          Show          off
-          Position      [40, 300]
-          Direction     right
-          Flipped       off
-          Frame         [-35, -10; 35, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "Pref/2"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope3"
-          Show          off
-          Position      [375, 165]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1280, 700]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAACAAAAGQAAAAJAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAAAgAAAGQAAA"
-"ADAAAAZAAAAAEAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
         Connection {
           Type          Signal
           SrcComponent  "Sum1"
@@ -25383,7 +25371,7 @@ Plecs {
               Branch {
                 Points        [315, 425]
                 Branch {
-                  DstComponent  "Batteries"
+                  DstComponent  "Batteries: \nSys4"
                   DstTerminal   2
                 }
                 Branch {
@@ -25679,12 +25667,12 @@ Plecs {
           Type          Wire
           SrcComponent  "Am3"
           SrcTerminal   1
-          DstComponent  "Batteries"
+          DstComponent  "Batteries: \nSys4"
           DstTerminal   1
         }
         Connection {
           Type          Signal
-          SrcComponent  "Batteries"
+          SrcComponent  "Batteries: \nSys4"
           SrcTerminal   3
           Points        [160, 415]
           Branch {

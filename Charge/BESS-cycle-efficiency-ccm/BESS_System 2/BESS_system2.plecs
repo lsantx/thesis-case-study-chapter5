@@ -48,26 +48,26 @@ Plecs {
 "k7CgpLcF9wbGwgPSAyKnduX3NyZiprc2lfc3JmOwpLaV9wbGwgPSAod25fc3JmXjIpOwoKJSUgTWF"
 "saGEgZXh0ZXJuYSBWZGMKQ2RjID0gM2UtMzsgICAgICAgICAKS3BvdXRlciA9IDAuNDg5NzM7ICAg"
 "ICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCktpb3V0ZXIgPSAxMDYuNTkxNzsgICAgJSVNT"
-"2RlbGFnZW0gbm8gYXJxdWl2byAubQoKJSUgQmF0dGVyeQpOYl9zZXJpZXMgPSA0NDsKTmJfc3RyaW"
-"5ncyA9IDI7ClNvY19taW4gPSAwOyAgICAlIFNPQ1slXQpTb2NfbWF4ID0gMTAwOwpWZGNvID0gMTM"
+"2RlbGFnZW0gbm8gYXJxdWl2byAubQoKJSUgQmF0dGVyeQpOYl9zZXJpZXMgPSA3MDsKTmJfc3RyaW"
+"5ncyA9IDE7ClNvY19taW4gPSAwOyAgICAlIFNPQ1slXQpTb2NfbWF4ID0gMTAwOwpWZGNvID0gMTM"
 "uNipOYl9zZXJpZXM7ICAgICAgICAgICAgICAgICAgICAgICAgJSUgdGVuc8OjbyBpbmljaWFsIGRj"
 "LWxpbmsKUmludCA9IChOYl9zZXJpZXMvTmJfc3RyaW5ncykqNS4yZS0zOyAgICUlUmVzaXN0w6puY"
-"2lhIGludGVybmEgdG90YWwgZGFzIGJhdGVyaWFzCgolIERjL2RjIFBhcmFtZXRlcnMKTGIgPSAyLj"
-"NlLTM7ICAgICAgICAgICAgICAgICVJbmR1dG9yIGRvIEJvb3N0ClJiID0gMTguNTllLTM7ICAgICA"
-"gICAgICAgICAlUmVzaXN0w6puY2lhIHPDqXJpZSBkbyBpbmR1dG9yCk4gPSAzOyAgICAgICAgICAg"
-"ICAgICAgJU7Dum1lcm8gZGUgYnJhw6dvcyBkbyBpbnRlcmxlYXZlZApOX2VzcGlyYXNfY2MgPSAyN"
-"zg7CkFyZWFfY2MgPSA5ODdlLTY7ICAgICAgIApmc3diID0gMTIwMDA7ClRzYiA9IDEvZnN3YjsKJS"
-"VHYW5ob3MgZG8gY29udHJvbGFkb3IgZG8gZGMvZGMKJSUgZ2FuaG8gY29udHJvbGUgZGUgY29ycmV"
-"udGUgZG8gYm9vc3QgZSBidWNrCktjID0gVmRjLyhSYitOKlJpbnQpOwpUbSA9IExiLyhSYitOKlJp"
-"bnQpOwpmYyA9IGZzd2IvMTA7CktwYiA9IDIqcGkqZmMqVG0vS2M7ICAgICAgICAlJU1PZGVsYWdlb"
-"SBubyBhcnF1aXZvIC5tCktpYiA9IDIqcGkqZmMvS2M7ICAgICAgICAgICAlJU1PZGVsYWdlbSBuby"
-"BhcnF1aXZvIC5tCiUlZ2FuaG8gY29udHJvbGUgZGUgY29ycmVudGUgZG8gYnVjayAoTW9kbyBjb3J"
-"yZW50ZSBjb25zdGFudGUpCktwaWJ1ID0gMipwaSpmYypUbS9LYzsgICAgICAlJU1PZGVsYWdlbSBu"
-"byBhcnF1aXZvIC5tCktpaWJ1ID0gMipwaSpmYy9LYzsgICAgICAgICAlJU1PZGVsYWdlbSBubyBhc"
-"nF1aXZvIC5tCiUlIGdhbmhvIGNvbnRyb2xlIGRlIHRlbnPDo28gZG8gYnVjayAoTW9kbyB0ZW5zw6"
-"NvIGNvbnN0YW50ZSkKS2UgPSBOKlJpbnQ7CmZjMSA9IDIwOwpmYzIgPSBmYzEvMjA7CktwdmJ1ID0"
-"gMipwaSpmYzIvKDIqcGkqS2UqKGZjMS1mYzIpKTsgICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZv"
-"IC5tCktpdmJ1ID0gMipwaSpmYzEqKEtwdmJ1KTsgICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZv"
+"2lhIGludGVybmEgdG90YWwgZGFzIGJhdGVyaWFzCgolIERjL2RjIFBhcmFtZXRlcnMKTGIgPSAyZS"
+"0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSYiA9IDY0LjI3ZS0zOyAgICAgICA"
+"gICAgICAgJVJlc2lzdMOqbmNpYSBzw6lyaWUgZG8gaW5kdXRvcgpOID0gMzsgICAgICAgICAgICAg"
+"ICAgICVOw7ptZXJvIGRlIGJyYcOnb3MgZG8gaW50ZXJsZWF2ZWQKTl9lc3BpcmFzX2NjID0gMTk1O"
+"wpBcmVhX2NjID0gOTg3ZS02OyAgICAgICAKZnN3YiA9IDEyMDAwOwpUc2IgPSAxL2Zzd2I7CiUlR2"
+"FuaG9zIGRvIGNvbnRyb2xhZG9yIGRvIGRjL2RjCiUlIGdhbmhvIGNvbnRyb2xlIGRlIGNvcnJlbnR"
+"lIGRvIGJvb3N0IGUgYnVjawpLYyA9IFZkYy8oUmIrTipSaW50KTsKVG0gPSBMYi8oUmIrTipSaW50"
+"KTsKZmMgPSBmc3diLzEwOwpLcGIgPSAyKnBpKmZjKlRtL0tjOyAgICAgICAgJSVNT2RlbGFnZW0gb"
+"m8gYXJxdWl2byAubQpLaWIgPSAyKnBpKmZjL0tjOyAgICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYX"
+"JxdWl2byAubQolJWdhbmhvIGNvbnRyb2xlIGRlIGNvcnJlbnRlIGRvIGJ1Y2sgKE1vZG8gY29ycmV"
+"udGUgY29uc3RhbnRlKQpLcGlidSA9IDIqcGkqZmMqVG0vS2M7ICAgICAgJSVNT2RlbGFnZW0gbm8g"
+"YXJxdWl2byAubQpLaWlidSA9IDIqcGkqZmMvS2M7ICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxd"
+"Wl2byAubQolJSBnYW5obyBjb250cm9sZSBkZSB0ZW5zw6NvIGRvIGJ1Y2sgKE1vZG8gdGVuc8Ojby"
+"Bjb25zdGFudGUpCktlID0gTipSaW50OwpmYzEgPSAyMDsKZmMyID0gZmMxLzIwOwpLcHZidSA9IDI"
+"qcGkqZmMyLygyKnBpKktlKihmYzEtZmMyKSk7ICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAu"
+"bQpLaXZidSA9IDIqcGkqZmMxKihLcHZidSk7ICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2bw=="
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -177,7 +177,7 @@ Plecs {
     Index         "15"
   }
   Schematic {
-    Location      [1360, 64; 2726, 719]
+    Location      [1366, 30; 2726, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -5984,7 +5984,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [1360, 64; 2726, 719]
+        Location      [1366, 30; 2726, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -6931,15 +6931,15 @@ Plecs {
           Type          Constant
           Name          "Constant14"
           Show          off
-          Position      [30, 140]
+          Position      [45, 140]
           Direction     right
           Flipped       off
-          Frame         [-25, -10; 25, 10]
+          Frame         [-40, -10; 40, 10]
           LabelPosition [0, 13]
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "60"
+            Value         "119.43/3"
             Show          off
           }
           Parameter {
@@ -7284,7 +7284,7 @@ Plecs {
           LabelAlign    up
           Parameter {
             Variable      "Value"
-            Value         "180"
+            Value         "119.43"
             Show          off
           }
           Parameter {
@@ -10251,8 +10251,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10285,8 +10285,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10314,8 +10314,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10343,8 +10343,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10377,8 +10377,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10411,8 +10411,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10440,8 +10440,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10469,8 +10469,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10503,8 +10503,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10537,8 +10537,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -10566,8 +10566,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -10595,8 +10595,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -11291,7 +11291,7 @@ Plecs {
           Type          Signal
           SrcComponent  "Constant14"
           SrcTerminal   1
-          Points        [110, 140; 110, 75]
+          Points        [125, 140; 125, 75]
           DstComponent  "Mux15"
           DstTerminal   4
         }

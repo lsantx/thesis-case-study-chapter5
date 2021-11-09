@@ -7,7 +7,7 @@ from math import pi
 df = pd.DataFrame(
     {
         "group": ["T1", "T2", "T3", "T4"],
-        "Global Efficiency": [92.53 / 100, 92.63 / 100, 92.43 / 100, 92.39 / 100],
+        "Global Efficiency": [92.62 / 100, 93.69 / 100, 94.42 / 100, 93.52 / 100],
         "Number of \n Semiconductors": [12 / 36, 24 / 36, 36 / 36, 36 / 36],
         "Number of \n Inductors": [6 / 12, 9 / 12, 12 / 12, 12 / 12],
         "Maximum dc-link \n Voltage": [
@@ -22,7 +22,8 @@ df = pd.DataFrame(
             1700 / 3300,
             1700 / 3300,
         ],
-        "Cost": [0.445, 0.6278, 0.6133, 1],
+        "Cost": [0.538, 0.708, 0.889, 1],
+        "LCOS": [0.2745, 0.3303, 0.3886, 0.4309],
     }
 )
 

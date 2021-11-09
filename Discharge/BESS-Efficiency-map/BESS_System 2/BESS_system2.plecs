@@ -51,29 +51,29 @@ Plecs {
 "CAgICUlTU9kZWxhZ2VtIG5vIGFycXVpdm8gLm0KCiUlIE1hbGhhIHJlYXRpdm8gICAgICAgICAKS2"
 "lxID0gMTIuNTY2NDsgICAgICAgICAlJU1PZGVsYWdlbSBubyBhcnF1aXZvIC5tCktwcSA9IC0wLjE"
 "2Mjk7ICAgICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQoKJSUgQmF0dGVyeQpOYl9zZXJp"
-"ZXMgPSA0NDsKTmJfc3RyaW5ncyA9IDI7ClNvY19taW4gPSAyMDsgICAgJSBTT0NbJV0KU29jX21he"
-"CA9IDEwMDsKVmRjbyA9IDEzLjYqTmJfc2VyaWVzOyAgICAgICAgICAgICAgICAgICAgICAgICUlIH"
-"RlbnPDo28gaW5pY2lhbCBkYy1saW5rClJpbnQgPSAoTmJfc2VyaWVzL05iX3N0cmluZ3MpKjUuMmU"
-"tMzsgICAlJVJlc2lzdMOqbmNpYSBpbnRlcm5hIHRvdGFsIGRhcyBiYXRlcmlhcwoKJSBEYy9kYyBQ"
-"YXJhbWV0ZXJzCkxiID0gMi4zZS0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSY"
-"iA9IDE4LjU5ZS0zOyAgICAgICAgICAgICAgJVJlc2lzdMOqbmNpYSBzw6lyaWUgZG8gaW5kdXRvcg"
-"pOID0gMzsgICAgICAgICAgICAgICAgICVOw7ptZXJvIGRlIGJyYcOnb3MgZG8gaW50ZXJsZWF2ZWQ"
-"KTl9lc3BpcmFzX2NjID0gMTk5OwpBcmVhX2NjID0gOTg3ZS02OyAgICAgICAKZnN3YiA9IDEyMDAw"
-"OwpUc2IgPSAxL2Zzd2I7CiUlR2FuaG9zIGRvIGNvbnRyb2xhZG9yIGRvIGRjL2RjCiUlIGdhbmhvI"
-"GNvbnRyb2xlIGRlIGNvcnJlbnRlIGRvIGJvb3N0IGUgYnVjawpLYyA9IFZkYy8oUmIrTipSaW50KT"
-"sKVG0gPSBMYi8oUmIrTipSaW50KTsKZmMgPSBmc3diLzEwOwpLcGIgPSAyKnBpKmZjKlRtL0tjOyA"
-"gICAgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWIgPSAyKnBpKmZjL0tjOyAgICAgICAg"
-"ICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJWdhbmhvIGNvbnRyb2xlIGRlIGNvcnJlbnRlI"
-"GRvIGJ1Y2sgKE1vZG8gY29ycmVudGUgY29uc3RhbnRlKQpLcGlidSA9IDIqcGkqZmMqVG0vS2M7IC"
-"AgICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWlidSA9IDIqcGkqZmMvS2M7ICAgICAgICA"
-"gJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJSBnYW5obyBjb250cm9sZSBkZSB0ZW5zw6NvIGRv"
-"IGJ1Y2sgKE1vZG8gdGVuc8OjbyBjb25zdGFudGUpCktlID0gTipSaW50OwpmYzEgPSAyMDsKZmMyI"
-"D0gZmMxLzIwOwpLcHZidSA9IDIqcGkqZmMyLygyKnBpKktlKihmYzEtZmMyKSk7ICAgICAgJSVNT2"
-"RlbGFnZW0gbm8gYXJxdWl2byAubQpLaXZidSA9IDIqcGkqZmMxKihLcHZidSk7ICAgICAgJSVNT2R"
-"lbGFnZW0gbm8gYXJxdWl2bwolJSBnYW5obyBjb250cm9sZSBkZSBwb3RlbmNpYSBubyBtb2RvIGRl"
-"IGRlc2NhcmdhCmZjcDEgPSBmYy8xMDsKZmNwMiA9IGZjcDEvMTA7ClZiYXRfbm9tID0gMTIqTmJfc"
-"2VyaWVzOwpLcHAgPSBmY3AyLyhOKlZiYXRfbm9tKihmY3AxLWZjcDIpKTsKS2lwID0gMipwaSpmY3"
-"AxKktwcDs="
+"ZXMgPSA3MDsKTmJfc3RyaW5ncyA9IDE7ClNvY19taW4gPSAwOyAgICAlIFNPQ1slXQpTb2NfbWF4I"
+"D0gMTAwOwpWZGNvID0gMTMuNipOYl9zZXJpZXM7ICAgICAgICAgICAgICAgICAgICAgICAgJSUgdG"
+"Vuc8OjbyBpbmljaWFsIGRjLWxpbmsKUmludCA9IChOYl9zZXJpZXMvTmJfc3RyaW5ncykqNS4yZS0"
+"zOyAgICUlUmVzaXN0w6puY2lhIGludGVybmEgdG90YWwgZGFzIGJhdGVyaWFzCgolIERjL2RjIFBh"
+"cmFtZXRlcnMKTGIgPSAyZS0zOyAgICAgICAgICAgICAgICAlSW5kdXRvciBkbyBCb29zdApSYiA9I"
+"DY0LjI3ZS0zOyAgICAgICAgICAgICAgJVJlc2lzdMOqbmNpYSBzw6lyaWUgZG8gaW5kdXRvcgpOID"
+"0gMzsgICAgICAgICAgICAgICAgICVOw7ptZXJvIGRlIGJyYcOnb3MgZG8gaW50ZXJsZWF2ZWQKTl9"
+"lc3BpcmFzX2NjID0gMTk1OwpBcmVhX2NjID0gOTg3ZS02OyAgICAgICAKZnN3YiA9IDEyMDAwOwpU"
+"c2IgPSAxL2Zzd2I7CiUlR2FuaG9zIGRvIGNvbnRyb2xhZG9yIGRvIGRjL2RjCiUlIGdhbmhvIGNvb"
+"nRyb2xlIGRlIGNvcnJlbnRlIGRvIGJvb3N0IGUgYnVjawpLYyA9IFZkYy8oUmIrTipSaW50KTsKVG"
+"0gPSBMYi8oUmIrTipSaW50KTsKZmMgPSBmc3diLzEwOwpLcGIgPSAyKnBpKmZjKlRtL0tjOyAgICA"
+"gICAgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWIgPSAyKnBpKmZjL0tjOyAgICAgICAgICAg"
+"JSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJWdhbmhvIGNvbnRyb2xlIGRlIGNvcnJlbnRlIGRvI"
+"GJ1Y2sgKE1vZG8gY29ycmVudGUgY29uc3RhbnRlKQpLcGlidSA9IDIqcGkqZmMqVG0vS2M7ICAgIC"
+"AgJSVNT2RlbGFnZW0gbm8gYXJxdWl2byAubQpLaWlidSA9IDIqcGkqZmMvS2M7ICAgICAgICAgJSV"
+"NT2RlbGFnZW0gbm8gYXJxdWl2byAubQolJSBnYW5obyBjb250cm9sZSBkZSB0ZW5zw6NvIGRvIGJ1"
+"Y2sgKE1vZG8gdGVuc8OjbyBjb25zdGFudGUpCktlID0gTipSaW50OwpmYzEgPSAyMDsKZmMyID0gZ"
+"mMxLzIwOwpLcHZidSA9IDIqcGkqZmMyLygyKnBpKktlKihmYzEtZmMyKSk7ICAgICAgJSVNT2RlbG"
+"FnZW0gbm8gYXJxdWl2byAubQpLaXZidSA9IDIqcGkqZmMxKihLcHZidSk7ICAgICAgJSVNT2RlbGF"
+"nZW0gbm8gYXJxdWl2bwolJSBnYW5obyBjb250cm9sZSBkZSBwb3RlbmNpYSBubyBtb2RvIGRlIGRl"
+"c2NhcmdhCmZjcDEgPSBmYy8xMDsKZmNwMiA9IGZjcDEvMTA7ClZiYXRfbm9tID0gMTIqTmJfc2Vya"
+"WVzOwpLcHAgPSBmY3AyLyhOKlZiYXRfbm9tKihmY3AxLWZjcDIpKTsKS2lwID0gMipwaSpmY3AxKk"
+"twcDs="
   InitialState  "1"
   SystemState   "AAAACAAAAAADAAAAEgBUAGkAbQBlAFMAdABhAG0AcAAAABAAACWFAgOHlFj/A"
 "AAAFgBTAHQAYQB0AGUAVgBlAGMAdABvAHIAAAB/AAAAABlQbGVjc0FycmF5OjpEb3VibGVWZWN0b3"
@@ -183,7 +183,7 @@ Plecs {
     Index         "15"
   }
   Schematic {
-    Location      [0, 30; 1280, 671]
+    Location      [1366, 30; 2726, 719]
     ZoomFactor    1
     SliderPosition [0, 0]
     ShowBrowser   off
@@ -5801,7 +5801,7 @@ Plecs {
         Direction     left
       }
       Schematic {
-        Location      [0, 30; 1280, 671]
+        Location      [1366, 30; 2726, 719]
         ZoomFactor    1
         SliderPosition [0, 0]
         ShowBrowser   off
@@ -9339,8 +9339,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9373,8 +9373,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9402,8 +9402,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9431,8 +9431,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9465,8 +9465,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9499,8 +9499,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9528,8 +9528,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9557,8 +9557,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9591,8 +9591,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9625,8 +9625,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_igbt_"
-"sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_igbt_sem_zt"
+"h"
             Show          off
           }
           Parameter {
@@ -9654,8 +9654,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9683,8 +9683,8 @@ Plecs {
           }
           Parameter {
             Variable      "thermal"
-            Value         "file:Infineon-FF650R17IE4D_B2-DS-v02_01-en_de_diodo"
-"_sem_zth"
+            Value         "file:Infineon-FF225R17ME4P-DS-v03_00-EN_diodo_sem_z"
+"th"
             Show          off
           }
           Parameter {
@@ -9863,8 +9863,1065 @@ Plecs {
           }
         }
         Component {
+          Type          Goto
+          Name          "Goto5"
+          Show          off
+          Position      [110, 380]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Soc"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "2"
+            Show          off
+          }
+        }
+        Component {
+          Type          Goto
+          Name          "Goto16"
+          Show          off
+          Position      [110, 345]
+          Direction     left
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Bat"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Sum
+          Name          "Sum"
+          Show          off
+          Position      [520, 240]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "IconShape"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Inputs"
+            Value         "+"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          PlecsProbe
+          Name          "Interleaved Currents3"
+          Show          off
+          Position      [60, 40]
+          Direction     right
+          Flipped       off
+        }
+        Component {
+          Type          Constant
+          Name          "Constant14"
+          Show          off
+          Position      [50, 135]
+          Direction     right
+          Flipped       off
+          Frame         [-45, -10; 45, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43/3"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From26"
+          Show          off
+          Position      [50, 205]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Vbat"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant15"
+          Show          off
+          Position      [55, 180]
+          Direction     right
+          Flipped       off
+          Frame         [-50, -10; 50, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "119.43"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalDemux
+          Name          "Demux2"
+          Show          off
+          Position      [295, 115]
+          Direction     right
+          Flipped       on
+          Parameter {
+            Variable      "Width"
+            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
+            Show          off
+          }
+        }
+        Component {
+          Type          SignalMux
+          Name          "Mux15"
+          Show          off
+          Position      [190, 115]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Width"
+            Value         "[3 1 1 1 1 1 1 1]"
+            Show          off
+          }
+        }
+        Component {
+          Type          From
+          Name          "From29"
+          Show          off
+          Position      [50, 230]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Tag"
+            Value         "Soc"
+            Show          off
+          }
+          Parameter {
+            Variable      "Visibility"
+            Value         "2"
+            Show          off
+          }
+        }
+        Component {
+          Type          Step
+          Name          "Step3"
+          Show          off
+          Position      [50, 85]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Time"
+            Value         "0.1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Before"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "After"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          CScript
+          Name          "Peak Detector45"
+          Show          off
+          Position      [240, 115]
+          Direction     up
+          Flipped       off
+          Parameter {
+            Variable      "DialogGeometry"
+            Value         "[370 177 520 322]"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumInputs"
+            Value         "10"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumOutputs"
+            Value         "19"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumContStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumDiscStates"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "NumZCSignals"
+            Value         "0"
+            Show          off
+          }
+          Parameter {
+            Variable      "DirectFeedthrough"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "Ts"
+            Value         "1/fdsp"
+            Show          off
+          }
+          Parameter {
+            Variable      "Parameters"
+            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
+"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
+            Show          off
+          }
+          Parameter {
+            Variable      "LangStandard"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "GnuExtensions"
+            Value         "1"
+            Show          off
+          }
+          Parameter {
+            Variable      "RuntimeCheck"
+            Value         "2"
+            Show          off
+          }
+          Parameter {
+            Variable      "Declarations"
+            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
+"\""
+            Show          off
+          }
+          Parameter {
+            Variable      "StartFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "OutputFcn"
+            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
+            Show          off
+          }
+          Parameter {
+            Variable      "UpdateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "DerivativeFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "TerminateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "StoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+          Parameter {
+            Variable      "RestoreCustomStateFcn"
+            Value         ""
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope1"
+          Show          off
+          Position      [160, 25]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1360, 748]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAVQAAA"
+"AefwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVAAAABEAP///wAABVAAAAIp"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL8AMAAAAGA"
+"AAABAAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAAIAAAAZAAAAAkAAABkAAAFUAAAAAsBAA"
+"ABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACUAAAAAQAAAAAAAABkAAAAAQAAAAAAAAB"
+"kAAAAAQAAAAAAAABkAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAOQAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
           Type          Subsystem
-          Name          "Batteries"
+          Name          "Delay3"
+          Show          off
+          Position      [435, 95]
+          Direction     up
+          Flipped       off
+          Frame         [-20, -30; 20, 30]
+          LabelPosition [0, 0]
+          SampleTime    "-1"
+          CodeGenDiscretizationMethod "2"
+          CodeGenTarget "Generic"
+          MaskIconFrame on
+          MaskIconOpaque off
+          MaskIconRotates on
+          Terminal {
+            Type          Output
+            Position      [24, -25]
+            Direction     right
+          }
+          Terminal {
+            Type          Output
+            Position      [24, -15]
+            Direction     right
+          }
+          Terminal {
+            Type          Output
+            Position      [24, -5]
+            Direction     right
+          }
+          Terminal {
+            Type          Output
+            Position      [24, 5]
+            Direction     right
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, 5]
+            Direction     left
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, -5]
+            Direction     left
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, -15]
+            Direction     left
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, -25]
+            Direction     left
+          }
+          Terminal {
+            Type          Output
+            Position      [24, 15]
+            Direction     right
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, 15]
+            Direction     left
+          }
+          Terminal {
+            Type          Output
+            Position      [24, 25]
+            Direction     right
+          }
+          Terminal {
+            Type          Input
+            Position      [-20, 25]
+            Direction     left
+          }
+          Schematic {
+            Location      [0, 27; 1366, 691]
+            ZoomFactor    1
+            SliderPosition [0, 0]
+            ShowBrowser   off
+            BrowserWidth  100
+            Component {
+              Type          Delay
+              Name          "Delay"
+              Show          off
+              Position      [70, 70]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "1out"
+              Show          on
+              Position      [120, 70]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "1"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "2out"
+              Show          on
+              Position      [120, 100]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "2"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "3out"
+              Show          on
+              Position      [120, 130]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "3"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "4out"
+              Show          on
+              Position      [120, 160]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "4"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "4"
+              Show          on
+              Position      [20, 160]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "5"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "3"
+              Show          on
+              Position      [20, 130]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "6"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "2"
+              Show          on
+              Position      [20, 100]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "7"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "1"
+              Show          on
+              Position      [20, 70]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "8"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Delay
+              Name          "Delay1"
+              Show          off
+              Position      [70, 100]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Component {
+              Type          Delay
+              Name          "Delay2"
+              Show          off
+              Position      [70, 130]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Component {
+              Type          Delay
+              Name          "Delay3"
+              Show          off
+              Position      [70, 160]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "4out1"
+              Show          on
+              Position      [120, 195]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "9"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "5"
+              Show          on
+              Position      [20, 195]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "10"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Delay
+              Name          "Delay4"
+              Show          off
+              Position      [70, 195]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Component {
+              Type          Output
+              Name          "4out2"
+              Show          on
+              Position      [120, 230]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "11"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Input
+              Name          "6"
+              Show          on
+              Position      [20, 230]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "Index"
+                Value         "12"
+                Show          on
+              }
+              Parameter {
+                Variable      "Width"
+                Value         "-1"
+                Show          off
+              }
+            }
+            Component {
+              Type          Delay
+              Name          "Delay5"
+              Show          off
+              Position      [70, 230]
+              Direction     right
+              Flipped       off
+              Parameter {
+                Variable      "N"
+                Value         "1"
+                Show          off
+              }
+              Parameter {
+                Variable      "X0"
+                Value         "0"
+                Show          off
+              }
+              Parameter {
+                Variable      "Ts"
+                Value         "passo"
+                Show          off
+              }
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay"
+              SrcTerminal   2
+              DstComponent  "1out"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay1"
+              SrcTerminal   2
+              DstComponent  "2out"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay2"
+              SrcTerminal   2
+              DstComponent  "3out"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay3"
+              SrcTerminal   2
+              DstComponent  "4out"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "4"
+              SrcTerminal   1
+              DstComponent  "Delay3"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "3"
+              SrcTerminal   1
+              DstComponent  "Delay2"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "2"
+              SrcTerminal   1
+              DstComponent  "Delay1"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "1"
+              SrcTerminal   1
+              DstComponent  "Delay"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay4"
+              SrcTerminal   2
+              DstComponent  "4out1"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "5"
+              SrcTerminal   1
+              DstComponent  "Delay4"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "Delay5"
+              SrcTerminal   2
+              DstComponent  "4out2"
+              DstTerminal   1
+            }
+            Connection {
+              Type          Signal
+              SrcComponent  "6"
+              SrcTerminal   1
+              DstComponent  "Delay5"
+              DstTerminal   1
+            }
+          }
+        }
+        Component {
+          Type          Input
+          Name          "Reset"
+          Show          on
+          Position      [40, 260]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "3"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope2"
+          Show          off
+          Position      [355, 50]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
+"AJAAAAZAAAAAgAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Constant
+          Name          "Constant16"
+          Show          off
+          Position      [40, 300]
+          Direction     right
+          Flipped       off
+          Frame         [-35, -10; 35, 10]
+          LabelPosition [0, 13]
+          LabelAlign    up
+          Parameter {
+            Variable      "Value"
+            Value         "Pref"
+            Show          off
+          }
+          Parameter {
+            Variable      "DataType"
+            Value         "10"
+            Show          off
+          }
+        }
+        Component {
+          Type          Scope
+          Name          "Scope3"
+          Show          off
+          Position      [375, 165]
+          Direction     up
+          Flipped       off
+          Location      [0, 37; 1280, 700]
+          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
+"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
+"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
+"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
+"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
+"AAAAAAAAA=="
+          SavedViews    "AAAAAgAAAAA="
+          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
+"AAACAAAAGQAAAAJAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAAAgAAAGQAAA"
+"ADAAAAZAAAAAEAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
+"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
+"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
+"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
+          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
+"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
+"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
+"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
+          Axes          "1"
+          TimeRange     "0.0"
+          ScrollingMode "1"
+          SingleTimeAxis "1"
+          Open          "0"
+          Ts            "-1"
+          SampleLimit   "0"
+          XAxisLabel    ""
+          ShowLegend    "1"
+          Axis {
+            Name          ""
+            AutoScale     1
+            MinValue      0
+            MaxValue      1
+            Signals       {}
+            SignalTypes   [ ]
+            Untangle      0
+            KeepBaseline  off
+            BaselineValue 0
+          }
+          Fourier {
+            SingleXAxis       on
+            AxisLabel         "Frequency"
+            Scaling           0
+            PhaseDisplay      0
+            ShowFourierLegend off
+            Axis {
+              Name          ""
+              AutoScale     1
+              MinValue      0
+              MaxValue      1
+              Signals       {}
+              Untangle      0
+              KeepBaseline  off
+              BaselineValue 0
+            }
+          }
+        }
+        Component {
+          Type          Subsystem
+          Name          "Batteries: \nSys2"
           Show          on
           Position      [215, 395]
           Direction     down
@@ -9891,7 +10948,7 @@ Plecs {
             Variable      "Q"
             Prompt        "Rated capacity Qn [Ah]"
             Type          FreeText
-            Value         "90"
+            Value         "119.43"
             Show          off
             Tunable       off
             TabName       ""
@@ -9909,7 +10966,7 @@ Plecs {
             Variable      "r"
             Prompt        "r = Qmax/Qn"
             Type          FreeText
-            Value         "1.15625"
+            Value         "1.144853051997"
             Show          off
             Tunable       off
             TabName       ""
@@ -9918,7 +10975,7 @@ Plecs {
             Variable      "E0"
             Prompt        "Constant voltage E0 [V]"
             Type          FreeText
-            Value         "12.765232686141"
+            Value         "12.907115291008"
             Show          off
             Tunable       off
             TabName       ""
@@ -9936,7 +10993,7 @@ Plecs {
             Variable      "K"
             Prompt        "Polarization constant K"
             Type          FreeText
-            Value         "0.0013105373231569"
+            Value         "0.00090002196609081"
             Show          off
             Tunable       off
             TabName       ""
@@ -9945,7 +11002,7 @@ Plecs {
             Variable      "A"
             Prompt        "Exponential Voltage A [V] "
             Type          FreeText
-            Value         "0.76856731385903"
+            Value         "0.77972070899195"
             Show          off
             Tunable       off
             TabName       ""
@@ -10020,7 +11077,7 @@ Plecs {
             Direction     right
           }
           Schematic {
-            Location      [0, 30; 1280, 671]
+            Location      [0, 55; 1366, 719]
             ZoomFactor    1
             SliderPosition [0, 50]
             ShowBrowser   off
@@ -10056,9 +11113,9 @@ Plecs {
                 Direction     left
               }
               Schematic {
-                Location      [0, 30; 1280, 671]
+                Location      [0, 55; 1366, 719]
                 ZoomFactor    1
-                SliderPosition [214, 0]
+                SliderPosition [110, 0]
                 ShowBrowser   off
                 BrowserWidth  100
                 Component {
@@ -10425,7 +11482,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [104, 121; 658, 367]
+                    Location      [104, 121; 658, 366]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -10804,12 +11861,6 @@ Plecs {
                       DstComponent  "1"
                       DstTerminal   1
                     }
-                    Annotation {
-                      Name          base64 "QSBlcXVhw6fDo28gZGUgY2FyZ2EgZGEgYm"
-"F0ZXJpYSBkZSBjaHVtYm8gZm9pIG11bHRpcGxpY2FkYSBwb3IgMTEgcGFyYSBhanVzdGFyIGEgY3V"
-"ydmEgZGUgY2FyZ2Eg"
-                      Position      [240, 215]
-                    } 
                   }
                 }
                 Component {
@@ -10861,7 +11912,7 @@ Plecs {
                     Direction     left
                   }
                   Schematic {
-                    Location      [0, 0; 669, 322]
+                    Location      [150, 187; 819, 509]
                     ZoomFactor    1
                     SliderPosition [0, 0]
                     ShowBrowser   off
@@ -13819,1063 +14870,6 @@ Plecs {
             } 
           }
         }
-        Component {
-          Type          Goto
-          Name          "Goto5"
-          Show          off
-          Position      [110, 380]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Soc"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "2"
-            Show          off
-          }
-        }
-        Component {
-          Type          Goto
-          Name          "Goto16"
-          Show          off
-          Position      [110, 345]
-          Direction     left
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Bat"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Sum
-          Name          "Sum"
-          Show          off
-          Position      [520, 240]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "IconShape"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Inputs"
-            Value         "+"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          PlecsProbe
-          Name          "Interleaved Currents3"
-          Show          off
-          Position      [60, 40]
-          Direction     right
-          Flipped       off
-        }
-        Component {
-          Type          Constant
-          Name          "Constant14"
-          Show          off
-          Position      [50, 135]
-          Direction     right
-          Flipped       off
-          Frame         [-45, -10; 45, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "30*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From26"
-          Show          off
-          Position      [50, 205]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Vbat"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant15"
-          Show          off
-          Position      [55, 180]
-          Direction     right
-          Flipped       off
-          Frame         [-50, -10; 50, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "90*Nb_strings"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalDemux
-          Name          "Demux2"
-          Show          off
-          Position      [295, 115]
-          Direction     right
-          Flipped       on
-          Parameter {
-            Variable      "Width"
-            Value         "[4 1 1 1 1 1 1 2 2 3 2]"
-            Show          off
-          }
-        }
-        Component {
-          Type          SignalMux
-          Name          "Mux15"
-          Show          off
-          Position      [190, 115]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Width"
-            Value         "[3 1 1 1 1 1 1 1]"
-            Show          off
-          }
-        }
-        Component {
-          Type          From
-          Name          "From29"
-          Show          off
-          Position      [50, 230]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Tag"
-            Value         "Soc"
-            Show          off
-          }
-          Parameter {
-            Variable      "Visibility"
-            Value         "2"
-            Show          off
-          }
-        }
-        Component {
-          Type          Step
-          Name          "Step3"
-          Show          off
-          Position      [50, 85]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Time"
-            Value         "0.1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Before"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "After"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          CScript
-          Name          "Peak Detector45"
-          Show          off
-          Position      [240, 115]
-          Direction     up
-          Flipped       off
-          Parameter {
-            Variable      "DialogGeometry"
-            Value         "[370 177 520 322]"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumInputs"
-            Value         "10"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumOutputs"
-            Value         "19"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumContStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumDiscStates"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "NumZCSignals"
-            Value         "0"
-            Show          off
-          }
-          Parameter {
-            Variable      "DirectFeedthrough"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "Ts"
-            Value         "1/fdsp"
-            Show          off
-          }
-          Parameter {
-            Variable      "Parameters"
-            Value         "fswb,Tsb,fdsp,Kpb,Kib,Kpvbu,Kivbu,Kpibu,Kiibu,Soc_m"
-"in,Soc_max,Nb_series,Nb_strings, Kpp, Kip"
-            Show          off
-          }
-          Parameter {
-            Variable      "LangStandard"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "GnuExtensions"
-            Value         "1"
-            Show          off
-          }
-          Parameter {
-            Variable      "RuntimeCheck"
-            Value         "2"
-            Show          off
-          }
-          Parameter {
-            Variable      "Declarations"
-            Value         "#include \"c_scripts/Code_declaration_interleaved.h"
-"\""
-            Show          off
-          }
-          Parameter {
-            Variable      "StartFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "OutputFcn"
-            Value         "#include \"c_scripts/Code_Output_interleaved.c\""
-            Show          off
-          }
-          Parameter {
-            Variable      "UpdateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "DerivativeFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "TerminateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "StoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-          Parameter {
-            Variable      "RestoreCustomStateFcn"
-            Value         ""
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope1"
-          Show          off
-          Position      [160, 25]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1360, 748]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAVQAAA"
-"AefwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQBAAAAAAAABVAAAABEAP///wAABVAAAAIp"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL8AMAAAAGA"
-"AAABAAAAGQAAAAFAAAAZAAAAAYAAABkAAAABwAAAGQAAAAIAAAAZAAAAAkAAABkAAAFUAAAAAsBAA"
-"ABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACUAAAAAQAAAAAAAABkAAAAAQAAAAAAAAB"
-"kAAAAAQAAAAAAAABkAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAOQAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Subsystem
-          Name          "Delay3"
-          Show          off
-          Position      [435, 95]
-          Direction     up
-          Flipped       off
-          Frame         [-20, -30; 20, 30]
-          LabelPosition [0, 0]
-          SampleTime    "-1"
-          CodeGenDiscretizationMethod "2"
-          CodeGenTarget "Generic"
-          MaskIconFrame on
-          MaskIconOpaque off
-          MaskIconRotates on
-          Terminal {
-            Type          Output
-            Position      [24, -25]
-            Direction     right
-          }
-          Terminal {
-            Type          Output
-            Position      [24, -15]
-            Direction     right
-          }
-          Terminal {
-            Type          Output
-            Position      [24, -5]
-            Direction     right
-          }
-          Terminal {
-            Type          Output
-            Position      [24, 5]
-            Direction     right
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, 5]
-            Direction     left
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, -5]
-            Direction     left
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, -15]
-            Direction     left
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, -25]
-            Direction     left
-          }
-          Terminal {
-            Type          Output
-            Position      [24, 15]
-            Direction     right
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, 15]
-            Direction     left
-          }
-          Terminal {
-            Type          Output
-            Position      [24, 25]
-            Direction     right
-          }
-          Terminal {
-            Type          Input
-            Position      [-20, 25]
-            Direction     left
-          }
-          Schematic {
-            Location      [0, 27; 1366, 691]
-            ZoomFactor    1
-            SliderPosition [0, 0]
-            ShowBrowser   off
-            BrowserWidth  100
-            Component {
-              Type          Delay
-              Name          "Delay"
-              Show          off
-              Position      [70, 70]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "1out"
-              Show          on
-              Position      [120, 70]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "1"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "2out"
-              Show          on
-              Position      [120, 100]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "2"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "3out"
-              Show          on
-              Position      [120, 130]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "3"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "4out"
-              Show          on
-              Position      [120, 160]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "4"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "4"
-              Show          on
-              Position      [20, 160]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "5"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "3"
-              Show          on
-              Position      [20, 130]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "6"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "2"
-              Show          on
-              Position      [20, 100]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "7"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "1"
-              Show          on
-              Position      [20, 70]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "8"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Delay
-              Name          "Delay1"
-              Show          off
-              Position      [70, 100]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Component {
-              Type          Delay
-              Name          "Delay2"
-              Show          off
-              Position      [70, 130]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Component {
-              Type          Delay
-              Name          "Delay3"
-              Show          off
-              Position      [70, 160]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "4out1"
-              Show          on
-              Position      [120, 195]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "9"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "5"
-              Show          on
-              Position      [20, 195]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "10"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Delay
-              Name          "Delay4"
-              Show          off
-              Position      [70, 195]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Component {
-              Type          Output
-              Name          "4out2"
-              Show          on
-              Position      [120, 230]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "11"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Input
-              Name          "6"
-              Show          on
-              Position      [20, 230]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "Index"
-                Value         "12"
-                Show          on
-              }
-              Parameter {
-                Variable      "Width"
-                Value         "-1"
-                Show          off
-              }
-            }
-            Component {
-              Type          Delay
-              Name          "Delay5"
-              Show          off
-              Position      [70, 230]
-              Direction     right
-              Flipped       off
-              Parameter {
-                Variable      "N"
-                Value         "1"
-                Show          off
-              }
-              Parameter {
-                Variable      "X0"
-                Value         "0"
-                Show          off
-              }
-              Parameter {
-                Variable      "Ts"
-                Value         "passo"
-                Show          off
-              }
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay"
-              SrcTerminal   2
-              DstComponent  "1out"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay1"
-              SrcTerminal   2
-              DstComponent  "2out"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay2"
-              SrcTerminal   2
-              DstComponent  "3out"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay3"
-              SrcTerminal   2
-              DstComponent  "4out"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "4"
-              SrcTerminal   1
-              DstComponent  "Delay3"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "3"
-              SrcTerminal   1
-              DstComponent  "Delay2"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "2"
-              SrcTerminal   1
-              DstComponent  "Delay1"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "1"
-              SrcTerminal   1
-              DstComponent  "Delay"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay4"
-              SrcTerminal   2
-              DstComponent  "4out1"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "5"
-              SrcTerminal   1
-              DstComponent  "Delay4"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "Delay5"
-              SrcTerminal   2
-              DstComponent  "4out2"
-              DstTerminal   1
-            }
-            Connection {
-              Type          Signal
-              SrcComponent  "6"
-              SrcTerminal   1
-              DstComponent  "Delay5"
-              DstTerminal   1
-            }
-          }
-        }
-        Component {
-          Type          Input
-          Name          "Reset"
-          Show          on
-          Position      [40, 260]
-          Direction     right
-          Flipped       off
-          Parameter {
-            Variable      "Index"
-            Value         "3"
-            Show          on
-          }
-          Parameter {
-            Variable      "Width"
-            Value         "-1"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope2"
-          Show          off
-          Position      [355, 50]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1280, 700]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAABwAAAGQAAAAGAAAAZAAAAAUAAABkAAAABAAAAGQAAAADAAAAZAAAAAIAAABkAAAAAQAAAGQAAA"
-"AJAAAAZAAAAAgAAABkAAAAwQAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"oAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
-        Component {
-          Type          Constant
-          Name          "Constant16"
-          Show          off
-          Position      [40, 300]
-          Direction     right
-          Flipped       off
-          Frame         [-35, -10; 35, 10]
-          LabelPosition [0, 13]
-          LabelAlign    up
-          Parameter {
-            Variable      "Value"
-            Value         "Pref"
-            Show          off
-          }
-          Parameter {
-            Variable      "DataType"
-            Value         "10"
-            Show          off
-          }
-        }
-        Component {
-          Type          Scope
-          Name          "Scope3"
-          Show          off
-          Position      [375, 165]
-          Direction     up
-          Flipped       off
-          Location      [0, 37; 1280, 700]
-          State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAb"
-"wBvAG0AQQByAGUAYQAAAAAA/////wAAADEA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAA"
-"AA/////wAAAGMA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAABjAP///wAAAAMAAAAAAAA"
-"AAPwBAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAP////8AAABEAP///wAABQAAAAJ4"
-"AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AA"
-"AAAAAAAAA=="
-          SavedViews    "AAAAAgAAAAA="
-          HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJA"
-"AAACAAAAGQAAAAJAAAAZAAAAAYAAABkAAAABwAAAGQAAAAEAAAAZAAAAAUAAABkAAAAAgAAAGQAAA"
-"ADAAAAZAAAAAEAAABkAAAAyAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAAC"
-"vAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA"
-"AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAA"
-"AAAAAAZAAAAAQAAAAAAAAPoAAAAABk="
-          PlotPalettes  "AAAAAQAAAAMAAAABAAAAAwAAAAEC//8u4P//zMwAAAAAAAEC//8AA"
-"P////8AAAAAAAEC//9PsP////8AAAAAAAMAAAABAAAAAAEAAAAAAQAAAAADAAAAAQAAAAEAAAABAA"
-"AAAQAAAAEAAAABAAAAAwAAAAEAAAAAAQAAAAABAAAAAAMAAAABQAAAAAAAAAAAAAABQAAAAAAAAAA"
-"AAAABQAAAAAAAAAAAAAADAAAAAQAAAAABAAAAAAEA"
-          Axes          "1"
-          TimeRange     "0.0"
-          ScrollingMode "1"
-          SingleTimeAxis "1"
-          Open          "0"
-          Ts            "-1"
-          SampleLimit   "0"
-          XAxisLabel    ""
-          ShowLegend    "1"
-          Axis {
-            Name          ""
-            AutoScale     1
-            MinValue      0
-            MaxValue      1
-            Signals       {}
-            SignalTypes   [ ]
-            Untangle      0
-            KeepBaseline  off
-            BaselineValue 0
-          }
-          Fourier {
-            SingleXAxis       on
-            AxisLabel         "Frequency"
-            Scaling           0
-            PhaseDisplay      0
-            ShowFourierLegend off
-            Axis {
-              Name          ""
-              AutoScale     1
-              MinValue      0
-              MaxValue      1
-              Signals       {}
-              Untangle      0
-              KeepBaseline  off
-              BaselineValue 0
-            }
-          }
-        }
         Connection {
           Type          Signal
           SrcComponent  "Sum1"
@@ -15076,7 +15070,7 @@ Plecs {
               Branch {
                 Points        [315, 425]
                 Branch {
-                  DstComponent  "Batteries"
+                  DstComponent  "Batteries: \nSys2"
                   DstTerminal   2
                 }
                 Branch {
@@ -15306,7 +15300,7 @@ Plecs {
         }
         Connection {
           Type          Signal
-          SrcComponent  "Batteries"
+          SrcComponent  "Batteries: \nSys2"
           SrcTerminal   3
           Points        [160, 415]
           Branch {
@@ -15321,7 +15315,7 @@ Plecs {
         }
         Connection {
           Type          Wire
-          SrcComponent  "Batteries"
+          SrcComponent  "Batteries: \nSys2"
           SrcTerminal   1
           DstComponent  "Am3"
           DstTerminal   1
