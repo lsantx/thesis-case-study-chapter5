@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from math import pi
 
+%matplotlib
 # Set data
 df = pd.DataFrame(
     {
@@ -23,7 +24,7 @@ df = pd.DataFrame(
             1700 / 3300,
         ],
         "Cost": [0.538, 0.708, 0.889, 1],
-        "LCOS": [0.2745, 0.3303, 0.3886, 0.4309],
+        "LCOS": [0.2745 / 0.4309, 0.3303 / 0.4309, 0.3886 / 0.4309, 0.4309 / 0.4309],
     }
 )
 
@@ -92,7 +93,5 @@ ax.fill(angles, values, "r", alpha=0.1)
 plt.legend(loc="upper right", bbox_to_anchor=(-0.01, 1.16), fontsize=14)
 
 # Show the graph
-plt.show(block=False)
-input("hit[enter] to end.")
-plt.close("all")
+plt.show()
 # %%
