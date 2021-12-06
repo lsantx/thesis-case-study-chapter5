@@ -29,13 +29,14 @@ pref = np.array(
 )
 soc = np.array([20, 30, 40, 50, 60, 70, 80, 90, 100])
 
+%matplotlib
 fig, ax1 = plt.subplots(1, 1)
 fig.set_size_inches(8, 6)
 
 efficiency = np.round(efficiency, decimals=2)
 
 N = 1000  # Number of levels
-levels = np.unique(np.round(np.linspace(87.5, 94.215, num=N, endpoint=True), decimals=2))
+levels = np.unique(np.round(np.linspace(90, 95, num=N, endpoint=True), decimals=2))
 count1 = ax1.contourf(soc, pref / pnom, efficiency, levels, extend="min", cmap="jet")
 ax1.set_xlabel("Soc [%]", fontsize=18)
 ax1.set_ylabel("Power [pu]", fontsize=18)
@@ -48,6 +49,3 @@ cbar.ax.tick_params(labelsize=18)  # set your label size here
 for c in count1.collections:
     c.set_edgecolor("face")  
 fig.tight_layout()
-plt.show(block=False)
-input("hit[enter] to end.")
-plt.close("all")
